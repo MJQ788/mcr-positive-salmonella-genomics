@@ -1,0 +1,1515 @@
+BioProject,BioSample,Assembly,Collection date,Continent,Country,Isolation source,Serotype,mcr subtype,MLST,Risk_group
+PRJNA242614,SAMN03894065,GCA_001240225.1,2013,North America,USA,Chicken,Saintpaul,mcr-9,27,Baseline
+PRJNA242614,SAMN03894070,GCA_001240335.1,2013,North America,USA,Chicken,Saintpaul,mcr-9,27,Baseline
+PRJNA242614,SAMN03894139,GCA_001241665.1,2013,North America,USA,Chicken,Saintpaul,mcr-9,27,Baseline
+PRJNA242614,SAMN03894160,GCA_001242115.1,2013,North America,USA,Chicken,Saintpaul,mcr-9,27,Baseline
+PRJNA242614,SAMN03894184,GCA_001242655.1,2013,North America,USA,Chicken,Saintpaul,mcr-9,27,Baseline
+PRJNA242614,SAMN03894202,GCA_001243085.1,2013,North America,USA,Chicken,Saintpaul,mcr-9,27,Baseline
+PRJNA242614,SAMN03894209,GCA_001243195.1,2013,North America,USA,Chicken,Saintpaul,mcr-9,27,Baseline
+PRJNA242614,SAMN03894211,GCA_001243205.1,2013,North America,USA,Chicken,Saintpaul,mcr-9,27,Baseline
+PRJNA242614,SAMN03894249,GCA_001243905.1,2013,North America,USA,Chicken,Saintpaul,mcr-9,27,Baseline
+PRJNA242614,SAMN03894303,GCA_001245335.1,2013,North America,USA,Chicken,Saintpaul,mcr-9,27,Baseline
+PRJNA242614,SAMN03894382,GCA_001247105.1,2013,North America,USA,Chicken,Saintpaul,mcr-9,27,Baseline
+PRJNA242614,SAMN03894362,GCA_001272375.1,2013,North America,USA,Chicken,Heidelberg,mcr-9,15,High-Res only
+PRJNA296856,SAMN04110137,GCA_001466365.1,2012,Europe,France,Chicken,Paratyphi B var. Java,mcr-1,28,Baseline
+PRJNA296856,SAMN04110140,GCA_001466375.1,2012,Europe,France,Environment,"I 1,4,[5],12:i:-",mcr-1,34,Baseline
+PRJNA242614,SAMN02912008,GCA_001473915.1,2012,North America,USA,Human,Braenderup,mcr-9,22,Baseline
+PRJNA242614,SAMN02699202,GCA_001477905.1,2011,North America,USA,Chicken,Saintpaul,mcr-9,27,Baseline
+PRJNA242614,SAMN02699240,GCA_001478155.1,2011,North America,USA,Chicken,Saintpaul,mcr-9,27,Baseline
+PRJNA242614,SAMN02699255,GCA_001478225.1,2011,North America,USA,Chicken,Saintpaul,mcr-9,27,Baseline
+PRJNA242614,SAMN02699258,GCA_001478245.1,2011,North America,USA,Chicken,Saintpaul,mcr-9,27,High-Res only
+PRJNA242614,SAMN02699330,GCA_001478525.1,2012,North America,USA,Chicken,Schwarzengrund,mcr-9,96,Baseline
+PRJNA242614,SAMN02699206,GCA_001478745.1,2011,North America,USA,Chicken,Saintpaul,mcr-9,27,Baseline
+PRJNA242614,SAMN02699207,GCA_001478765.1,2011,North America,USA,Chicken,Saintpaul,mcr-9,27,Baseline
+PRJNA242614,SAMN02699241,GCA_001479205.1,2011,North America,USA,Chicken,Saintpaul,mcr-9,27,Baseline
+PRJNA242614,SAMN02699244,GCA_001479265.1,2011,North America,USA,Chicken,Heidelberg,mcr-9,15,Baseline
+PRJNA242614,SAMN02699356,GCA_001481155.1,2012,North America,USA,Chicken,Mbandaka,mcr-9,413,Baseline
+PRJNA296856,SAMN04110139,GCA_001614025.1,2012,Europe,France,Environment,"I 1,4,[5],12:i:-",mcr-1,34,Baseline
+PRJNA296856,SAMN04110138,GCA_001614105.1,2012,Europe,France,Environment,Schwarzengrund,mcr-5,96,Baseline
+PRJNA203445,SAMN02368003,GCA_002030545.1,2011,North America,USA,Chicken,Saintpaul,mcr-9,27,Baseline
+PRJNA203445,SAMN02367985,GCA_002031105.1,2011,North America,USA,Chicken,Saintpaul,mcr-9,27,Baseline
+PRJNA203445,SAMN02367974,GCA_002031275.1,2011,North America,USA,Chicken,Saintpaul,mcr-9,27,Baseline
+PRJNA203445,SAMN02367984,GCA_002032665.1,2011,North America,USA,Chicken,Saintpaul,mcr-9,27,Baseline
+PRJNA203445,SAMN02368547,GCA_002065885.1,2011,Africa,Ethiopia,Human,Concord,mcr-9,599,High-Res only
+PRJNA308370,SAMN04394777,GCA_002091095.1,2010,North America,USA,Human,Typhimurium,mcr-9,19,Hybrid
+PRJNA308370,SAMN04394784,GCA_002091285.1,2008,North America,USA,Human,Typhimurium,mcr-3,34,High-Res only
+PRJNA393900,SAMN07344413,GCA_002224405.1,2013,Asia,China,Chicken,Indiana,mcr-1,17,High-Res only
+PRJNA380613,SAMN06645218,GCA_002238275.1,2008,Europe,Germany,Chicken,Paratyphi B var. Java,mcr-1,28,Baseline
+PRJNA343664,SAMN05792027,GCA_002283535.1,2016,South America,Colombia,Human,"I 1,4,[5],12:i:-",mcr-1,34,High-Res only
+PRJNA343664,SAMN05792026,GCA_002283545.1,2015,South America,Colombia,Human,"I 1,4,[5],12:i:-",mcr-1,34,High-Res only
+PRJNA343664,SAMN05792025,GCA_002283795.1,2015,South America,Colombia,Human,"I 1,4,[5],12:i:-",mcr-1,34,High-Res only
+PRJNA186035,SAMN08663434,GCA_003030125.1,2009,North America,USA,Chicken,Bovismorbificans,mcr-1,142,Baseline
+PRJNA433689,SAMN08514455,GCA_003077195.1,2015,North America,USA,Human,"I 1,4,[5],12:i:-",mcr-9,34,High-Res only
+PRJNA433689,SAMN08514441,GCA_003077475.1,2014,North America,USA,Human,Rubislaw,mcr-9,2388,High-Res only
+PRJNA433689,SAMN08514249,GCA_003117295.1,2007,North America,USA,Human,Agona,mcr-9,13,High-Res only
+PRJNA433689,SAMN08514381,GCA_003118725.1,2011,North America,USA,Human,Agona,mcr-9,13,High-Res only
+PRJNA433689,SAMN08514345,GCA_003119455.1,2010,North America,USA,Human,Rubislaw,mcr-9,2388,High-Res only
+PRJNA433689,SAMN08514336,GCA_003119635.1,2009,North America,USA,Human,Rubislaw,mcr-9,2388,High-Res only
+PRJNA433689,SAMN08514310,GCA_003120155.1,2008,North America,USA,Human,Agona,mcr-9,13,High-Res only
+PRJNA433689,SAMN08514288,GCA_003120635.1,2008,North America,USA,Human,Agona,mcr-9,13,High-Res only
+PRJNA433689,SAMN08514267,GCA_003120995.1,2008,North America,USA,Human,Anatum,mcr-9,64,High-Res only
+PRJNA312617,SAMN10083767,GCA_003600105.1,2006,North America,USA,Human,Schwarzengrund,mcr-9,96,Baseline
+PRJNA183850,SAMN02777831,GCA_003870555.1,2004,North America,USA,Chicken,Schwarzengrund,mcr-9,96,Baseline
+PRJNA248792,SAMN04600789,GCA_003871435.1,2015,Europe,United Kingdom,Human,Paratyphi B var. Java,mcr-1,42,Baseline
+PRJNA248792,SAMN09403215,GCA_003888015.1,2018,Europe,United Kingdom,Human,"I 1,4,[5],12:i:-",mcr-1,34,Baseline
+PRJNA248792,SAMN09431379,GCA_003889515.1,2015,Europe,United Kingdom,Human,Typhimurium,mcr-3,36,High-Res only
+PRJNA248792,SAMN10173302,GCA_003899035.1,2018,Europe,United Kingdom,Human,"I 1,4,[5],12:i:-",mcr-1,34,Baseline
+PRJNA508957,SAMN10534284,GCA_004025755.1,2014,South America,Brazil,Chicken,Saintpaul,mcr-1,50,High-VF only
+PRJNA498334,SAMN10291586,GCA_004124175.2,2016,Asia,China,Egg,Typhimurium,mcr-1,34,Hybrid
+PRJNA248792,SAMN09257976,GCA_004158655.1,2016,Europe,United Kingdom,Human,Typhimurium,mcr-9,19,High-Res only
+PRJNA248792,SAMN09257907,GCA_004160195.1,2015,Europe,United Kingdom,Human,Paratyphi B var. Java,mcr-9,28,Baseline
+PRJNA248792,SAMN09267023,GCA_004160855.1,2018,Europe,United Kingdom,Human,Typhimurium,mcr-9,19,High-Res only
+PRJNA186035,SAMN09267392,GCA_004163025.1,2013,North America,USA,Chicken,Albany,mcr-9,292,Baseline
+PRJNA248792,SAMN09386323,GCA_004164035.1,2017,Europe,United Kingdom,Human,Typhimurium,mcr-9,19,High-Res only
+PRJNA183847,SAMN02261148,GCA_004186495.1,2010,North America,USA,Chicken,Saintpaul,mcr-9,27,Baseline
+PRJNA248792,SAMN09484554,GCA_004187075.1,2016,Europe,United Kingdom,Human,Typhimurium,mcr-3,36,High-Res only
+PRJNA248792,SAMN09493572,GCA_004188575.1,2017,Europe,United Kingdom,Human,Typhimurium,mcr-9,19,High-Res only
+PRJNA248792,SAMN09601696,GCA_004191975.1,2016,Europe,United Kingdom,Human,"I 1,4,[5],12:i:-",mcr-1,34,High-Res only
+PRJNA183850,SAMN08387115,GCA_004218805.1,2017,South America,Brazil,Environment,Livingstone,mcr-9,457,High-Res only
+PRJNA292661,SAMN10132824,GCA_004278955.1,2017,North America,USA,Chicken,Heidelberg,mcr-9,15,Baseline
+PRJNA186035,SAMN06175255,GCA_005436815.1,2016,North America,USA,Chicken,Ouakam,mcr-9,1610,Baseline
+PRJNA186035,SAMN09221958,GCA_005438495.1,2017,North America,USA,Chicken,Heidelberg,mcr-9,15,Baseline
+PRJNA186035,SAMN10396099,GCA_005500285.1,2017,North America,USA,Chicken,Albany,mcr-9,292,Baseline
+PRJNA518920,SAMN10863500,GCA_005503715.1,2014,North America,USA,Human,Typhimurium,mcr-3,34,High-Res only
+PRJNA186035,SAMN03265716,GCA_005606355.2,2007,North America,USA,Environment,Senftenberg,mcr-9,14,Baseline
+PRJNA186035,SAMN09745910,GCA_005611215.1,2017,North America,USA,Chicken,Albany,mcr-9,292,Baseline
+PRJNA186035,SAMN09756425,GCA_005681975.1,2017,North America,USA,Chicken,Albany,mcr-9,292,Baseline
+PRJNA292661,SAMN10133040,GCA_005688015.2,2017,North America,USA,Chicken,Heidelberg,mcr-9,15,High-Res only
+PRJNA292661,SAMN10132793,GCA_005767315.2,2017,North America,USA,Chicken,Heidelberg,mcr-9,15,Baseline
+PRJNA186035,SAMN03265718,GCA_005898525.1,2007,North America,USA,Environment,Senftenberg,mcr-9,14,Baseline
+PRJNA186035,SAMN04535393,GCA_005899475.1,2015,North America,USA,Chicken,Heidelberg,mcr-9,15,Baseline
+PRJNA186035,SAMN08040194,GCA_005899625.1,2016,North America,USA,Chicken,Heidelberg,mcr-9,15,Baseline
+PRJNA186035,SAMN08146117,GCA_005899685.1,2016,North America,USA,Chicken,Heidelberg,mcr-9,15,Baseline
+PRJNA186035,SAMN08102470,GCA_005899825.1,2016,North America,USA,Chicken,Heidelberg,mcr-9,15,Baseline
+PRJNA186035,SAMN04451096,GCA_005899885.1,2015,North America,USA,Chicken,Heidelberg,mcr-9,15,Baseline
+PRJNA186035,SAMN06213861,GCA_005899985.1,2016,North America,USA,Chicken,Heidelberg,mcr-9,15,Baseline
+PRJNA186035,SAMN06175359,GCA_005900045.1,2016,North America,USA,Chicken,Albany,mcr-9,292,Baseline
+PRJNA186035,SAMN06213862,GCA_005900105.1,2016,North America,USA,Chicken,Heidelberg,mcr-9,15,Baseline
+PRJNA186035,SAMN06270099,GCA_005900225.1,2016,North America,USA,Chicken,Albany,mcr-9,292,Baseline
+PRJNA338674,SAMN07184761,GCA_005900245.1,2016,North America,USA,Environment,Heidelberg,mcr-9,15,Baseline
+PRJNA186035,SAMN04535347,GCA_005900265.1,2015,North America,USA,Chicken,Saintpaul,mcr-9,27,Baseline
+PRJNA186035,SAMN08368721,GCA_005900285.1,2016,North America,USA,Chicken,Albany,mcr-9,292,Baseline
+PRJNA186035,SAMN07792001,GCA_005900305.1,2015,North America,USA,Chicken,Heidelberg,mcr-9,15,Baseline
+PRJNA186035,SAMN08663335,GCA_005900345.1,2016,North America,USA,Chicken,Albany,mcr-9,292,Baseline
+PRJNA186035,SAMN08640402,GCA_005900365.1,2016,North America,USA,Chicken,Heidelberg,mcr-9,15,High-VF only
+PRJNA186035,SAMN08719784,GCA_005900385.1,2016,North America,USA,Chicken,Heidelberg,mcr-9,15,Baseline
+PRJNA186035,SAMN09071593,GCA_005900405.1,2016,North America,USA,Chicken,Heidelberg,mcr-9,15,Baseline
+PRJNA186035,SAMN08923814,GCA_005900425.1,2016,North America,USA,Chicken,Heidelberg,mcr-9,15,Baseline
+PRJNA186035,SAMN09071644,GCA_005900525.1,2017,North America,USA,Chicken,Heidelberg,mcr-9,15,Baseline
+PRJNA186035,SAMN08331726,GCA_005901025.1,2016,North America,USA,Chicken,Heidelberg,mcr-9,15,High-VF only
+PRJNA186035,SAMN08395347,GCA_005901145.1,2016,North America,USA,Chicken,Albany,mcr-9,292,Baseline
+PRJNA186035,SAMN07774613,GCA_005901165.1,2017,North America,USA,Chicken,Albany,mcr-9,292,Baseline
+PRJNA186035,SAMN08663328,GCA_005901185.1,2016,North America,USA,Chicken,Albany,mcr-9,292,Baseline
+PRJNA248792,SAMN03169545,GCA_005943805.1,2012,Europe,United Kingdom,Human,Typhimurium,mcr-9,19,High-Res only
+PRJNA248792,SAMN03469856,GCA_005945645.1,2014,Europe,United Kingdom,Human,Typhimurium,mcr-9,19,High-Res only
+PRJNA248792,SAMN03473943,GCA_005945665.1,2014,Europe,United Kingdom,Human,Typhimurium,mcr-9,19,High-Res only
+PRJNA248792,SAMN03480067,GCA_005945725.1,2014,Europe,United Kingdom,Human,Typhimurium,mcr-9,19,High-Res only
+PRJNA248792,SAMN03477551,GCA_005946045.1,2014,Europe,United Kingdom,Human,Typhimurium,mcr-9,19,High-Res only
+PRJNA248792,SAMN03477385,GCA_005946185.1,2014,Europe,United Kingdom,Human,Typhimurium,mcr-9,19,High-Res only
+PRJNA248792,SAMN03477655,GCA_005947665.1,2014,Europe,United Kingdom,Human,Typhimurium,mcr-9,19,High-Res only
+PRJNA248792,SAMN03477529,GCA_005947705.1,2014,Europe,United Kingdom,Human,Typhimurium,mcr-9,19,High-Res only
+PRJNA248792,SAMN03478970,GCA_006015735.1,2014,Europe,United Kingdom,Human,Typhimurium,mcr-9,19,High-Res only
+PRJNA248792,SAMN03465867,GCA_006016795.1,2014,Europe,United Kingdom,Human,Typhimurium,mcr-9,19,High-Res only
+PRJNA248792,SAMN03469675,GCA_006016875.1,2014,Europe,United Kingdom,Human,Typhimurium,mcr-9,19,High-Res only
+PRJNA248792,SAMN03475911,GCA_006016915.1,2014,Europe,United Kingdom,Human,"I 1,4,[5],12:i:-",mcr-9,34,High-Res only
+PRJNA248792,SAMN03479376,GCA_006016935.1,2014,Europe,United Kingdom,Human,"I 1,4,[5],12:i:-",mcr-9,34,High-Res only
+PRJNA248792,SAMN03479947,GCA_006016975.1,2014,Europe,United Kingdom,Human,Typhimurium,mcr-9,19,High-Res only
+PRJNA293224,SAMN08737159,GCA_006073295.2,2014,South America,Brazil,Chicken,Havana,mcr-9,1524,Baseline
+PRJNA248792,SAMN03475981,GCA_006088495.1,2014,Europe,United Kingdom,Human,Typhimurium,mcr-9,19,High-Res only
+PRJNA248792,SAMN03477129,GCA_006088555.1,2014,Europe,United Kingdom,Human,Typhimurium,mcr-9,19,High-Res only
+PRJNA248792,SAMN03475369,GCA_006088575.1,2014,Europe,United Kingdom,Human,Typhimurium,mcr-9,19,High-Res only
+PRJNA230403,SAMN06282377,GCA_006158185.1,2016,North America,USA,Human,Heidelberg,mcr-9,15,Baseline
+PRJNA183850,SAMN02777835,GCA_006158205.1,2004,North America,USA,Chicken,Schwarzengrund,mcr-9,96,Baseline
+PRJNA248792,SAMN03477247,GCA_006158245.1,2014,Europe,United Kingdom,Human,Senftenberg,mcr-9,14,Baseline
+PRJNA183850,SAMN02777834,GCA_006158405.1,2004,North America,USA,Chicken,Schwarzengrund,mcr-9,96,Baseline
+PRJNA183847,SAMN02894109,GCA_006158445.1,2005,North America,USA,Chicken,Saintpaul,mcr-9,27,Baseline
+PRJNA230403,SAMN06243909,GCA_006158605.1,2016,North America,USA,Human,Albany,mcr-9,292,Baseline
+PRJNA230403,SAMN03857182,GCA_006158805.1,2015,North America,USA,Human,"I 1,4,[5],12:i:-",mcr-9,34,High-Res only
+PRJNA183848,SAMN03269479,GCA_006159135.1,2006,North America,USA,Chicken,Montevideo,mcr-9,4,Baseline
+PRJNA183851,SAMN02782465,GCA_006239485.1,2004,North America,USA,Chicken,Schwarzengrund,mcr-9,96,Baseline
+PRJNA183848,SAMN02766966,GCA_006239565.1,2004,North America,USA,Chicken,Schwarzengrund,mcr-9,96,Baseline
+PRJNA183851,SAMN02782547,GCA_006239595.1,2004,North America,USA,Chicken,Schwarzengrund,mcr-9,96,Baseline
+PRJNA183851,SAMN02782580,GCA_006239615.1,2004,North America,USA,Chicken,Schwarzengrund,mcr-9,96,Baseline
+PRJNA183851,SAMN02640957,GCA_006239675.1,2003,North America,USA,Chicken,Schwarzengrund,mcr-9,96,Baseline
+PRJNA183850,SAMN02777837,GCA_006240315.1,2004,North America,USA,Chicken,Schwarzengrund,mcr-9,96,Baseline
+PRJNA183850,SAMN02777836,GCA_006240335.1,2004,North America,USA,Chicken,Schwarzengrund,mcr-9,96,Baseline
+PRJNA219491,SAMN03938828,GCA_006240375.1,2008,North America,USA,Chicken,Heidelberg,mcr-9,15,Baseline
+PRJNA230403,SAMN06287557,GCA_006240475.1,2016,North America,USA,Human,Heidelberg,mcr-9,15,Baseline
+PRJNA230403,SAMN07830242,GCA_006250615.1,2017,North America,USA,Human,Heidelberg,mcr-9,15,Baseline
+PRJNA183851,SAMN02782548,GCA_006295135.1,2004,North America,USA,Chicken,Schwarzengrund,mcr-9,96,Baseline
+PRJNA183847,SAMN02894163,GCA_006295175.1,2005,North America,USA,Chicken,Schwarzengrund,mcr-9,96,Baseline
+PRJNA183851,SAMN02640902,GCA_006295185.1,2002,North America,USA,Chicken,Saintpaul,mcr-9,27,Baseline
+PRJNA183851,SAMN02782472,GCA_006295475.1,2004,North America,USA,Chicken,Schwarzengrund,mcr-9,96,Baseline
+PRJNA183851,SAMN02782467,GCA_006295595.1,2004,North America,USA,Chicken,Schwarzengrund,mcr-9,96,Baseline
+PRJNA248792,SAMN03477395,GCA_006296875.1,2014,Europe,United Kingdom,Human,Agona,mcr-9,13,Baseline
+PRJNA183851,SAMN03291613,GCA_006296895.1,2006,North America,USA,Chicken,Schwarzengrund,mcr-9,96,Baseline
+PRJNA183851,SAMN02640903,GCA_006296935.1,2002,North America,USA,Chicken,Saintpaul,mcr-9,27,Baseline
+PRJNA186035,SAMN04451132,GCA_006387095.1,2015,North America,USA,Chicken,Heidelberg,mcr-9,15,Baseline
+PRJNA186035,SAMN03265721,GCA_006387115.1,2007,North America,USA,Environment,Senftenberg,mcr-9,14,Baseline
+PRJNA186035,SAMN03265720,GCA_006387275.1,2007,North America,USA,Environment,Senftenberg,mcr-9,14,Baseline
+PRJNA183850,SAMN02777773,GCA_006387295.1,2003,North America,USA,Chicken,Saintpaul,mcr-9,27,Baseline
+PRJNA186035,SAMN03265715,GCA_006387335.1,2007,North America,USA,Environment,Senftenberg,mcr-9,14,Baseline
+PRJNA186035,SAMN03265719,GCA_006387495.1,2007,North America,USA,Environment,Senftenberg,mcr-9,14,Baseline
+PRJNA215333,SAMN02378148,GCA_006387595.1,2011,North America,USA,Chicken,Saintpaul,mcr-9,27,Baseline
+PRJNA230403,SAMN04490799,GCA_006387665.1,2016,North America,USA,Human,Heidelberg,mcr-9,15,Baseline
+PRJNA183850,SAMN01902329,GCA_006387745.1,2009,North America,USA,Chicken,Saintpaul,mcr-9,27,Baseline
+PRJNA215333,SAMN02378091,GCA_006387795.1,2009,North America,USA,Chicken,Saintpaul,mcr-9,27,Baseline
+PRJNA271470,SAMN03842229,GCA_006387895.1,2007,North America,USA,Chicken,Saintpaul,mcr-9,27,Baseline
+PRJNA183847,SAMN02261158,GCA_006387945.1,2010,North America,USA,Chicken,Saintpaul,mcr-9,27,Baseline
+PRJNA271470,SAMN03842233,GCA_006387995.1,2007,North America,USA,Chicken,Saintpaul,mcr-9,27,Baseline
+PRJNA183851,SAMN03291639,GCA_006388035.1,2006,North America,USA,Chicken,Saintpaul,mcr-9,27,Baseline
+PRJNA183850,SAMN03276117,GCA_006388075.1,2007,North America,USA,Chicken,Saintpaul,mcr-9,27,Baseline
+PRJNA219491,SAMN03938883,GCA_006388155.1,2008,North America,USA,Chicken,Saintpaul,mcr-9,27,Baseline
+PRJNA271470,SAMN03842232,GCA_006388175.1,2007,North America,USA,Chicken,Saintpaul,mcr-9,27,Baseline
+PRJNA183851,SAMN03291638,GCA_006388215.1,2006,North America,USA,Chicken,Saintpaul,mcr-9,27,Baseline
+PRJNA271470,SAMN03842288,GCA_006388275.1,2007,North America,USA,Chicken,Saintpaul,mcr-9,27,Baseline
+PRJNA271470,SAMN03842238,GCA_006388335.1,2007,North America,USA,Chicken,Saintpaul,mcr-9,27,Baseline
+PRJNA186035,SAMN03265717,GCA_006388465.1,2007,North America,USA,Environment,Senftenberg,mcr-9,14,Baseline
+PRJNA186035,SAMN04517071,GCA_006388545.1,2015,North America,USA,Chicken,Heidelberg,mcr-9,15,Baseline
+PRJNA183850,SAMN02777817,GCA_006388635.1,2004,North America,USA,Chicken,Saintpaul,mcr-9,27,Baseline
+PRJNA183851,SAMN02782530,GCA_006388645.1,2004,North America,USA,Chicken,Saintpaul,mcr-9,27,Baseline
+PRJNA183847,SAMN02894151,GCA_006388695.1,2005,North America,USA,Chicken,Saintpaul,mcr-9,27,Baseline
+PRJNA183851,SAMN02782551,GCA_006388775.1,2004,North America,USA,Chicken,Saintpaul,mcr-9,27,Baseline
+PRJNA186035,SAMN04517021,GCA_006388795.1,2015,North America,USA,Chicken,Heidelberg,mcr-9,15,Baseline
+PRJNA183851,SAMN02782614,GCA_006388815.1,2004,North America,USA,Chicken,Saintpaul,mcr-9,27,Baseline
+PRJNA186035,SAMN04572910,GCA_006388835.1,2015,North America,USA,Chicken,Heidelberg,mcr-9,15,Baseline
+PRJNA183851,SAMN02782613,GCA_006388855.1,2004,North America,USA,Chicken,Saintpaul,mcr-9,27,Baseline
+PRJNA183851,SAMN02782546,GCA_006388875.1,2004,North America,USA,Chicken,Saintpaul,mcr-9,27,Baseline
+PRJNA183851,SAMN02782616,GCA_006388895.1,2004,North America,USA,Chicken,Saintpaul,mcr-9,27,Baseline
+PRJNA183851,SAMN02782543,GCA_006388915.1,2004,North America,USA,Chicken,Saintpaul,mcr-9,27,Baseline
+PRJNA183848,SAMN02767033,GCA_006388935.1,2004,North America,USA,Chicken,Saintpaul,mcr-9,27,Baseline
+PRJNA183851,SAMN02782615,GCA_006388955.1,2004,North America,USA,Chicken,Saintpaul,mcr-9,27,Baseline
+PRJNA248792,SAMN04574138,GCA_006388975.1,2015,Europe,United Kingdom,Human,Typhimurium,mcr-9,19,High-Res only
+PRJNA183851,SAMN02640953,GCA_006388995.1,2003,North America,USA,Chicken,Saintpaul,mcr-9,27,Baseline
+PRJNA183848,SAMN02767032,GCA_006389015.1,2004,North America,USA,Chicken,Saintpaul,mcr-9,27,Baseline
+PRJNA183851,SAMN02640922,GCA_006389035.1,2002,North America,USA,Chicken,Saintpaul,mcr-9,27,Baseline
+PRJNA183851,SAMN02640904,GCA_006389055.1,2002,North America,USA,Chicken,Saintpaul,mcr-9,27,Baseline
+PRJNA183850,SAMN01902349,GCA_006389075.1,2009,North America,USA,Chicken,Saintpaul,mcr-9,27,Baseline
+PRJNA183851,SAMN02640857,GCA_006389095.1,2002,North America,USA,Chicken,Saintpaul,mcr-9,27,Baseline
+PRJNA183851,SAMN02640863,GCA_006389115.1,2002,North America,USA,Chicken,Saintpaul,mcr-9,27,Baseline
+PRJNA183847,SAMN02261116,GCA_006389135.1,2009,North America,USA,Chicken,Saintpaul,mcr-9,27,Baseline
+PRJNA183851,SAMN03291521,GCA_006389155.1,2006,North America,USA,Chicken,Saintpaul,mcr-9,27,Baseline
+PRJNA183851,SAMN02782662,GCA_006389195.1,2005,North America,USA,Chicken,Saintpaul,mcr-9,27,Baseline
+PRJNA183851,SAMN02640858,GCA_006389215.1,2002,North America,USA,Chicken,Saintpaul,mcr-9,27,Baseline
+PRJNA183847,SAMN02261132,GCA_006389235.1,2009,North America,USA,Chicken,Saintpaul,mcr-9,27,Baseline
+PRJNA183847,SAMN02261119,GCA_006389255.1,2009,North America,USA,Chicken,Saintpaul,mcr-9,27,Baseline
+PRJNA183850,SAMN02777820,GCA_006389275.1,2004,North America,USA,Chicken,Saintpaul,mcr-9,27,Baseline
+PRJNA183851,SAMN03291539,GCA_006389295.1,2006,North America,USA,Chicken,Saintpaul,mcr-9,27,Baseline
+PRJNA183850,SAMN01902400,GCA_006389315.1,2012,North America,USA,Chicken,Saintpaul,mcr-9,27,Baseline
+PRJNA183851,SAMN03291533,GCA_006389335.1,2006,North America,USA,Chicken,Saintpaul,mcr-9,27,Baseline
+PRJNA183847,SAMN02261142,GCA_006389355.1,2009,North America,USA,Chicken,Saintpaul,mcr-9,27,Baseline
+PRJNA183851,SAMN03291522,GCA_006389375.1,2006,North America,USA,Chicken,Saintpaul,mcr-9,27,Baseline
+PRJNA183851,SAMN03291531,GCA_006389395.1,2006,North America,USA,Chicken,Saintpaul,mcr-9,27,Baseline
+PRJNA183850,SAMN03275993,GCA_006389415.1,2007,North America,USA,Chicken,Saintpaul,mcr-9,27,Baseline
+PRJNA183850,SAMN03275970,GCA_006389435.1,2007,North America,USA,Chicken,Saintpaul,mcr-9,27,Baseline
+PRJNA248792,SAMN03480095,GCA_006389455.1,2014,Europe,United Kingdom,Human,Concord,mcr-9,534,High-Res only
+PRJNA183850,SAMN03276029,GCA_006389475.1,2007,North America,USA,Chicken,Saintpaul,mcr-9,27,Baseline
+PRJNA183851,SAMN03291540,GCA_006389495.1,2006,North America,USA,Chicken,Saintpaul,mcr-9,27,Baseline
+PRJNA183850,SAMN03276054,GCA_006389515.1,2007,North America,USA,Chicken,Saintpaul,mcr-9,27,Baseline
+PRJNA186035,SAMN03289396,GCA_006389535.1,2014,North America,USA,Chicken,Heidelberg,mcr-9,15,Baseline
+PRJNA183850,SAMN03276053,GCA_006389555.1,2007,North America,USA,Chicken,Saintpaul,mcr-9,27,Baseline
+PRJNA183848,SAMN03269495,GCA_006389575.1,2005,North America,USA,Chicken,Saintpaul,mcr-9,27,Baseline
+PRJNA183848,SAMN03269496,GCA_006389595.1,2005,North America,USA,Chicken,Saintpaul,mcr-9,27,Baseline
+PRJNA183848,SAMN03269498,GCA_006389615.1,2006,North America,USA,Chicken,Saintpaul,mcr-9,27,Baseline
+PRJNA183848,SAMN03269490,GCA_006389635.1,2005,North America,USA,Chicken,Saintpaul,mcr-9,27,Baseline
+PRJNA183848,SAMN03269499,GCA_006389655.1,2006,North America,USA,Chicken,Saintpaul,mcr-9,27,Baseline
+PRJNA183850,SAMN03276085,GCA_006389675.1,2007,North America,USA,Chicken,Saintpaul,mcr-9,27,Baseline
+PRJNA183848,SAMN03269500,GCA_006389695.1,2006,North America,USA,Chicken,Saintpaul,mcr-9,27,Baseline
+PRJNA183848,SAMN03269501,GCA_006389715.1,2006,North America,USA,Chicken,Saintpaul,mcr-9,27,Baseline
+PRJNA183851,SAMN03291641,GCA_006389735.1,2006,North America,USA,Chicken,Saintpaul,mcr-9,27,Baseline
+PRJNA271470,SAMN03842275,GCA_006389775.1,2007,North America,USA,Chicken,Saintpaul,mcr-9,27,Baseline
+PRJNA271470,SAMN03842297,GCA_006389795.1,2007,North America,USA,Chicken,Saintpaul,mcr-9,27,Baseline
+PRJNA271470,SAMN03842328,GCA_006389815.1,2007,North America,USA,Chicken,Saintpaul,mcr-9,27,Baseline
+PRJNA271470,SAMN03842289,GCA_006389825.1,2007,North America,USA,Chicken,Saintpaul,mcr-9,27,Baseline
+PRJNA271470,SAMN03842271,GCA_006389895.1,2007,North America,USA,Chicken,Saintpaul,mcr-9,27,Baseline
+PRJNA271470,SAMN03842418,GCA_006389915.1,2008,North America,USA,Chicken,Saintpaul,mcr-9,27,Baseline
+PRJNA219491,SAMN03938861,GCA_006389935.1,2008,North America,USA,Chicken,Saintpaul,mcr-9,27,Baseline
+PRJNA219491,SAMN03938934,GCA_006389975.1,2008,North America,USA,Chicken,Saintpaul,mcr-9,27,Baseline
+PRJNA219491,SAMN03938796,GCA_006389995.1,2008,North America,USA,Chicken,Saintpaul,mcr-9,27,Baseline
+PRJNA183847,SAMN02894148,GCA_006390155.1,2005,North America,USA,Chicken,Saintpaul,mcr-9,27,Baseline
+PRJNA186035,SAMN04535374,GCA_006390175.1,2015,North America,USA,Chicken,Heidelberg,mcr-9,15,Baseline
+PRJNA248792,SAMN04601153,GCA_006390195.1,2015,Europe,United Kingdom,Human,Typhimurium,mcr-9,19,High-Res only
+PRJNA186035,SAMN04535350,GCA_006390215.1,2015,North America,USA,Chicken,Saintpaul,mcr-9,27,Baseline
+PRJNA186035,SAMN04535444,GCA_006390255.1,2015,North America,USA,Chicken,Heidelberg,mcr-9,15,Baseline
+PRJNA186035,SAMN04535382,GCA_006390275.1,2015,North America,USA,Chicken,Heidelberg,mcr-9,15,Baseline
+PRJNA186035,SAMN04535346,GCA_006390295.1,2015,North America,USA,Chicken,Saintpaul,mcr-9,27,Baseline
+PRJNA186035,SAMN04535383,GCA_006390305.1,2015,North America,USA,Chicken,Heidelberg,mcr-9,15,Baseline
+PRJNA186035,SAMN04535416,GCA_006390335.1,2015,North America,USA,Chicken,Saintpaul,mcr-9,27,Baseline
+PRJNA186035,SAMN04535447,GCA_006390355.1,2015,North America,USA,Chicken,Saintpaul,mcr-9,27,Baseline
+PRJNA186035,SAMN04535481,GCA_006390395.1,2015,North America,USA,Chicken,Saintpaul,mcr-9,27,Baseline
+PRJNA186035,SAMN04535452,GCA_006390435.1,2015,North America,USA,Chicken,Heidelberg,mcr-9,15,Baseline
+PRJNA183850,SAMN03276060,GCA_006390455.1,2007,North America,USA,Chicken,Saintpaul,mcr-9,27,High-Res only
+PRJNA186035,SAMN04572827,GCA_006390555.1,2015,North America,USA,Chicken,Heidelberg,mcr-9,15,Baseline
+PRJNA338674,SAMN07138190,GCA_006390575.1,2016,North America,USA,Environment,Ouakam,mcr-9,1610,Baseline
+PRJNA186035,SAMN07767909,GCA_006390635.1,2015,North America,USA,Chicken,Heidelberg,mcr-9,15,Baseline
+PRJNA186035,SAMN04590258,GCA_006390655.1,2015,North America,USA,Chicken,Heidelberg,mcr-9,15,Baseline
+PRJNA248792,SAMN07336031,GCA_006390675.1,2016,Europe,United Kingdom,Human,Mbandaka,mcr-9,1602,High-Res only
+PRJNA248792,SAMN07690388,GCA_006390695.1,2015,Europe,United Kingdom,Human,Typhimurium,mcr-9,19,High-Res only
+PRJNA186035,SAMN07767860,GCA_006390735.1,2015,North America,USA,Chicken,Heidelberg,mcr-9,15,Baseline
+PRJNA338674,SAMN07138188,GCA_006390815.1,2016,North America,USA,Environment,Albany,mcr-9,292,Baseline
+PRJNA248792,SAMN07335995,GCA_006390835.1,2016,Europe,United Kingdom,Human,Mbandaka,mcr-9,413,High-Res only
+PRJNA186035,SAMN04590277,GCA_006390855.1,2015,North America,USA,Chicken,Heidelberg,mcr-9,15,Baseline
+PRJNA186035,SAMN06175250,GCA_006390895.1,2016,North America,USA,Chicken,Heidelberg,mcr-9,15,Baseline
+PRJNA242847,SAMN06111683,GCA_006390915.1,2016,North America,USA,Chicken,Muenster,mcr-9,321,High-Res only
+PRJNA338674,SAMN07138196,GCA_006390935.1,2016,North America,USA,Environment,Heidelberg,mcr-9,15,Baseline
+PRJNA248792,SAMN07719036,GCA_006390975.1,2016,Europe,United Kingdom,Human,Typhimurium,mcr-9,19,Hybrid
+PRJNA186035,SAMN07767843,GCA_006391025.1,2015,North America,USA,Chicken,Heidelberg,mcr-9,15,Baseline
+PRJNA186035,SAMN07767911,GCA_006391055.1,2015,North America,USA,Environment,Heidelberg,mcr-9,15,Baseline
+PRJNA248792,SAMN07695282,GCA_006391155.1,2015,Europe,United Kingdom,Human,Typhimurium,mcr-9,19,High-Res only
+PRJNA186035,SAMN07767889,GCA_006391165.1,2015,North America,USA,Chicken,Albany,mcr-9,292,Baseline
+PRJNA186035,SAMN07767864,GCA_006391195.1,2015,North America,USA,Chicken,Heidelberg,mcr-9,15,Baseline
+PRJNA186035,SAMN04572826,GCA_006391235.1,2015,North America,USA,Chicken,Heidelberg,mcr-9,15,Baseline
+PRJNA186035,SAMN04572828,GCA_006391255.1,2015,North America,USA,Chicken,Heidelberg,mcr-9,15,Baseline
+PRJNA186035,SAMN06213753,GCA_006391295.1,2016,North America,USA,Chicken,Heidelberg,mcr-9,15,Baseline
+PRJNA186035,SAMN06213793,GCA_006391315.1,2016,North America,USA,Chicken,Saintpaul,mcr-9,27,Baseline
+PRJNA186035,SAMN06175367,GCA_006391325.1,2016,North America,USA,Chicken,Heidelberg,mcr-9,15,Baseline
+PRJNA186035,SAMN06175373,GCA_006391355.1,2016,North America,USA,Chicken,Heidelberg,mcr-9,15,Baseline
+PRJNA186035,SAMN04572912,GCA_006391395.1,2015,North America,USA,Chicken,Heidelberg,mcr-9,15,Baseline
+PRJNA186035,SAMN06175368,GCA_006391415.1,2016,North America,USA,Chicken,Heidelberg,mcr-9,15,Baseline
+PRJNA186035,SAMN04572911,GCA_006391435.1,2015,North America,USA,Chicken,Heidelberg,mcr-9,15,Baseline
+PRJNA248792,SAMN06278303,GCA_006391445.1,2016,Europe,United Kingdom,Human,Typhimurium,mcr-9,19,High-Res only
+PRJNA186035,SAMN06175358,GCA_006391475.1,2016,North America,USA,Chicken,Albany,mcr-9,292,Baseline
+PRJNA186035,SAMN06213739,GCA_006391495.1,2016,North America,USA,Chicken,Heidelberg,mcr-9,15,Baseline
+PRJNA338674,SAMN06461762,GCA_006391515.1,2016,North America,USA,Environment,Senftenberg,mcr-9,14,Baseline
+PRJNA338674,SAMN06464710,GCA_006391555.1,2016,North America,USA,Environment,Anatum,mcr-9,64,Baseline
+PRJNA186035,SAMN04451058,GCA_006391615.1,2015,North America,USA,Chicken,Saintpaul,mcr-9,27,Baseline
+PRJNA248792,SAMN07155676,GCA_006391655.1,2017,Europe,United Kingdom,Human,Paratyphi B var. Java,mcr-9,28,Baseline
+PRJNA338674,SAMN06464713,GCA_006391675.1,2016,North America,USA,Environment,Albany,mcr-9,292,Baseline
+PRJNA338674,SAMN06464708,GCA_006391695.1,2016,North America,USA,Environment,Anatum,mcr-9,64,Baseline
+PRJNA186035,SAMN04535355,GCA_006391715.1,2015,North America,USA,Chicken,Saintpaul,mcr-9,27,Baseline
+PRJNA186035,SAMN07713946,GCA_006391735.1,2015,North America,USA,Chicken,Saintpaul,mcr-9,27,Baseline
+PRJNA338674,SAMN06464707,GCA_006391755.1,2016,North America,USA,Environment,Anatum,mcr-9,64,Baseline
+PRJNA186035,SAMN07713951,GCA_006391815.1,2015,North America,USA,Chicken,Heidelberg,mcr-9,15,Baseline
+PRJNA186035,SAMN07713974,GCA_006391855.1,2015,North America,USA,Chicken,Heidelberg,mcr-9,15,Baseline
+PRJNA186035,SAMN07713947,GCA_006391875.1,2015,North America,USA,Chicken,Saintpaul,mcr-9,27,Baseline
+PRJNA186035,SAMN07713991,GCA_006391895.1,2015,North America,USA,Chicken,Saintpaul,mcr-9,27,Baseline
+PRJNA186035,SAMN07713981,GCA_006391915.1,2015,North America,USA,Chicken,Heidelberg,mcr-9,15,Baseline
+PRJNA186035,SAMN07713988,GCA_006391935.1,2015,North America,USA,Chicken,Heidelberg,mcr-9,15,Baseline
+PRJNA186035,SAMN07714124,GCA_006391955.1,2015,North America,USA,Chicken,Heidelberg,mcr-9,15,Baseline
+PRJNA186035,SAMN07713994,GCA_006391965.1,2015,North America,USA,Chicken,Heidelberg,mcr-9,15,Baseline
+PRJNA186035,SAMN07714000,GCA_006391995.1,2015,North America,USA,Chicken,Saintpaul,mcr-9,27,Baseline
+PRJNA186035,SAMN07713995,GCA_006392015.1,2015,North America,USA,Chicken,Heidelberg,mcr-9,15,Baseline
+PRJNA186035,SAMN07714151,GCA_006392035.1,2015,North America,USA,Chicken,Heidelberg,mcr-9,15,Baseline
+PRJNA186035,SAMN07714134,GCA_006392055.1,2015,North America,USA,Chicken,Heidelberg,mcr-9,15,Baseline
+PRJNA186035,SAMN07714129,GCA_006392075.1,2015,North America,USA,Chicken,Heidelberg,mcr-9,15,Baseline
+PRJNA248792,SAMN07714437,GCA_006392095.1,2015,Europe,United Kingdom,Human,Typhimurium,mcr-9,19,High-Res only
+PRJNA186035,SAMN07714130,GCA_006392115.1,2015,North America,USA,Chicken,Heidelberg,mcr-9,15,Baseline
+PRJNA186035,SAMN07714146,GCA_006392135.1,2015,North America,USA,Chicken,Heidelberg,mcr-9,15,Baseline
+PRJNA186035,SAMN07774604,GCA_006392155.1,2015,North America,USA,Chicken,Heidelberg,mcr-9,15,Baseline
+PRJNA186035,SAMN07774602,GCA_006392195.1,2015,North America,USA,Chicken,Heidelberg,mcr-9,15,Baseline
+PRJNA186035,SAMN07767907,GCA_006392215.1,2015,North America,USA,Chicken,Heidelberg,mcr-9,15,Baseline
+PRJNA248792,SAMN07717993,GCA_006392235.1,2015,Europe,United Kingdom,Human,Typhimurium,mcr-9,19,High-Res only
+PRJNA186035,SAMN07987662,GCA_006392255.1,2015,North America,USA,Chicken,Heidelberg,mcr-9,15,Baseline
+PRJNA186035,SAMN08017038,GCA_006392275.1,2015,North America,USA,Chicken,Albany,mcr-9,292,Baseline
+PRJNA186035,SAMN08017103,GCA_006392295.1,2015,North America,USA,Chicken,Heidelberg,mcr-9,15,Baseline
+PRJNA186035,SAMN08017037,GCA_006392315.1,2015,North America,USA,Chicken,Albany,mcr-9,292,Baseline
+PRJNA186035,SAMN08017377,GCA_006392335.1,2015,North America,USA,Chicken,Heidelberg,mcr-9,15,Baseline
+PRJNA186035,SAMN08017189,GCA_006392355.1,2015,North America,USA,Chicken,Albany,mcr-9,292,Baseline
+PRJNA186035,SAMN08017024,GCA_006392395.1,2016,North America,USA,Chicken,Heidelberg,mcr-9,15,Baseline
+PRJNA186035,SAMN08001082,GCA_006392405.1,2015,North America,USA,Chicken,Heidelberg,mcr-9,15,Baseline
+PRJNA186035,SAMN08040199,GCA_006392435.1,2016,North America,USA,Chicken,Heidelberg,mcr-9,15,Baseline
+PRJNA186035,SAMN08017412,GCA_006392455.1,2015,North America,USA,Chicken,Albany,mcr-9,292,Baseline
+PRJNA186035,SAMN07767887,GCA_006392495.1,2015,North America,USA,Chicken,Albany,mcr-9,292,Baseline
+PRJNA186035,SAMN08040211,GCA_006392515.1,2016,North America,USA,Chicken,Albany,mcr-9,292,Baseline
+PRJNA186035,SAMN07767891,GCA_006392535.1,2015,North America,USA,Chicken,Heidelberg,mcr-9,15,Baseline
+PRJNA186035,SAMN08199393,GCA_006392595.1,2016,North America,USA,Chicken,Heidelberg,mcr-9,15,Baseline
+PRJNA186035,SAMN08102591,GCA_006392635.1,2016,North America,USA,Chicken,Albany,mcr-9,292,Baseline
+PRJNA186035,SAMN08331746,GCA_006392675.1,2016,North America,USA,Chicken,Heidelberg,mcr-9,15,High-VF only
+PRJNA186035,SAMN07767873,GCA_006392695.1,2015,North America,USA,Chicken,Heidelberg,mcr-9,15,Baseline
+PRJNA248792,SAMN09010774,GCA_006392715.1,2016,Europe,United Kingdom,Human,Agona,mcr-9,13,Baseline
+PRJNA186035,SAMN08199427,GCA_006392735.1,2016,North America,USA,Chicken,Albany,mcr-9,292,Baseline
+PRJNA186035,SAMN08146142,GCA_006392745.1,2016,North America,USA,Chicken,Heidelberg,mcr-9,15,Baseline
+PRJNA186035,SAMN09005288,GCA_006392775.1,2017,North America,USA,Chicken,Heidelberg,mcr-9,15,Baseline
+PRJNA186035,SAMN08146115,GCA_006392785.1,2016,North America,USA,Chicken,Heidelberg,mcr-9,15,Baseline
+PRJNA186035,SAMN09071559,GCA_006392815.1,2016,North America,USA,Chicken,Heidelberg,mcr-9,15,Baseline
+PRJNA186035,SAMN08957064,GCA_006392835.1,2016,North America,USA,Chicken,Albany,mcr-9,292,Baseline
+PRJNA186035,SAMN08368744,GCA_006392845.1,2016,North America,USA,Chicken,Albany,mcr-9,292,Baseline
+PRJNA186035,SAMN08331728,GCA_006392895.1,2016,North America,USA,Chicken,Heidelberg,mcr-9,15,High-VF only
+PRJNA186035,SAMN08146123,GCA_006392935.1,2016,North America,USA,Chicken,Heidelberg,mcr-9,15,Baseline
+PRJNA186035,SAMN08146127,GCA_006392975.1,2016,North America,USA,Chicken,Heidelberg,mcr-9,15,Baseline
+PRJNA186035,SAMN08146131,GCA_006392995.1,2016,North America,USA,Chicken,Heidelberg,mcr-9,15,Baseline
+PRJNA186035,SAMN08331734,GCA_006393015.1,2016,North America,USA,Chicken,Heidelberg,mcr-9,15,High-VF only
+PRJNA186035,SAMN08957193,GCA_006393065.1,2016,North America,USA,Chicken,Albany,mcr-9,292,Baseline
+PRJNA186035,SAMN08196845,GCA_006393115.1,2016,North America,USA,Chicken,Heidelberg,mcr-9,15,Baseline
+PRJNA186035,SAMN09071565,GCA_006393135.1,2016,North America,USA,Chicken,Heidelberg,mcr-9,15,High-VF only
+PRJNA186035,SAMN09071534,GCA_006393155.1,2017,North America,USA,Chicken,Heidelberg,mcr-9,15,Baseline
+PRJNA186035,SAMN08957188,GCA_006393295.1,2016,North America,USA,Chicken,Heidelberg,mcr-9,15,Baseline
+PRJNA186035,SAMN08957090,GCA_006393335.1,2016,North America,USA,Chicken,Heidelberg,mcr-9,15,Baseline
+PRJNA186035,SAMN08640422,GCA_006394235.1,2016,North America,USA,Chicken,Albany,mcr-9,292,Baseline
+PRJNA186035,SAMN08640390,GCA_006394255.1,2016,North America,USA,Chicken,Heidelberg,mcr-9,15,High-VF only
+PRJNA186035,SAMN08640401,GCA_006394275.1,2016,North America,USA,Chicken,Heidelberg,mcr-9,15,High-VF only
+PRJNA186035,SAMN08744282,GCA_006394295.1,2018,North America,USA,Chicken,Heidelberg,mcr-9,15,Baseline
+PRJNA186035,SAMN08744593,GCA_006394315.1,2018,North America,USA,Chicken,Heidelberg,mcr-9,15,Baseline
+PRJNA186035,SAMN09071671,GCA_006394375.1,2016,North America,USA,Chicken,Heidelberg,mcr-9,15,Baseline
+PRJNA186035,SAMN08719781,GCA_006394395.1,2016,North America,USA,Chicken,Albany,mcr-9,292,Baseline
+PRJNA186035,SAMN08640389,GCA_006394415.1,2016,North America,USA,Chicken,Albany,mcr-9,292,Baseline
+PRJNA186035,SAMN08640434,GCA_006394435.1,2016,North America,USA,Chicken,Albany,mcr-9,292,Baseline
+PRJNA186035,SAMN08640441,GCA_006394455.1,2016,North America,USA,Chicken,Albany,mcr-9,292,Baseline
+PRJNA186035,SAMN08640404,GCA_006394495.1,2016,North America,USA,Chicken,Albany,mcr-9,292,Baseline
+PRJNA186035,SAMN08640394,GCA_006394515.1,2016,North America,USA,Chicken,Albany,mcr-9,292,Baseline
+PRJNA186035,SAMN08923799,GCA_006394595.1,2016,North America,USA,Chicken,Heidelberg,mcr-9,15,Baseline
+PRJNA186035,SAMN08957091,GCA_006394635.1,2016,North America,USA,Chicken,Heidelberg,mcr-9,15,Baseline
+PRJNA186035,SAMN08923907,GCA_006394755.1,2016,North America,USA,Chicken,Heidelberg,mcr-9,15,High-VF only
+PRJNA248792,SAMN12040745,GCA_006450995.1,2019,Europe,United Kingdom,Human,Typhimurium,mcr-9,19,High-Res only
+PRJNA248792,SAMN12041099,GCA_006451495.1,2019,Europe,United Kingdom,Human,"I 1,4,[5],12:i:-",mcr-1,19,Hybrid
+PRJNA230403,SAMN12100613,GCA_006476965.1,2014,North America,USA,Human,Heidelberg,mcr-9,15,Baseline
+PRJNA248792,SAMN12108830,GCA_006486625.1,2019,Europe,United Kingdom,Human,Typhimurium,mcr-9,19,High-Res only
+PRJNA292661,SAMN05201557,GCA_006633065.1,2011,North America,USA,Chicken,Saintpaul,mcr-9,27,Baseline
+PRJNA292661,SAMN05201545,GCA_006633565.1,2011,North America,USA,Chicken,Saintpaul,mcr-9,27,Baseline
+PRJNA292661,SAMN03988281,GCA_006634975.1,2014,North America,USA,Chicken,Heidelberg,mcr-9,15,Baseline
+PRJNA284276,SAMN04255280,GCA_006635065.1,2010,North America,USA,Chicken,Saintpaul,mcr-9,27,Baseline
+PRJNA292661,SAMN05201670,GCA_006635085.1,2011,North America,USA,Chicken,Saintpaul,mcr-9,27,Baseline
+PRJNA292661,SAMN05201626,GCA_006635365.1,2011,North America,USA,Chicken,Saintpaul,mcr-9,27,Baseline
+PRJNA292661,SAMN05201558,GCA_006635505.1,2011,North America,USA,Chicken,Saintpaul,mcr-9,27,Baseline
+PRJNA292661,SAMN05201815,GCA_006635705.1,2012,North America,USA,Chicken,Saintpaul,mcr-9,27,Baseline
+PRJNA292661,SAMN05201530,GCA_006635805.1,2011,North America,USA,Chicken,Saintpaul,mcr-9,27,Baseline
+PRJNA292661,SAMN05201983,GCA_006635885.1,2012,North America,USA,Chicken,Saintpaul,mcr-9,27,Baseline
+PRJNA292661,SAMN05201851,GCA_006635905.1,2012,North America,USA,Chicken,Saintpaul,mcr-9,27,Baseline
+PRJNA230403,SAMN03758670,GCA_006694705.1,2015,North America,USA,Human,"I 1,4,[5],12:i:-",mcr-9,34,High-Res only
+PRJNA292661,SAMN05416530,GCA_006694965.1,2015,North America,USA,Chicken,Heidelberg,mcr-9,15,Baseline
+PRJNA292661,SAMN05201522,GCA_006695205.1,2011,North America,USA,Chicken,Heidelberg,mcr-9,15,High-VF only
+PRJNA292661,SAMN05416489,GCA_006695485.1,2015,North America,USA,Chicken,Albany,mcr-9,292,Baseline
+PRJNA292661,SAMN05416424,GCA_006695545.2,2015,North America,USA,Chicken,Heidelberg,mcr-9,15,Baseline
+PRJNA292661,SAMN05201592,GCA_006695605.1,2011,North America,USA,Chicken,Saintpaul,mcr-9,27,Baseline
+PRJNA292661,SAMN05416565,GCA_006695765.1,2015,North America,USA,Chicken,Heidelberg,mcr-9,15,Baseline
+PRJNA292661,SAMN05201540,GCA_006695905.1,2011,North America,USA,Chicken,Saintpaul,mcr-9,27,Baseline
+PRJNA292661,SAMN05201515,GCA_006695965.1,2011,North America,USA,Chicken,Saintpaul,mcr-9,27,Baseline
+PRJNA292661,SAMN05201915,GCA_006695985.1,2012,North America,USA,Chicken,Schwarzengrund,mcr-9,96,Baseline
+PRJNA292661,SAMN05201633,GCA_006696005.1,2011,North America,USA,Chicken,Saintpaul,mcr-9,27,Baseline
+PRJNA292661,SAMN05201706,GCA_006696025.1,2011,North America,USA,Chicken,Saintpaul,mcr-9,27,Baseline
+PRJNA292661,SAMN05201855,GCA_006697045.2,2012,North America,USA,Chicken,Saintpaul,mcr-9,27,Baseline
+PRJNA284276,SAMN04255308,GCA_006698525.1,2010,North America,USA,Chicken,Saintpaul,mcr-9,27,Baseline
+PRJNA242847,SAMN11116023,GCA_006748225.1,2018,North America,USA,Chicken,Senftenberg,mcr-9,14,Baseline
+PRJNA230403,SAMN03758668,GCA_006755205.1,2015,North America,USA,Human,"I 1,4,[5],12:i:-",mcr-9,34,High-Res only
+PRJNA230403,SAMN03758664,GCA_006756525.1,2015,North America,USA,Human,"I 1,4,[5],12:i:-",mcr-9,34,High-Res only
+PRJNA230403,SAMN03758665,GCA_006757125.1,2015,North America,USA,Human,"I 1,4,[5],12:i:-",mcr-9,34,High-Res only
+PRJNA292661,SAMN05201627,GCA_006757795.1,2011,North America,USA,Chicken,Saintpaul,mcr-9,27,Baseline
+PRJNA292661,SAMN05201538,GCA_006758065.1,2011,North America,USA,Chicken,Saintpaul,mcr-9,27,Baseline
+PRJNA292661,SAMN05201638,GCA_006758235.1,2011,North America,USA,Chicken,Saintpaul,mcr-9,27,Baseline
+PRJNA292661,SAMN05201591,GCA_006758305.1,2011,North America,USA,Chicken,Saintpaul,mcr-9,27,Baseline
+PRJNA242847,SAMN04090021,GCA_006758505.1,2015,North America,USA,Chicken,Schwarzengrund,mcr-9,96,Baseline
+PRJNA292661,SAMN03988301,GCA_006758605.1,2014,North America,USA,Chicken,Albany,mcr-9,292,Baseline
+PRJNA292661,SAMN05201590,GCA_006758665.1,2011,North America,USA,Chicken,Saintpaul,mcr-9,27,Baseline
+PRJNA292661,SAMN05202011,GCA_006759255.1,2012,North America,USA,Chicken,Saintpaul,mcr-9,27,Baseline
+PRJNA292661,SAMN05416524,GCA_006760625.1,2015,North America,USA,Chicken,Heidelberg,mcr-9,15,Baseline
+PRJNA292661,SAMN05416433,GCA_006760745.1,2015,North America,USA,Chicken,Albany,mcr-9,292,Baseline
+PRJNA292661,SAMN05201980,GCA_006762505.1,2012,North America,USA,Chicken,Saintpaul,mcr-9,27,Baseline
+PRJNA230403,SAMN03997173,GCA_006813865.1,2015,North America,USA,Human,"I 1,4,[5],12:i:-",mcr-9,34,High-Res only
+PRJNA292661,SAMN03988399,GCA_006813945.1,2014,North America,USA,Chicken,Albany,mcr-9,292,Baseline
+PRJNA292661,SAMN05201631,GCA_006814135.1,2011,North America,USA,Chicken,Saintpaul,mcr-9,27,Baseline
+PRJNA183848,SAMN04255343,GCA_006814185.1,2009,North America,USA,Chicken,Saintpaul,mcr-9,27,Baseline
+PRJNA186035,SAMN04451253,GCA_006897025.1,2015,North America,USA,Chicken,Heidelberg,mcr-9,15,Baseline
+PRJNA186035,SAMN04517090,GCA_006899565.1,2015,North America,USA,Chicken,Heidelberg,mcr-9,15,Baseline
+PRJNA248792,SAMN09267041,GCA_006931515.1,2015,Europe,United Kingdom,Human,Stanley,mcr-1,29,High-Res only
+PRJNA248792,SAMN10524591,GCA_006994905.1,2018,Europe,United Kingdom,Human,Kentucky,mcr-1,198,Baseline
+PRJNA248792,SAMN09690843,GCA_007016145.1,2017,Europe,United Kingdom,Human,Schwarzengrund,mcr-9,96,High-Res only
+PRJNA186035,SAMN07713976,GCA_007070585.1,2015,North America,USA,Chicken,Heidelberg,mcr-9,15,Baseline
+PRJNA248792,SAMN09214667,GCA_007137205.1,2016,Europe,United Kingdom,Human,Stanley,mcr-9,29,High-Res only
+PRJNA248792,SAMN09225647,GCA_007138365.1,2018,Europe,United Kingdom,Human,Give,mcr-9,516,Baseline
+PRJNA248792,SAMN09225717,GCA_007138705.1,2016,Europe,United Kingdom,Human,Typhimurium,mcr-9,19,High-Res only
+PRJNA248792,SAMN09388838,GCA_007162155.1,2017,Europe,United Kingdom,Human,Typhimurium,mcr-9,19,Hybrid
+PRJNA248792,SAMN09431397,GCA_007174175.1,2016,Europe,United Kingdom,Human,Typhimurium,mcr-9,19,High-Res only
+PRJNA248792,SAMN09444817,GCA_007207875.1,2018,Europe,United Kingdom,Human,Typhimurium,mcr-9,19,High-Res only
+PRJNA248792,SAMN09435084,GCA_007209715.1,2017,Europe,United Kingdom,Human,Senftenberg,mcr-9,14,High-Res only
+PRJNA248792,SAMN09484295,GCA_007233515.1,2017,Europe,United Kingdom,Human,Typhimurium,mcr-1,34,High-VF only
+PRJNA248792,SAMN09484601,GCA_007237355.1,2015,Europe,United Kingdom,Human,Liverpool,mcr-9,1959,Baseline
+PRJNA183851,SAMN04217263,GCA_007237695.1,2009,North America,USA,Chicken,Saintpaul,mcr-9,27,Baseline
+PRJNA248792,SAMN09492795,GCA_007237875.1,2016,Europe,United Kingdom,Human,Typhimurium,mcr-9,19,High-Res only
+PRJNA183850,SAMN04224222,GCA_007239975.1,2008,North America,USA,Chicken,Saintpaul,mcr-9,27,Baseline
+PRJNA183850,SAMN03276116,GCA_007240055.1,2007,North America,USA,Chicken,Saintpaul,mcr-9,27,Baseline
+PRJNA248792,SAMN09520742,GCA_007246305.1,2016,Europe,United Kingdom,Human,Typhimurium,mcr-9,19,High-Res only
+PRJNA248792,SAMN09520815,GCA_007246615.1,2015,Europe,United Kingdom,Human,Typhimurium,mcr-3,36,High-Res only
+PRJNA248792,SAMN09607438,GCA_007259925.1,2016,Europe,United Kingdom,Human,Typhimurium,mcr-9,19,High-Res only
+PRJNA248792,SAMN09624456,GCA_007263065.1,2018,Europe,United Kingdom,Human,Paratyphi B var. Java,mcr-9,28,Baseline
+PRJNA248792,SAMN09637783,GCA_007271015.1,2017,Europe,United Kingdom,Human,Typhimurium,mcr-9,19,High-Res only
+PRJNA248792,SAMN09651649,GCA_007271965.1,2018,Europe,United Kingdom,Human,Typhimurium,mcr-9,19,High-Res only
+PRJNA248792,SAMN09658605,GCA_007274135.1,2017,Europe,United Kingdom,Human,Newport,mcr-9,31,High-Res only
+PRJNA248792,SAMN09683636,GCA_007285735.1,2017,Europe,United Kingdom,Human,Typhimurium,mcr-1,36,High-Res only
+PRJNA248792,SAMN09690841,GCA_007287935.1,2015,Europe,United Kingdom,Human,Typhimurium,mcr-1,36,High-Res only
+PRJNA248792,SAMN09690829,GCA_007289015.1,2017,Europe,United Kingdom,Human,Typhimurium,mcr-9,19,High-Res only
+PRJNA248792,SAMN10058620,GCA_007289115.1,2018,Europe,United Kingdom,Human,Typhimurium,mcr-9,19,Hybrid
+PRJNA248792,SAMN10058681,GCA_007290825.1,2018,Europe,United Kingdom,Human,Typhimurium,mcr-9,19,High-Res only
+PRJNA248792,SAMN10076045,GCA_007295865.1,2016,Europe,United Kingdom,Human,Schwarzengrund,mcr-9,96,Baseline
+PRJNA248792,SAMN10076131,GCA_007296175.1,2016,Europe,United Kingdom,Human,Typhimurium,mcr-9,19,High-Res only
+PRJNA248792,SAMN10098045,GCA_007306115.1,2016,Europe,United Kingdom,Human,Typhimurium,mcr-1,36,High-Res only
+PRJNA248792,SAMN10086866,GCA_007315895.1,2018,Europe,United Kingdom,Human,Typhimurium,mcr-9,19,Hybrid
+PRJNA248792,SAMN10521866,GCA_007367205.1,2018,Europe,United Kingdom,Human,Kentucky,mcr-1,198,Baseline
+PRJNA248792,SAMN10642475,GCA_007385645.1,2018,Europe,United Kingdom,Human,Typhimurium,mcr-9,19,Hybrid
+PRJNA242847,SAMN10661775,GCA_007389005.1,2018,North America,USA,Chicken,Albany,mcr-9,292,Baseline
+PRJNA248792,SAMN10696596,GCA_007393155.1,2018,Europe,United Kingdom,Human,Typhimurium,mcr-3,34,High-Res only
+PRJNA242847,SAMN10700143,GCA_007393815.1,2018,North America,USA,Chicken,Bredeney,mcr-9,241,Baseline
+PRJNA248792,SAMN10715374,GCA_007394575.1,2018,Europe,United Kingdom,Human,Typhimurium,mcr-3,34,High-Res only
+PRJNA292666,SAMN10780276,GCA_007400475.1,2018,North America,USA,Chicken,Cubana,mcr-9,286,Baseline
+PRJNA248792,SAMN10823884,GCA_007406485.1,2018,Europe,United Kingdom,Human,Typhimurium,mcr-9,19,Hybrid
+PRJNA248792,SAMN10867390,GCA_007420105.1,2017,Europe,United Kingdom,Human,Typhimurium,mcr-9,19,High-Res only
+PRJNA242847,SAMN10968490,GCA_007429045.1,2019,North America,USA,Chicken,Albany,mcr-9,292,Baseline
+PRJNA248792,SAMN11042246,GCA_007433565.1,2016,Europe,United Kingdom,Human,Newport,mcr-1,31,High-Res only
+PRJNA248792,SAMN04599368,GCA_007473655.1,2015,Europe,United Kingdom,Human,Choleraesuis,mcr-3,139,Hybrid
+PRJNA248792,SAMN09244453,GCA_007497765.1,2016,Europe,United Kingdom,Human,Choleraesuis,mcr-3,139,Hybrid
+PRJNA248792,SAMN09463066,GCA_007499445.1,2015,Europe,United Kingdom,Human,Amersfoort,mcr-9,3983,High-Res only
+PRJNA248792,SAMN10103480,GCA_007502045.1,2016,Europe,United Kingdom,Human,"I 1,4,[5],12:i:-",mcr-1,34,Baseline
+PRJNA248792,SAMN10887257,GCA_007515945.1,2017,Europe,United Kingdom,Human,Typhimurium,mcr-9,19,High-Res only
+PRJNA248792,SAMN11031185,GCA_007517735.1,2019,Europe,United Kingdom,Human,Enteritidis,mcr-1,11,High-VF only
+PRJNA248792,SAMN11043599,GCA_007519085.1,2016,Europe,United Kingdom,Human,Typhimurium,mcr-9,19,High-Res only
+PRJNA248792,SAMN11109138,GCA_007529185.1,2019,Europe,United Kingdom,Human,Paratyphi B var. Java,mcr-1,42,Baseline
+PRJNA248792,SAMN07180502,GCA_007550395.1,2016,Europe,United Kingdom,Human,"I 1,4,[5],12:i:-",mcr-3,34,High-Res only
+PRJNA248792,SAMN09491744,GCA_007578745.1,2017,Europe,United Kingdom,Human,"I 1,4,[5],12:i:-",mcr-1,34,Baseline
+PRJNA248792,SAMN09661763,GCA_007581105.1,2017,Europe,United Kingdom,Human,"I 1,4,[5],12:i:-",mcr-3,34,High-Res only
+PRJNA248792,SAMN09661828,GCA_007581245.1,2017,Europe,United Kingdom,Human,"I 1,4,[5],12:i:-",mcr-1,34,High-Res only
+PRJNA248792,SAMN10129719,GCA_007582085.1,2016,Europe,United Kingdom,Human,"I 1,4,[5],12:i:-",mcr-1,34,Baseline
+PRJNA248792,SAMN10267053,GCA_007582405.1,2018,Europe,United Kingdom,Human,"I 1,4,[5],12:i:-",mcr-9,34,High-Res only
+PRJNA248792,SAMN10866877,GCA_007586095.1,2018,Europe,United Kingdom,Human,"I 1,4,[5],12:i:-",mcr-1,34,Baseline
+PRJNA248792,SAMN10842135,GCA_007586105.1,2018,Europe,United Kingdom,Human,"I 1,4,[5],12:i:-",mcr-1,34,Baseline
+PRJNA248792,SAMN10868023,GCA_007589455.1,2017,Europe,United Kingdom,Human,Schwarzengrund,mcr-9,96,High-Res only
+PRJNA248792,SAMN11031828,GCA_007597875.1,2017,Europe,United Kingdom,Human,Typhimurium,mcr-9,19,High-Res only
+PRJNA248792,SAMN11046526,GCA_007600615.1,2016,Europe,United Kingdom,Human,Typhimurium,mcr-9,19,High-Res only
+PRJNA248792,SAMN10067741,GCA_007650495.1,2018,Europe,United Kingdom,Human,"I 1,4,[5],12:i:-",mcr-1,34,High-Res only
+PRJNA248792,SAMN10289953,GCA_007652535.1,2018,Europe,United Kingdom,Human,"I 1,4,[5],12:i:-",mcr-9,34,High-Res only
+PRJNA248792,SAMN10389321,GCA_007652675.1,2018,Europe,United Kingdom,Human,"I 1,4,[5],12:i:-",mcr-9,34,High-Res only
+PRJNA248792,SAMN10871247,GCA_007657035.1,2017,Europe,United Kingdom,Human,Typhimurium,mcr-1,36,High-Res only
+PRJNA248792,SAMN10905037,GCA_007658665.1,2017,Europe,United Kingdom,Human,Typhimurium,mcr-9,19,High-Res only
+PRJNA248792,SAMN11031599,GCA_007663825.1,2017,Europe,United Kingdom,Human,Paratyphi B var. Java,mcr-9,28,Baseline
+PRJNA248792,SAMN11155153,GCA_007685845.1,2015,Europe,United Kingdom,Human,Paratyphi B var. Java,mcr-9,28,High-Res only
+PRJNA248792,SAMN11239257,GCA_007686725.1,2019,Europe,United Kingdom,Human,Chester,mcr-1,343,Baseline
+PRJNA248792,SAMN11320505,GCA_007686905.1,2019,Europe,United Kingdom,Human,"I 1,4,[5],12:i:-",mcr-3,34,High-Res only
+PRJNA186035,SAMN02645794,GCA_007741595.1,2011,North America,USA,Chicken,Heidelberg,mcr-9,15,High-VF only
+PRJNA186035,SAMN02645804,GCA_007741755.1,2009,North America,USA,Chicken,Saintpaul,mcr-9,27,Baseline
+PRJNA186035,SAMN02645805,GCA_007742155.1,2009,North America,USA,Chicken,Saintpaul,mcr-9,27,Baseline
+PRJNA230403,SAMN03758666,GCA_007751315.1,2015,North America,USA,Human,"I 1,4,[5],12:i:-",mcr-9,34,High-Res only
+PRJNA230403,SAMN03758663,GCA_007751335.1,2015,North America,USA,Human,"I 1,4,[5],12:i:-",mcr-9,34,High-Res only
+PRJNA230403,SAMN03758662,GCA_007751355.1,2015,North America,USA,Human,"I 1,4,[5],12:i:-",mcr-9,34,High-Res only
+PRJNA230403,SAMN03758667,GCA_007751395.1,2015,North America,USA,Human,"I 1,4,[5],12:i:-",mcr-9,34,High-Res only
+PRJNA230403,SAMN03758669,GCA_007751425.1,2015,North America,USA,Human,"I 1,4,[5],12:i:-",mcr-9,34,High-Res only
+PRJNA242847,SAMN04027163,GCA_007752735.1,2015,North America,USA,Chicken,Heidelberg,mcr-9,15,High-Res only
+PRJNA292661,SAMN03988290,GCA_007753635.1,2014,North America,USA,Chicken,Heidelberg,mcr-9,15,Baseline
+PRJNA183850,SAMN02777832,GCA_007755295.1,2004,North America,USA,Chicken,Schwarzengrund,mcr-9,96,Baseline
+PRJNA183850,SAMN02777830,GCA_007755835.1,2004,North America,USA,Chicken,Schwarzengrund,mcr-9,96,Baseline
+PRJNA183851,SAMN04217261,GCA_007756715.1,2009,North America,USA,Chicken,Saintpaul,mcr-9,27,Baseline
+PRJNA183851,SAMN04217210,GCA_007756795.1,2009,North America,USA,Chicken,Senftenberg,mcr-9,14,Baseline
+PRJNA284276,SAMN04255139,GCA_007757035.1,2010,North America,USA,Chicken,Saintpaul,mcr-9,27,Baseline
+PRJNA284276,SAMN04255127,GCA_007757055.1,2010,North America,USA,Chicken,Saintpaul,mcr-9,27,Baseline
+PRJNA183848,SAMN04256083,GCA_007757265.1,2010,North America,USA,Chicken,Saintpaul,mcr-9,27,Baseline
+PRJNA183850,SAMN04224237,GCA_007757435.1,2008,North America,USA,Chicken,Saintpaul,mcr-9,27,Baseline
+PRJNA183850,SAMN04224258,GCA_007757515.1,2008,North America,USA,Chicken,Saintpaul,mcr-9,27,Baseline
+PRJNA183850,SAMN04224236,GCA_007757575.1,2008,North America,USA,Chicken,Saintpaul,mcr-9,27,Baseline
+PRJNA284276,SAMN04255140,GCA_007757715.1,2010,North America,USA,Chicken,Saintpaul,mcr-9,27,Baseline
+PRJNA183851,SAMN04217218,GCA_007757805.1,2009,North America,USA,Chicken,Saintpaul,mcr-9,27,Baseline
+PRJNA183851,SAMN04217211,GCA_007757855.1,2009,North America,USA,Chicken,Heidelberg,mcr-9,15,Baseline
+PRJNA183851,SAMN04217222,GCA_007758235.1,2009,North America,USA,Chicken,Saintpaul,mcr-9,27,Baseline
+PRJNA292661,SAMN03988280,GCA_007758295.2,2014,North America,USA,Chicken,Heidelberg,mcr-9,15,Baseline
+PRJNA183851,SAMN04217221,GCA_007758315.1,2009,North America,USA,Chicken,Saintpaul,mcr-9,27,Baseline
+PRJNA183848,SAMN04256051,GCA_007758435.1,2010,North America,USA,Chicken,Saintpaul,mcr-9,27,Baseline
+PRJNA183851,SAMN04217232,GCA_007758615.1,2009,North America,USA,Chicken,Saintpaul,mcr-9,27,Baseline
+PRJNA183848,SAMN04256042,GCA_007758635.1,2010,North America,USA,Chicken,Saintpaul,mcr-9,27,Baseline
+PRJNA183851,SAMN04217230,GCA_007758675.1,2009,North America,USA,Chicken,Saintpaul,mcr-9,27,Baseline
+PRJNA183851,SAMN04217231,GCA_007758695.1,2009,North America,USA,Chicken,Saintpaul,mcr-9,27,Baseline
+PRJNA183851,SAMN04217238,GCA_007758915.1,2009,North America,USA,Chicken,Saintpaul,mcr-9,27,Baseline
+PRJNA183851,SAMN04217223,GCA_007758935.1,2009,North America,USA,Chicken,Saintpaul,mcr-9,27,Baseline
+PRJNA183848,SAMN04256058,GCA_007758975.1,2010,North America,USA,Chicken,Saintpaul,mcr-9,27,Baseline
+PRJNA183848,SAMN04256014,GCA_007758995.1,2010,North America,USA,Chicken,Saintpaul,mcr-9,27,Baseline
+PRJNA183848,SAMN04256057,GCA_007759055.1,2010,North America,USA,Chicken,Saintpaul,mcr-9,27,Baseline
+PRJNA183850,SAMN04224384,GCA_007759115.1,2009,North America,USA,Chicken,Mbandaka,mcr-9,413,Baseline
+PRJNA183848,SAMN04256049,GCA_007759135.1,2010,North America,USA,Chicken,Saintpaul,mcr-9,27,Baseline
+PRJNA183851,SAMN04217262,GCA_007759275.1,2009,North America,USA,Chicken,Saintpaul,mcr-9,27,Baseline
+PRJNA183851,SAMN04217338,GCA_007759375.1,2009,North America,USA,Chicken,Saintpaul,mcr-9,27,Baseline
+PRJNA183850,SAMN04224340,GCA_007759395.1,2009,North America,USA,Chicken,Saintpaul,mcr-9,27,Baseline
+PRJNA183851,SAMN04217301,GCA_007759425.1,2009,North America,USA,Chicken,Saintpaul,mcr-9,27,Baseline
+PRJNA183851,SAMN04217341,GCA_007759495.1,2009,North America,USA,Chicken,Saintpaul,mcr-9,27,Baseline
+PRJNA183851,SAMN04217284,GCA_007759555.1,2009,North America,USA,Chicken,Saintpaul,mcr-9,27,Baseline
+PRJNA183851,SAMN04217299,GCA_007759695.1,2009,North America,USA,Chicken,Saintpaul,mcr-9,27,Baseline
+PRJNA183850,SAMN04224357,GCA_007759715.1,2009,North America,USA,Chicken,Saintpaul,mcr-9,27,Baseline
+PRJNA183850,SAMN04224361,GCA_007759735.1,2009,North America,USA,Chicken,Saintpaul,mcr-9,27,Baseline
+PRJNA183850,SAMN04224350,GCA_007759835.1,2009,North America,USA,Chicken,Saintpaul,mcr-9,27,Baseline
+PRJNA284276,SAMN04255123,GCA_007759915.1,2010,North America,USA,Chicken,Saintpaul,mcr-9,27,Baseline
+PRJNA183850,SAMN04224436,GCA_007759955.1,2009,North America,USA,Chicken,Saintpaul,mcr-9,27,Baseline
+PRJNA183850,SAMN04224439,GCA_007760035.1,2009,North America,USA,Chicken,Saintpaul,mcr-9,27,Baseline
+PRJNA183850,SAMN04224437,GCA_007760075.1,2009,North America,USA,Chicken,Saintpaul,mcr-9,27,Baseline
+PRJNA183850,SAMN04224438,GCA_007760085.1,2009,North America,USA,Chicken,Saintpaul,mcr-9,27,Baseline
+PRJNA183850,SAMN04224434,GCA_007760115.1,2009,North America,USA,Chicken,Senftenberg,mcr-9,14,Baseline
+PRJNA183850,SAMN04224445,GCA_007760155.1,2009,North America,USA,Chicken,Saintpaul,mcr-9,27,Baseline
+PRJNA183848,SAMN04256016,GCA_007760175.1,2010,North America,USA,Chicken,Saintpaul,mcr-9,27,Baseline
+PRJNA183850,SAMN04224457,GCA_007760195.1,2009,North America,USA,Chicken,Saintpaul,mcr-9,27,Baseline
+PRJNA183850,SAMN04224446,GCA_007760215.1,2009,North America,USA,Chicken,Saintpaul,mcr-9,27,Baseline
+PRJNA183850,SAMN04224451,GCA_007760235.1,2009,North America,USA,Chicken,Saintpaul,mcr-9,27,Baseline
+PRJNA183850,SAMN04224449,GCA_007760295.1,2009,North America,USA,Chicken,Saintpaul,mcr-9,27,Baseline
+PRJNA183850,SAMN04224452,GCA_007760335.1,2009,North America,USA,Chicken,Saintpaul,mcr-9,27,Baseline
+PRJNA183850,SAMN04224448,GCA_007760355.1,2009,North America,USA,Chicken,Saintpaul,mcr-9,27,Baseline
+PRJNA183850,SAMN04224447,GCA_007760375.1,2009,North America,USA,Chicken,Saintpaul,mcr-9,27,Baseline
+PRJNA183850,SAMN04224450,GCA_007760395.1,2009,North America,USA,Chicken,Saintpaul,mcr-9,27,Baseline
+PRJNA183848,SAMN04255416,GCA_007760445.1,2009,North America,USA,Chicken,Saintpaul,mcr-9,27,Baseline
+PRJNA183848,SAMN04255391,GCA_007760475.1,2009,North America,USA,Chicken,Saintpaul,mcr-9,27,Baseline
+PRJNA183851,SAMN04217432,GCA_007760535.1,2009,North America,USA,Chicken,Saintpaul,mcr-9,27,Baseline
+PRJNA183850,SAMN04224453,GCA_007760545.1,2009,North America,USA,Chicken,Saintpaul,mcr-9,27,Baseline
+PRJNA284276,SAMN04255188,GCA_007760665.1,2010,North America,USA,Chicken,Saintpaul,mcr-9,27,Baseline
+PRJNA183847,SAMN04218113,GCA_007760685.1,2008,North America,USA,Chicken,Saintpaul,mcr-9,27,Baseline
+PRJNA183850,SAMN04224486,GCA_007760735.1,2009,North America,USA,Chicken,Saintpaul,mcr-9,27,Baseline
+PRJNA183850,SAMN04224471,GCA_007760785.1,2009,North America,USA,Chicken,Saintpaul,mcr-9,27,Baseline
+PRJNA183850,SAMN04224474,GCA_007760845.1,2009,North America,USA,Chicken,Saintpaul,mcr-9,27,Baseline
+PRJNA183850,SAMN04224464,GCA_007761025.1,2009,North America,USA,Chicken,Saintpaul,mcr-9,27,Baseline
+PRJNA183850,SAMN04224466,GCA_007761065.1,2009,North America,USA,Chicken,Saintpaul,mcr-9,27,Baseline
+PRJNA183850,SAMN04224473,GCA_007761085.1,2009,North America,USA,Chicken,Saintpaul,mcr-9,27,Baseline
+PRJNA284276,SAMN04255186,GCA_007761105.1,2010,North America,USA,Chicken,Saintpaul,mcr-9,27,Baseline
+PRJNA183850,SAMN04224485,GCA_007761125.1,2009,North America,USA,Chicken,Saintpaul,mcr-9,27,Baseline
+PRJNA183850,SAMN04224482,GCA_007761225.1,2009,North America,USA,Chicken,Saintpaul,mcr-9,27,Baseline
+PRJNA183850,SAMN04224483,GCA_007761325.1,2009,North America,USA,Chicken,Saintpaul,mcr-9,27,Baseline
+PRJNA183847,SAMN04218177,GCA_007761515.1,2008,North America,USA,Chicken,Saintpaul,mcr-9,27,Baseline
+PRJNA284276,SAMN04255206,GCA_007761575.1,2010,North America,USA,Chicken,Saintpaul,mcr-9,27,Baseline
+PRJNA183847,SAMN04218205,GCA_007761675.1,2008,North America,USA,Chicken,Saintpaul,mcr-9,27,Baseline
+PRJNA284276,SAMN04255208,GCA_007761855.1,2010,North America,USA,Chicken,Saintpaul,mcr-9,27,Baseline
+PRJNA230403,SAMN04526242,GCA_007761895.1,2015,North America,USA,Human,"I 1,4,[5],12:i:-",mcr-9,34,High-Res only
+PRJNA183847,SAMN04218204,GCA_007761915.1,2008,North America,USA,Chicken,Saintpaul,mcr-9,27,Baseline
+PRJNA183848,SAMN04255344,GCA_007762055.1,2009,North America,USA,Chicken,Saintpaul,mcr-9,27,Baseline
+PRJNA183847,SAMN04218239,GCA_007762135.1,2008,North America,USA,Chicken,Saintpaul,mcr-9,27,Baseline
+PRJNA183850,SAMN04224344,GCA_007762255.1,2009,North America,USA,Chicken,Saintpaul,mcr-9,27,Baseline
+PRJNA230403,SAMN05936821,GCA_007762435.1,2016,North America,USA,Human,Heidelberg,mcr-9,15,High-VF only
+PRJNA183847,SAMN04218213,GCA_007762455.1,2008,North America,USA,Chicken,Saintpaul,mcr-9,27,Baseline
+PRJNA183847,SAMN04218235,GCA_007762485.1,2008,North America,USA,Chicken,Saintpaul,mcr-9,27,Baseline
+PRJNA183847,SAMN04218237,GCA_007762515.1,2008,North America,USA,Chicken,Saintpaul,mcr-9,27,Baseline
+PRJNA292661,SAMN04576611,GCA_007762555.1,2015,North America,USA,Chicken,Heidelberg,mcr-9,15,Baseline
+PRJNA284276,SAMN04255243,GCA_007762615.1,2010,North America,USA,Chicken,Saintpaul,mcr-9,27,Baseline
+PRJNA284276,SAMN04255245,GCA_007762715.1,2010,North America,USA,Chicken,Saintpaul,mcr-9,27,Baseline
+PRJNA292661,SAMN05771787,GCA_007762835.1,2015,North America,USA,Chicken,Saintpaul,mcr-9,27,Baseline
+PRJNA284276,SAMN04255265,GCA_007762875.1,2010,North America,USA,Chicken,Saintpaul,mcr-9,27,Baseline
+PRJNA183850,SAMN04224343,GCA_007762895.1,2009,North America,USA,Chicken,Saintpaul,mcr-9,27,Baseline
+PRJNA284276,SAMN04255257,GCA_007762915.1,2010,North America,USA,Chicken,Saintpaul,mcr-9,27,Baseline
+PRJNA183847,SAMN04218276,GCA_007762995.1,2008,North America,USA,Chicken,Saintpaul,mcr-9,27,Baseline
+PRJNA242847,SAMN07206081,GCA_007763095.1,2017,North America,USA,Chicken,Albany,mcr-9,292,Baseline
+PRJNA183847,SAMN04218284,GCA_007763175.1,2008,North America,USA,Chicken,Saintpaul,mcr-9,27,Baseline
+PRJNA183848,SAMN04255392,GCA_007763515.1,2009,North America,USA,Chicken,Saintpaul,mcr-9,27,Baseline
+PRJNA183848,SAMN04255408,GCA_007763655.1,2009,North America,USA,Chicken,Saintpaul,mcr-9,27,Baseline
+PRJNA230403,SAMN06481940,GCA_007764095.1,2017,North America,USA,Human,Typhimurium,mcr-9,19,Hybrid
+PRJNA230403,SAMN06231033,GCA_007764135.1,2016,North America,USA,Human,Oranienburg,mcr-9,174,Baseline
+PRJNA242847,SAMN06210364,GCA_007764155.1,2016,North America,USA,Chicken,Johannesburg,mcr-9,471,Baseline
+PRJNA230403,SAMN06642213,GCA_007764335.1,2017,North America,USA,Human,"I 1,4,[5],12:i:-",mcr-9,34,Baseline
+PRJNA230403,SAMN06642211,GCA_007764395.1,2017,North America,USA,Human,"I 1,4,[5],12:i:-",mcr-9,34,Baseline
+PRJNA230403,SAMN06645425,GCA_007764435.1,2017,North America,USA,Human,"I 1,4,[5],12:i:-",mcr-9,34,High-Res only
+PRJNA230403,SAMN06062365,GCA_007764495.1,2016,North America,USA,Human,"I 1,4,[5],12:i:-",mcr-9,34,High-Res only
+PRJNA230403,SAMN07376319,GCA_007764775.1,2017,North America,USA,Human,Typhimurium,mcr-9,19,Hybrid
+PRJNA230403,SAMN07510173,GCA_007764795.1,2017,North America,USA,Human,"I 1,4,[5],12:i:-",mcr-9,34,High-Res only
+PRJNA230403,SAMN07445509,GCA_007764815.1,2017,North America,USA,Human,"I 1,4,[5],12:i:-",mcr-9,34,High-Res only
+PRJNA292661,SAMN08114278,GCA_007765235.1,2016,North America,USA,Chicken,Heidelberg,mcr-9,15,Baseline
+PRJNA292661,SAMN08113918,GCA_007765255.1,2016,North America,USA,Chicken,Heidelberg,mcr-9,15,Baseline
+PRJNA292661,SAMN08114082,GCA_007765315.1,2016,North America,USA,Chicken,Heidelberg,mcr-9,15,Baseline
+PRJNA292661,SAMN08113998,GCA_007765335.1,2016,North America,USA,Chicken,Heidelberg,mcr-9,15,Baseline
+PRJNA292661,SAMN08114139,GCA_007765355.2,2016,North America,USA,Chicken,Saintpaul,mcr-9,27,Baseline
+PRJNA230403,SAMN07679727,GCA_007765555.1,2017,North America,USA,Human,"I 1,4,[5],12:i:-",mcr-9,34,High-Res only
+PRJNA242847,SAMN07728449,GCA_007765685.1,2017,North America,USA,Chicken,Ouakam,mcr-9,1610,Baseline
+PRJNA242847,SAMN07738617,GCA_007765735.1,2017,North America,USA,Chicken,Albany,mcr-9,292,Baseline
+PRJNA292666,SAMN08115106,GCA_007765935.1,2017,North America,USA,Chicken,Albany,mcr-9,292,Baseline
+PRJNA292661,SAMN08114189,GCA_007765975.1,2016,North America,USA,Chicken,Heidelberg,mcr-9,15,Baseline
+PRJNA292661,SAMN08114190,GCA_007765995.2,2016,North America,USA,Chicken,Heidelberg,mcr-9,15,Baseline
+PRJNA292661,SAMN08114265,GCA_007766035.1,2016,North America,USA,Chicken,Heidelberg,mcr-9,15,Baseline
+PRJNA292661,SAMN08114169,GCA_007766055.1,2016,North America,USA,Chicken,Heidelberg,mcr-9,15,Baseline
+PRJNA292661,SAMN08114264,GCA_007766095.1,2016,North America,USA,Chicken,Heidelberg,mcr-9,15,Baseline
+PRJNA292661,SAMN08114094,GCA_007766115.1,2016,North America,USA,Chicken,Albany,mcr-9,292,Baseline
+PRJNA292661,SAMN08114193,GCA_007766135.1,2016,North America,USA,Chicken,Heidelberg,mcr-9,15,Baseline
+PRJNA292661,SAMN08114239,GCA_007766155.1,2016,North America,USA,Chicken,Heidelberg,mcr-9,15,Baseline
+PRJNA292661,SAMN08114234,GCA_007766185.1,2016,North America,USA,Chicken,Heidelberg,mcr-9,15,Baseline
+PRJNA230403,SAMN08182992,GCA_007766215.1,2017,North America,USA,Human,"I 1,4,[5],12:i:-",mcr-9,2379,High-Res only
+PRJNA230403,SAMN07836391,GCA_007766255.1,2017,North America,USA,Human,"I 1,4,[5],12:i:-",mcr-9,34,High-Res only
+PRJNA230403,SAMN08355124,GCA_007766275.1,2017,North America,USA,Human,"I 1,4,[5],12:i:-",mcr-9,34,High-Res only
+PRJNA242847,SAMN08384068,GCA_007766295.1,2018,North America,USA,Chicken,Heidelberg,mcr-9,15,Baseline
+PRJNA230403,SAMN08226104,GCA_007766495.1,2017,North America,USA,Human,Albany,mcr-9,292,Baseline
+PRJNA230403,SAMN08436878,GCA_007766515.1,2018,North America,USA,Human,Typhimurium,mcr-9,19,High-Res only
+PRJNA230403,SAMN08616366,GCA_007766615.1,2018,North America,USA,Human,"I 1,4,[5],12:i:-",mcr-9,34,High-Res only
+PRJNA242847,SAMN08929369,GCA_007766825.1,2018,North America,USA,Chicken,Heidelberg,mcr-9,15,Baseline
+PRJNA230403,SAMN08774871,GCA_007766885.1,2017,North America,USA,Human,"I 1,4,[5],12:i:-",mcr-9,34,High-Res only
+PRJNA230403,SAMN08773694,GCA_007767025.1,2018,North America,USA,Human,Mbandaka,mcr-9,413,High-Res only
+PRJNA230403,SAMN08784364,GCA_007767045.1,2018,North America,USA,Human,"I 1,4,[5],12:i:-",mcr-9,34,High-Res only
+PRJNA230403,SAMN08942967,GCA_007767225.1,2017,North America,USA,Human,"I 1,4,[5],12:i:-",mcr-9,34,High-Res only
+PRJNA248792,SAMN09396833,GCA_007770865.1,2017,Europe,United Kingdom,Human,"I 1,4,[5],12:i:-",mcr-1,34,Baseline
+PRJNA248792,SAMN09522028,GCA_007773425.1,2017,Europe,United Kingdom,Human,"I 1,4,[5],12:i:-",mcr-1,34,Baseline
+PRJNA248792,SAMN09566772,GCA_007773985.1,2016,Europe,United Kingdom,Human,Choleraesuis,mcr-3,139,Hybrid
+PRJNA248792,SAMN10094143,GCA_007777685.1,2018,Europe,United Kingdom,Human,"I 1,4,[5],12:i:-",mcr-1,34,High-Res only
+PRJNA248792,SAMN10058716,GCA_007778325.1,2018,Europe,United Kingdom,Human,"I 1,4,[5],12:i:-",mcr-3,34,High-Res only
+PRJNA248792,SAMN10662465,GCA_007779905.1,2018,Europe,United Kingdom,Human,"I 1,4,[5],12:i:-",mcr-9,34,Baseline
+PRJNA248792,SAMN10848803,GCA_007782045.1,2018,Europe,United Kingdom,Human,"I 1,4,[5],12:i:-",mcr-1,34,Baseline
+PRJNA248792,SAMN10407566,GCA_007782225.1,2018,Europe,United Kingdom,Human,"I 1,4,[5],12:i:-",mcr-9,34,Baseline
+PRJNA248792,SAMN10872228,GCA_007784055.1,2017,Europe,United Kingdom,Human,"I 1,4,[5],12:i:-",mcr-1,34,Baseline
+PRJNA248792,SAMN11086265,GCA_007789715.1,2016,Europe,United Kingdom,Human,Paratyphi B var. Java,mcr-1,423,Baseline
+PRJNA248792,SAMN11356643,GCA_007791295.1,2019,Europe,United Kingdom,Human,"I 1,4,[5],12:i:-",mcr-3,34,High-Res only
+PRJNA183851,SAMN04217276,GCA_007815195.1,2009,North America,USA,Chicken,Saintpaul,mcr-9,27,Baseline
+PRJNA292661,SAMN04576680,GCA_007815565.2,2015,North America,USA,Chicken,Johannesburg,mcr-9,471,Baseline
+PRJNA183850,SAMN04224478,GCA_007815835.1,2009,North America,USA,Chicken,Saintpaul,mcr-9,27,Baseline
+PRJNA183850,SAMN02777833,GCA_007816555.1,2004,North America,USA,Chicken,Schwarzengrund,mcr-9,96,Baseline
+PRJNA292661,SAMN03988231,GCA_007816835.2,2014,North America,USA,Chicken,Saintpaul,mcr-9,27,Baseline
+PRJNA183850,SAMN04224333,GCA_007817655.1,2009,North America,USA,Chicken,Saintpaul,mcr-9,27,Baseline
+PRJNA284276,SAMN04255209,GCA_007818125.1,2010,North America,USA,Chicken,Saintpaul,mcr-9,27,Baseline
+PRJNA292661,SAMN03988237,GCA_007818465.1,2014,North America,USA,Chicken,Saintpaul,mcr-9,27,Baseline
+PRJNA284276,SAMN04255246,GCA_007818765.1,2010,North America,USA,Chicken,Saintpaul,mcr-9,27,Baseline
+PRJNA183850,SAMN04224470,GCA_007818815.1,2009,North America,USA,Chicken,Saintpaul,mcr-9,27,Baseline
+PRJNA284276,SAMN04255181,GCA_007818845.1,2010,North America,USA,Chicken,Saintpaul,mcr-9,27,Baseline
+PRJNA183850,SAMN04224467,GCA_007818885.1,2009,North America,USA,Chicken,Saintpaul,mcr-9,27,Baseline
+PRJNA183848,SAMN04256013,GCA_007818945.1,2010,North America,USA,Chicken,Saintpaul,mcr-9,27,Baseline
+PRJNA230403,SAMN06117959,GCA_007818985.1,2009,North America,USA,Human,Concord,mcr-9,534,High-Res only
+PRJNA183847,SAMN04218238,GCA_007819025.1,2008,North America,USA,Chicken,Saintpaul,mcr-9,27,Baseline
+PRJNA242847,SAMN06710547,GCA_007819045.1,2017,North America,USA,Chicken,Heidelberg,mcr-9,15,Baseline
+PRJNA284276,SAMN04255134,GCA_007819125.1,2010,North America,USA,Chicken,Saintpaul,mcr-9,27,Baseline
+PRJNA183851,SAMN04217254,GCA_007819135.1,2009,North America,USA,Chicken,Saintpaul,mcr-9,27,Baseline
+PRJNA183848,SAMN04256056,GCA_007819205.1,2010,North America,USA,Chicken,Saintpaul,mcr-9,27,Baseline
+PRJNA230403,SAMN07439605,GCA_007819365.1,2017,North America,USA,Human,"I 1,4,[5],12:i:-",mcr-9,34,High-Res only
+PRJNA242847,SAMN08015651,GCA_007819505.1,2017,North America,USA,Chicken,Mbandaka,mcr-9,413,Baseline
+PRJNA230403,SAMN08773407,GCA_007819915.1,2017,North America,USA,Human,"I 1,4,[5],12:i:-",mcr-9,34,High-Res only
+PRJNA230403,SAMN09198053,GCA_007820055.1,2018,North America,USA,Human,"I 1,4,[5],12:i:-",mcr-9,34,High-Res only
+PRJNA248792,SAMN10959469,GCA_007822225.1,2017,Europe,United Kingdom,Human,"I 1,4,[5],12:i:-",mcr-1,34,Baseline
+PRJNA183850,SAMN04224465,GCA_007908065.1,2009,North America,USA,Chicken,Saintpaul,mcr-9,27,Baseline
+PRJNA183847,SAMN04218223,GCA_007908085.1,2008,North America,USA,Chicken,Saintpaul,mcr-9,27,Baseline
+PRJNA242847,SAMN04930929,GCA_007908225.1,2015,North America,USA,Chicken,"I 1,4,[5],12:i:-",mcr-9,2379,High-Res only
+PRJNA186035,SAMN07716581,GCA_007908245.1,2015,North America,USA,Chicken,Albany,mcr-9,292,Baseline
+PRJNA248792,SAMN12509259,GCA_007971725.1,2019,Europe,United Kingdom,Human,Enteritidis,mcr-1,11,High-VF only
+PRJNA248792,SAMN12529148,GCA_007981465.1,2019,Europe,United Kingdom,Human,"I 1,4,[5],12:i:-",mcr-3,34,High-Res only
+PRJNA248792,SAMN03168960,GCA_008035085.1,2012,Europe,United Kingdom,Human,Typhimurium,mcr-1,34,Baseline
+PRJNA248792,SAMN03475464,GCA_008052975.1,2015,Europe,United Kingdom,Human,Typhimurium,mcr-1,36,High-Res only
+PRJNA248792,SAMN03475704,GCA_008055555.1,2014,Europe,United Kingdom,Human,"I 1,4,[5],12:i:-",mcr-3,34,High-Res only
+PRJNA248792,SAMN03476238,GCA_008061155.1,2014,Europe,United Kingdom,Human,Typhimurium,mcr-3,34,High-Res only
+PRJNA248792,SAMN03476280,GCA_008061995.1,2014,Europe,United Kingdom,Human,Typhimurium,mcr-3,34,High-Res only
+PRJNA248792,SAMN03477257,GCA_008078595.1,2014,Europe,United Kingdom,Human,"I 1,4,[5],12:i:-",mcr-3,34,High-Res only
+PRJNA248792,SAMN03477505,GCA_008093845.1,2014,Europe,United Kingdom,Human,"I 1,4,[5],12:i:-",mcr-3,34,High-Res only
+PRJNA248792,SAMN03477516,GCA_008094085.1,2014,Europe,United Kingdom,Human,Typhimurium,mcr-1,36,High-Res only
+PRJNA248792,SAMN03478470,GCA_008108685.1,2014,Europe,United Kingdom,Human,"I 1,4,[5],12:i:-",mcr-3,34,High-Res only
+PRJNA248792,SAMN03479224,GCA_008201165.1,2014,Europe,United Kingdom,Human,Virchow,mcr-1,16,Baseline
+PRJNA242847,SAMN09633838,GCA_008451525.1,2018,North America,USA,Chicken,Albany,mcr-9,292,Baseline
+PRJNA292661,SAMN12746084,GCA_008466885.1,2019,North America,USA,Chicken,Agona,mcr-9,13,Baseline
+PRJNA292661,SAMN05201554,GCA_008479025.1,2011,North America,USA,Chicken,Saintpaul,mcr-9,27,Baseline
+PRJNA248792,SAMN10867448,GCA_008540555.1,2018,Europe,United Kingdom,Human,Typhimurium,mcr-1,36,High-Res only
+PRJNA292666,SAMN09633400,GCA_008543795.1,2018,North America,USA,Chicken,Tennessee,mcr-9,319,Baseline
+PRJNA248792,SAMN04601100,GCA_008880965.1,2015,Europe,United Kingdom,Human,"I 1,4,[5],12:i:-",mcr-3,34,High-Res only
+PRJNA292661,SAMN12930429,GCA_008917945.2,2018,North America,USA,Chicken,Albany,mcr-9,292,Baseline
+PRJNA521810,SAMN10914547,GCA_008931245.1,2017,Asia,China,Human,"I 1,4,[5],12:i:-",mcr-1,34,High-Res only
+PRJNA248792,SAMN12995416,GCA_008963135.1,2019,Europe,United Kingdom,Human,Thompson,mcr-9,26,High-Res only
+PRJNA230403,SAMN06215632,GCA_009119945.1,2016,North America,USA,Human,Typhimurium,mcr-1,19,High-Res only
+PRJNA230403,SAMN06345874,GCA_009130645.1,2014,North America,USA,Human,Corvallis,mcr-1,1541,High-Res only
+PRJNA248792,SAMN06680580,GCA_009191245.1,2015,Europe,United Kingdom,Human,Bovismorbificans,mcr-3,1499,High-Res only
+PRJNA248792,SAMN07155624,GCA_009249365.1,2017,Europe,United Kingdom,Human,Rissen,mcr-1,469,Baseline
+PRJNA203445,SAMN02367962,GCA_009255425.1,2011,North America,USA,Chicken,Saintpaul,mcr-9,27,Baseline
+PRJNA203445,SAMN02367678,GCA_009256545.1,1987,North America,USA,Chicken,Heidelberg,mcr-9,15,Baseline
+PRJNA248792,SAMN07180765,GCA_009293785.1,2017,Europe,United Kingdom,Human,Rissen,mcr-1,469,Baseline
+PRJNA230403,SAMN05291972,GCA_009313275.1,2016,North America,USA,Human,"I 1,4,[5],12:i:-",mcr-3,34,High-Res only
+PRJNA242847,SAMN13111040,GCA_009380395.1,2019,North America,USA,Chicken,Agona,mcr-9,13,Baseline
+PRJNA248792,SAMN07695276,GCA_009506335.1,2016,Europe,United Kingdom,Human,"I 1,4,[5],12:i:-",mcr-3,34,High-Res only
+PRJNA248792,SAMN07690398,GCA_009552015.1,2015,Europe,United Kingdom,Human,Typhimurium,mcr-3,34,High-Res only
+PRJNA248792,SAMN07717980,GCA_009555275.1,2015,Europe,United Kingdom,Human,"I 1,4,[5],12:i:-",mcr-3,34,Baseline
+PRJNA248792,SAMN08100378,GCA_009577105.1,2015,Europe,United Kingdom,Human,Stanley,mcr-3,29,Baseline
+PRJNA292661,SAMN08114205,GCA_009579585.1,2016,North America,USA,Chicken,Heidelberg,mcr-9,15,Baseline
+PRJNA556438,SAMN13191646,GCA_009664635.1,2012,Oceania,Australia,Human,Typhimurium,mcr-3,34,High-Res only
+PRJNA594253,SAMN13509270,GCA_009806735.1,2019,Asia,China,Environment,"I 1,4,[5],12:i:-",mcr-1,34,Hybrid
+PRJNA540823,SAMN11565622,GCA_009930515.1,2017,Asia,China,Human,"I 1,4,[5],12:i:-",mcr-3,34,Hybrid
+PRJNA540823,SAMN11565621,GCA_009930525.1,2016,Asia,China,Human,"I 1,4,[5],12:i:-",mcr-3,34,High-Res only
+PRJNA540823,SAMN11565620,GCA_009930535.1,2016,Asia,China,Human,"I 1,4,[5],12:i:-",mcr-3,34,Hybrid
+PRJNA540823,SAMN11565619,GCA_009930575.1,2016,Asia,China,Human,"I 1,4,[5],12:i:-",mcr-3,34,High-Res only
+PRJNA540823,SAMN11565618,GCA_009930595.1,2016,Asia,China,Human,"I 1,4,[5],12:i:-",mcr-3,34,High-Res only
+PRJNA540823,SAMN11565617,GCA_009930605.1,2016,Asia,China,Human,Typhimurium,mcr-3,34,Hybrid
+PRJNA540823,SAMN11565616,GCA_009930615.1,2015,Asia,China,Human,"I 1,4,[5],12:i:-",mcr-3,34,Hybrid
+PRJNA540823,SAMN11565615,GCA_009930655.1,2015,Asia,China,Human,"I 1,4,[5],12:i:-",mcr-3,34,Hybrid
+PRJNA540823,SAMN11565614,GCA_009930675.1,2015,Asia,China,Human,"I 1,4,[5],12:i:-",mcr-3,34,Hybrid
+PRJNA540823,SAMN11565613,GCA_010078375.1,2015,Asia,China,Human,"I 1,4,[5],12:i:-",mcr-3,34,Hybrid
+PRJNA292661,SAMN08114288,GCA_010130125.1,2016,North America,USA,Chicken,Heidelberg,mcr-9,15,High-VF only
+PRJNA478278,SAMN09789009,GCA_010252615.1,2017,Asia,China,Human,Anatum,mcr-1,64,High-Res only
+PRJNA478278,SAMN09788976,GCA_010252795.1,2013,Asia,China,Human,Anatum,Multiple mcr families,64,High-Res only
+PRJNA478278,SAMN09788977,GCA_010253415.1,2013,Asia,China,Human,Anatum,Multiple mcr families,64,High-Res only
+PRJNA478278,SAMN09899634,GCA_010254995.1,2017,Asia,China,Human,Enteritidis,mcr-1,11,High-VF only
+PRJNA478278,SAMN10425318,GCA_010258415.1,2016,Asia,China,Human,Typhimurium,mcr-9,36,Hybrid
+PRJNA478278,SAMN10425177,GCA_010258495.1,2014,Asia,China,Human,"I 1,4,[5],12:i:-",mcr-1,34,High-Res only
+PRJNA478278,SAMN10425262,GCA_010259545.1,2015,Asia,China,Human,"I 1,4,[5],12:i:-",mcr-1,34,Baseline
+PRJNA248792,SAMN07716017,GCA_010381145.1,2015,Europe,United Kingdom,Human,"I 1,4,[5],12:i:-",mcr-1,34,High-Res only
+PRJNA248792,SAMN07690361,GCA_010381585.1,2015,Europe,United Kingdom,Human,"I 1,4,[5],12:i:-",mcr-3,34,Baseline
+PRJNA248792,SAMN13676348,GCA_010438515.1,2019,Europe,United Kingdom,Human,"I 1,4,[5],12:i:-",mcr-3,34,Baseline
+PRJNA248792,SAMN07432031,GCA_010460565.1,2017,Europe,United Kingdom,Human,"I 1,4,[5],12:i:-",mcr-3,34,High-Res only
+PRJNA248792,SAMN04599378,GCA_010516375.1,2015,Europe,United Kingdom,Human,Choleraesuis,mcr-3,139,Hybrid
+PRJNA292666,SAMN13474564,GCA_010617365.1,2019,North America,USA,Chicken,Heidelberg,mcr-9,15,Baseline
+PRJNA248792,SAMN07695504,GCA_010736355.1,2015,Europe,United Kingdom,Human,"I 1,4,[5],12:i:-",mcr-1,34,Baseline
+PRJNA248792,SAMN07690323,GCA_010738405.1,2016,Europe,United Kingdom,Human,"I 1,4,[5],12:i:-",mcr-5,1681,High-Res only
+PRJNA248792,SAMN07719076,GCA_010771235.1,2016,Europe,United Kingdom,Human,"I 1,4,[5],12:i:-",mcr-3,34,High-Res only
+PRJNA292661,SAMN13808813,GCA_010804465.2,2018,North America,USA,Chicken,Albany,mcr-9,292,Baseline
+PRJNA230403,SAMN13546308,GCA_010860345.1,2015,North America,USA,Human,Heidelberg,mcr-9,15,Baseline
+PRJNA248792,SAMN03469098,GCA_010870325.1,2014,Europe,United Kingdom,Human,"I 1,4,[5],12:i:-",mcr-1,34,High-Res only
+PRJNA230403,SAMN08773116,GCA_010931375.2,2018,North America,USA,Human,Enteritidis,mcr-1,11,Hybrid
+PRJNA248792,SAMN03480259,GCA_011109205.1,2014,Europe,United Kingdom,Human,"I 1,4,[5],12:i:-",mcr-3,34,High-Res only
+PRJNA248792,SAMN08797696,GCA_011150115.1,2016,Europe,United Kingdom,Human,Enteritidis,mcr-1,11,High-VF only
+PRJNA543337,SAMN14220343,GCA_011255335.1,2014,North America,Canada,Human,"I 1,4,[5],12:i:-",mcr-3,34,Baseline
+PRJNA248792,SAMN14271122,GCA_011294855.1,2020,Europe,United Kingdom,Human,Typhimurium,mcr-1,19,High-Res only
+PRJNA284276,SAMN14239580,GCA_011323255.1,2019,North America,USA,Chicken,Anatum,mcr-9,7838,High-Res only
+PRJNA248792,SAMN07155763,GCA_011433435.1,2017,Europe,United Kingdom,Human,"I 1,4,[5],12:i:-",mcr-1,34,Baseline
+PRJNA578814,SAMN13074811,GCA_011466815.1,2017,Asia,China,Human,Anatum,mcr-1,64,High-Res only
+PRJNA543337,SAMN14146126,GCA_011654935.1,2008,North America,Canada,Human,"I 1,4,[5],12:i:-",mcr-3,7832,High-Res only
+PRJNA284276,SAMN14212134,GCA_011698935.1,2019,North America,USA,Environment,Anatum,mcr-9,7838,High-Res only
+PRJNA248792,SAMN14418756,GCA_011730155.1,2020,Europe,United Kingdom,Human,"I 1,4,[5],12:i:-",mcr-3,34,High-Res only
+PRJNA578814,SAMN13074816,GCA_012028075.1,2018,Asia,China,Human,Anatum,mcr-1,64,High-Res only
+PRJNA615288,SAMN14450168,GCA_012051085.1,2013,Asia,China,Human,"I 1,4,[5],12:i:-",mcr-3,34,High-Res only
+PRJNA615288,SAMN14450166,GCA_012051385.1,2013,Asia,China,Human,"I 1,4,[5],12:i:-",mcr-3,34,Hybrid
+PRJNA242847,SAMN14544528,GCA_012105675.1,2020,North America,USA,Chicken,Cubana,mcr-9,286,Baseline
+PRJNA292661,SAMN02782579,GCA_012935235.1,2004,North America,USA,Chicken,Schwarzengrund,mcr-9,96,Baseline
+PRJNA292661,SAMN02640938,GCA_012935255.1,2003,North America,USA,Chicken,Schwarzengrund,mcr-9,96,Baseline
+PRJNA292661,SAMN03276122,GCA_012935275.1,2007,North America,USA,Chicken,Saintpaul,mcr-9,27,Baseline
+PRJNA186035,SAMN14677225,GCA_012957145.2,2019,North America,Trinidad and Tobago,Environment,Senftenberg,mcr-9,14,Baseline
+PRJNA543337,SAMN12993846,GCA_013099435.1,2018,North America,Canada,Human,Heidelberg,mcr-9,15,Baseline
+PRJNA242847,SAMN14999377,GCA_013156745.1,2020,North America,USA,Chicken,Agona,mcr-9,13,High-Res only
+PRJNA657488,SAMN15830804,GCA_014306215.1,2017,Asia,China,Human,"I 1,4,[5],12:i:-",mcr-1,34,High-Res only
+PRJNA657488,SAMN15830802,GCA_014306235.1,2017,Asia,China,Human,"I 1,4,[5],12:i:-",mcr-1,34,High-Res only
+PRJNA657488,SAMN15830803,GCA_014306255.1,2017,Asia,China,Human,"I 1,4,[5],12:i:-",mcr-1,34,High-Res only
+PRJNA657488,SAMN15830801,GCA_014306275.1,2017,Asia,China,Human,"I 1,4,[5],12:i:-",mcr-1,34,High-Res only
+PRJNA657488,SAMN15830800,GCA_014306285.1,2017,Asia,China,Human,"I 1,4,[5],12:i:-",mcr-1,34,High-Res only
+PRJNA657488,SAMN15830797,GCA_014306315.1,2017,Asia,China,Human,"I 1,4,[5],12:i:-",mcr-1,34,High-Res only
+PRJNA657488,SAMN15830799,GCA_014306325.1,2017,Asia,China,Human,"I 1,4,[5],12:i:-",mcr-1,34,High-Res only
+PRJNA657488,SAMN15830798,GCA_014306355.1,2017,Asia,China,Human,"I 1,4,[5],12:i:-",mcr-1,34,High-Res only
+PRJNA657488,SAMN15830796,GCA_014306375.1,2017,Asia,China,Human,"I 1,4,[5],12:i:-",mcr-1,34,High-Res only
+PRJNA657488,SAMN15830795,GCA_014306395.1,2017,Asia,China,Human,"I 1,4,[5],12:i:-",mcr-1,34,High-Res only
+PRJNA657488,SAMN15830794,GCA_014306405.1,2017,Asia,China,Human,"I 1,4,[5],12:i:-",mcr-1,34,High-Res only
+PRJNA657488,SAMN15830793,GCA_014306495.1,2017,Asia,China,Human,"I 1,4,[5],12:i:-",mcr-1,34,High-Res only
+PRJNA657488,SAMN15830789,GCA_014306535.1,2017,Asia,China,Human,Typhimurium,mcr-1,6020,High-Res only
+PRJNA657488,SAMN15830791,GCA_014306545.1,2017,Asia,China,Human,"I 1,4,[5],12:i:-",mcr-1,34,High-Res only
+PRJNA657488,SAMN15830788,GCA_014306555.1,2017,Asia,China,Human,"I 1,4,[5],12:i:-",mcr-1,34,Baseline
+PRJNA657488,SAMN15830786,GCA_014306565.1,2017,Asia,China,Human,Typhimurium,mcr-1,5401,High-Res only
+PRJNA657488,SAMN15830787,GCA_014306615.1,2017,Asia,China,Human,"I 1,4,[5],12:i:-",mcr-1,34,High-Res only
+PRJNA484865,SAMN15666301,GCA_014334215.1,2019,Europe,Russia,Human,"I 1,4,[5],12:i:-",mcr-9,34,High-Res only
+PRJNA484865,SAMN15666300,GCA_014334235.1,2018,Europe,Russia,Human,Bovismorbificans,mcr-1,142,Baseline
+PRJNA484865,SAMN15666299,GCA_014334255.1,2019,Europe,Russia,Chicken,Enteritidis,mcr-1,11,High-VF only
+PRJNA608221,SAMN14167974,GCA_014349455.1,2012,Asia,South Korea,Chicken,Senftenberg,mcr-9,14,High-Res only
+PRJNA478278,SAMN15944969,GCA_014349655.1,2017,Asia,China,Human,Albany,mcr-1,292,High-Res only
+PRJNA280335,SAMN14775116,GCA_014566255.1,2019,North America,USA,Environment,Ouakam,mcr-9,1610,Baseline
+PRJDB7539,SAMD00144879,GCA_014635465.1,2015,Asia,Japan,Chicken,Albany,mcr-5,292,Baseline
+PRJNA248792,SAMN16364345,GCA_015170295.1,2020,Europe,United Kingdom,Human,Typhimurium,mcr-9,19,High-Res only
+PRJNA660858,SAMN15962528,GCA_015697745.1,2018,Asia,China,Human,"I 1,4,[5],12:i:-",mcr-1,34,Hybrid
+PRJNA660858,SAMN15962527,GCA_015697765.1,2017,Asia,China,Human,Indiana,mcr-1,17,High-Res only
+PRJNA660858,SAMN15962525,GCA_015697785.1,2017,Asia,China,Human,"I 1,4,[5],12:i:-",mcr-1,34,High-Res only
+PRJNA660858,SAMN15962524,GCA_015697805.1,2016,Asia,China,Human,"I 1,4,[5],12:i:-",mcr-1,34,Hybrid
+PRJNA660858,SAMN15962523,GCA_015697825.1,2015,Asia,China,Human,"I 1,4,[5],12:i:-",mcr-1,34,High-Res only
+PRJNA660858,SAMN15962526,GCA_015732575.1,2017,Asia,China,Human,"I 1,4,[5],12:i:-",mcr-1,34,High-Res only
+PRJEB15708,SAMEA100282168,GCA_015885065.1,2013,Oceania,Australia,Human,Typhimurium,mcr-9,19,Hybrid
+PRJEB15708,SAMEA100297168,GCA_015885265.1,2015,Oceania,Australia,Human,Typhimurium,mcr-9,19,Hybrid
+PRJEB15708,SAMEA100297918,GCA_015885405.1,2016,Oceania,Australia,Human,Typhimurium,mcr-9,19,Hybrid
+PRJEB15708,SAMEA100290418,GCA_015885425.1,2014,Oceania,Australia,Human,Typhimurium,mcr-9,19,Hybrid
+PRJEB15708,SAMEA100299418,GCA_015885445.1,2016,Oceania,Australia,Human,Typhimurium,mcr-9,19,Hybrid
+PRJEB15708,SAMEA100288168,GCA_015885525.1,2014,Oceania,Australia,Human,Typhimurium,mcr-9,19,Hybrid
+PRJEB15708,SAMEA100282918,GCA_015885945.1,2013,Oceania,Australia,Human,Typhimurium,mcr-9,19,Hybrid
+PRJEB15708,SAMEA100293418,GCA_015886165.1,2015,Oceania,Australia,Human,Typhimurium,mcr-9,19,Hybrid
+PRJEB15708,SAMEA100291918,GCA_015886185.1,2015,Oceania,Australia,Human,Typhimurium,mcr-9,19,Hybrid
+PRJEB15708,SAMEA100298668,GCA_015886705.1,2016,Oceania,Australia,Human,Typhimurium,mcr-9,19,Hybrid
+PRJEB15708,SAMEA100292668,GCA_015886725.1,2015,Oceania,Australia,Human,Typhimurium,mcr-9,19,Hybrid
+PRJEB15708,SAMEA100276168,GCA_015886785.1,2012,Oceania,Australia,Human,Typhimurium,mcr-9,19,Hybrid
+PRJEB15708,SAMEA100288918,GCA_015886845.1,2014,Oceania,Australia,Human,Typhimurium,mcr-9,19,Hybrid
+PRJEB39546,SAMEA7129690,GCA_016025635.1,1987,North America,USA,Chicken,Heidelberg,mcr-9,15,Baseline
+PRJNA248792,SAMN17071993,GCA_016121395.1,2020,Europe,United Kingdom,Human,Mbandaka,mcr-9,413,Baseline
+PRJNA248792,SAMN17086470,GCA_016402385.1,2020,Europe,United Kingdom,Human,Mbandaka,mcr-9,413,Baseline
+PRJNA682289,SAMN16987039,GCA_016417355.1,2017,Asia,China,Chicken,"I 1,4,[5],12:i:-",mcr-1,34,High-Res only
+PRJNA292661,SAMN17192156,GCA_016467135.1,2020,North America,USA,Chicken,Montevideo,mcr-9,4,Baseline
+PRJNA669441,SAMN17359261,GCA_016746105.1,2015,Asia,China,Human,"I 1,4,[5],12:i:-",mcr-1,34,Hybrid
+PRJNA248792,SAMN17317190,GCA_016849165.1,2021,Europe,United Kingdom,Human,Mbandaka,mcr-9,413,Baseline
+PRJNA248792,SAMN17317154,GCA_016852065.1,2021,Europe,United Kingdom,Human,Mbandaka,mcr-9,413,Baseline
+PRJNA675435,SAMN16708136,GCA_016911795.1,2017,Asia,China,Chicken,Corvallis,mcr-1,1541,High-Res only
+PRJNA675435,SAMN16708117,GCA_016912195.1,2017,Asia,China,Chicken,Thompson,mcr-9,26,High-Res only
+PRJNA675435,SAMN16708108,GCA_016912355.1,2017,Asia,China,Chicken,Thompson,mcr-9,26,High-Res only
+PRJNA675435,SAMN16708049,GCA_016913515.1,2017,Asia,China,Chicken,Thompson,mcr-9,26,High-Res only
+PRJNA675435,SAMN16708179,GCA_016915715.1,2017,Asia,China,Chicken,Minnesota,mcr-9,548,High-Res only
+PRJNA248792,SAMN18039779,GCA_016954075.1,2021,Europe,United Kingdom,Human,Mbandaka,mcr-9,413,Baseline
+PRJNA280335,SAMN17767391,GCA_017144135.1,2019,North America,USA,Environment,Cubana,mcr-9,286,Baseline
+PRJNA280335,SAMN17767380,GCA_017144335.1,2019,North America,USA,Environment,Cubana,mcr-9,286,Baseline
+PRJNA280335,SAMN17767382,GCA_017144355.1,2019,North America,USA,Environment,Alachua,mcr-9,1298,Baseline
+PRJNA280335,SAMN17767371,GCA_017144895.1,2019,North America,USA,Environment,Cubana,mcr-9,286,Baseline
+PRJNA248792,SAMN17764467,GCA_017148055.1,2021,Europe,United Kingdom,Human,Takoradi,mcr-1,8441,Baseline
+PRJNA248792,SAMN17498435,GCA_017235175.1,2019,Europe,United Kingdom,Human,Enteritidis,mcr-1,11,High-VF only
+PRJNA242847,SAMN18078090,GCA_017258435.1,2021,North America,USA,Chicken,Mbandaka,mcr-9,413,Baseline
+PRJNA183848,SAMN04255325,GCA_017282775.1,2009,North America,USA,Chicken,Senftenberg,mcr-9,14,Baseline
+PRJNA248792,SAMN18232335,GCA_017345035.1,2021,Europe,United Kingdom,Human,Kentucky,mcr-1,198,Baseline
+PRJNA543337,SAMN18289606,GCA_017493405.1,2017,North America,Canada,Human,Heidelberg,mcr-9,15,Baseline
+PRJNA857539,SAMN18614522,GCA_017748165.1,2012,Oceania,Australia,Human,"I 1,4,[5],12:i:-",mcr-3,34,High-Res only
+PRJNA857539,SAMN18614604,GCA_017748585.1,2017,Oceania,Australia,Human,"I 1,4,[5],12:i:-",mcr-3,34,High-Res only
+PRJNA857539,SAMN18614493,GCA_017748745.1,2010,Oceania,Australia,Human,"I 1,4,[5],12:i:-",mcr-3,34,Baseline
+PRJNA857539,SAMN18614511,GCA_017749065.1,2011,Oceania,Australia,Human,"I 1,4,[5],12:i:-",mcr-3,34,High-Res only
+PRJNA857539,SAMN18614512,GCA_017749265.1,2011,Oceania,Australia,Human,"I 1,4,[5],12:i:-",mcr-3,34,Baseline
+PRJNA857539,SAMN18614520,GCA_017749365.1,2011,Oceania,Australia,Human,"I 1,4,[5],12:i:-",mcr-3,34,High-Res only
+PRJNA857539,SAMN18614527,GCA_017749445.1,2012,Oceania,Australia,Human,"I 1,4,[5],12:i:-",mcr-3,34,High-Res only
+PRJNA857539,SAMN18614533,GCA_017749545.1,2013,Oceania,Australia,Human,"I 1,4,[5],12:i:-",mcr-3,34,High-Res only
+PRJNA857539,SAMN18614535,GCA_017749585.1,2013,Oceania,Australia,Human,"I 1,4,[5],12:i:-",mcr-3,34,High-Res only
+PRJNA857539,SAMN18614544,GCA_017749745.1,2014,Oceania,Australia,Human,"I 1,4,[5],12:i:-",mcr-3,34,High-Res only
+PRJNA857539,SAMN18614543,GCA_017749785.1,2014,Oceania,Australia,Human,"I 1,4,[5],12:i:-",mcr-3,34,High-Res only
+PRJNA857539,SAMN18614548,GCA_017749825.1,2014,Oceania,Australia,Human,"I 1,4,[5],12:i:-",mcr-3,34,High-Res only
+PRJNA857539,SAMN18614551,GCA_017749885.1,2014,Oceania,Australia,Human,"I 1,4,[5],12:i:-",mcr-3,34,High-Res only
+PRJNA857539,SAMN18614562,GCA_017750125.1,2015,Oceania,Australia,Human,"I 1,4,[5],12:i:-",mcr-3,34,Baseline
+PRJNA857539,SAMN18614565,GCA_017750225.1,2015,Oceania,Australia,Human,"I 1,4,[5],12:i:-",mcr-3,34,High-Res only
+PRJNA857539,SAMN18614584,GCA_017787325.1,2016,Oceania,Australia,Human,"I 1,4,[5],12:i:-",mcr-3,34,High-Res only
+PRJNA857539,SAMN18618223,GCA_017794205.1,2016,Oceania,Australia,Human,"I 1,4,[5],12:i:-",mcr-3,34,High-Res only
+PRJNA857539,SAMN18618513,GCA_017799295.1,2017,Oceania,Australia,Human,"I 1,4,[5],12:i:-",mcr-3,34,High-Res only
+PRJNA857539,SAMN18618771,GCA_017800355.1,2017,Oceania,Australia,Human,Typhimurium,mcr-9,19,Hybrid
+PRJNA857539,SAMN18617249,GCA_017804775.1,2008,Oceania,Australia,Human,Senftenberg,mcr-9,14,High-Res only
+PRJNA857539,SAMN18619001,GCA_017809435.1,2018,Oceania,Australia,Human,"I 1,4,[5],12:i:-",mcr-3,34,High-Res only
+PRJNA543337,SAMN18350967,GCA_017835275.1,2018,North America,Canada,Human,Typhimurium,mcr-1,36,Hybrid
+PRJNA857539,SAMN18619263,GCA_017837435.1,2018,Oceania,Australia,Human,Typhimurium,mcr-9,19,Hybrid
+PRJNA857539,SAMN18618257,GCA_017863615.1,2016,Oceania,Australia,Human,Typhimurium,mcr-9,19,Hybrid
+PRJNA857539,SAMN18618459,GCA_017868415.1,2017,Oceania,Australia,Human,Typhimurium,mcr-9,19,Hybrid
+PRJNA857539,SAMN18617225,GCA_017871555.1,2006,Oceania,Australia,Human,Typhimurium,mcr-9,19,Hybrid
+PRJNA857539,SAMN18617491,GCA_017873825.1,2014,Oceania,Australia,Human,Bovismorbificans,mcr-5,1058,High-Res only
+PRJNA857539,SAMN18617575,GCA_017878015.1,2015,Oceania,Australia,Human,"I 1,4,[5],12:i:-",mcr-3,34,High-Res only
+PRJNA857539,SAMN18617579,GCA_017878095.1,2015,Oceania,Australia,Human,"I 1,4,[5],12:i:-",mcr-3,34,High-Res only
+PRJNA857539,SAMN18617605,GCA_017878485.1,2016,Oceania,Australia,Human,"I 1,4,[5],12:i:-",mcr-3,34,High-Res only
+PRJNA857539,SAMN18617248,GCA_017879155.1,2008,Oceania,Australia,Human,Senftenberg,mcr-9,14,High-Res only
+PRJNA857539,SAMN18617250,GCA_017879705.1,2008,Oceania,Australia,Human,Senftenberg,mcr-9,14,Baseline
+PRJNA543337,SAMN18673172,GCA_017904895.1,2018,North America,Canada,Human,Agona,mcr-1,13,High-Res only
+PRJNA543337,SAMN18673212,GCA_017927675.1,2018,North America,Canada,Human,Heidelberg,mcr-9,15,Baseline
+PRJNA543337,SAMN17720474,GCA_017979965.1,2018,North America,Canada,Human,Albany,mcr-9,292,Baseline
+PRJNA280335,SAMN17769033,GCA_018024655.1,2019,North America,USA,Environment,Albany,mcr-9,292,Baseline
+PRJNA280335,SAMN17767400,GCA_018024715.1,2019,North America,USA,Environment,Albany,mcr-9,292,Baseline
+PRJNA280335,SAMN17767378,GCA_018024815.1,2019,North America,USA,Environment,Albany,mcr-9,292,Baseline
+PRJNA292661,SAMN16838205,GCA_018036345.1,2020,North America,USA,Chicken,Albany,mcr-9,292,Baseline
+PRJNA543337,SAMN18743062,GCA_018105245.1,2018,North America,Canada,Human,Heidelberg,mcr-9,15,Baseline
+PRJNA248792,SAMN18880937,GCA_018190655.1,2021,Europe,United Kingdom,Human,Mbandaka,mcr-9,413,Baseline
+PRJNA629650,SAMN18869442,GCA_018271965.1,2017,Asia,China,Human,"I 1,4,[5],12:i:-",mcr-1,34,High-Res only
+PRJNA629650,SAMN18869475,GCA_018271985.1,2018,Asia,China,Human,"I 1,4,[5],12:i:-",mcr-1,34,High-Res only
+PRJNA629650,SAMN18869473,GCA_018272005.1,2017,Asia,China,Human,Typhimurium,mcr-1,34,High-Res only
+PRJNA629650,SAMN18869440,GCA_018272065.1,2016,Asia,China,Human,"I 1,4,[5],12:i:-",mcr-1,34,Hybrid
+PRJNA629650,SAMN18869480,GCA_018272085.1,2019,Asia,China,Human,"I 1,4,[5],12:i:-",mcr-1,34,High-Res only
+PRJNA629650,SAMN18869474,GCA_018272095.1,2018,Asia,China,Human,Typhimurium,mcr-1,34,High-Res only
+PRJNA629650,SAMN18869460,GCA_018272125.1,2017,Asia,China,Human,"I 1,4,[5],12:i:-",mcr-1,34,Hybrid
+PRJNA629650,SAMN18869463,GCA_018272145.1,2017,Asia,China,Human,"I 1,4,[5],12:i:-",mcr-1,34,High-Res only
+PRJNA629650,SAMN18869443,GCA_018272165.1,2017,Asia,China,Human,Typhimurium,mcr-1,9160,Hybrid
+PRJNA629650,SAMN18869438,GCA_018272185.1,2016,Asia,China,Human,"I 1,4,[5],12:i:-",mcr-1,34,High-Res only
+PRJNA629650,SAMN18869466,GCA_018272195.1,2017,Asia,China,Human,"I 1,4,[5],12:i:-",mcr-1,34,Hybrid
+PRJNA629650,SAMN18869462,GCA_018272225.1,2017,Asia,China,Human,"I 1,4,[5],12:i:-",mcr-1,34,Hybrid
+PRJNA629650,SAMN18869444,GCA_018272245.1,2017,Asia,China,Human,"I 1,4,[5],12:i:-",mcr-1,34,Hybrid
+PRJNA629650,SAMN18869457,GCA_018272265.1,2017,Asia,China,Human,"I 1,4,[5],12:i:-",mcr-1,34,Hybrid
+PRJNA629650,SAMN18869437,GCA_018272285.1,2016,Asia,China,Human,Typhimurium,mcr-1,36,High-Res only
+PRJNA629650,SAMN18869465,GCA_018272295.1,2017,Asia,China,Human,Typhimurium,mcr-1,9160,High-Res only
+PRJNA629650,SAMN18869458,GCA_018272325.1,2017,Asia,China,Human,Typhimurium,mcr-1,9160,High-Res only
+PRJNA629650,SAMN18869377,GCA_018272345.1,2014,Asia,China,Human,"I 1,4,[5],12:i:-",mcr-1,34,High-Res only
+PRJNA629650,SAMN18869461,GCA_018272365.1,2017,Asia,China,Human,"I 1,4,[5],12:i:-",mcr-1,34,Hybrid
+PRJNA629650,SAMN18869459,GCA_018272385.1,2017,Asia,China,Human,"I 1,4,[5],12:i:-",mcr-1,34,Hybrid
+PRJNA629650,SAMN18869456,GCA_018272405.1,2017,Asia,China,Human,Typhimurium,mcr-1,9160,High-Res only
+PRJNA629650,SAMN18869412,GCA_018272425.1,2016,Asia,China,Human,Typhimurium,mcr-1,34,Hybrid
+PRJNA629650,SAMN18869455,GCA_018272435.1,2017,Asia,China,Human,Typhimurium,mcr-1,9160,Hybrid
+PRJNA629650,SAMN18869454,GCA_018272465.1,2017,Asia,China,Human,"I 1,4,[5],12:i:-",mcr-1,34,Hybrid
+PRJNA629650,SAMN18869451,GCA_018272485.1,2017,Asia,China,Human,Typhimurium,mcr-1,9160,Hybrid
+PRJNA629650,SAMN18869452,GCA_018272505.1,2017,Asia,China,Human,Typhimurium,mcr-1,9160,Hybrid
+PRJNA629650,SAMN18869450,GCA_018272525.1,2017,Asia,China,Human,Typhimurium,mcr-1,34,High-Res only
+PRJNA629650,SAMN18869409,GCA_018272545.1,2015,Asia,China,Human,"I 1,4,[5],12:i:-",mcr-1,34,Baseline
+PRJNA629650,SAMN18869407,GCA_018272565.1,2015,Asia,China,Human,"I 1,4,[5],12:i:-",mcr-1,34,Hybrid
+PRJNA629650,SAMN18869449,GCA_018272585.1,2017,Asia,China,Human,"I 1,4,[5],12:i:-",mcr-1,34,High-Res only
+PRJNA629650,SAMN18869446,GCA_018272605.1,2017,Asia,China,Human,"I 1,4,[5],12:i:-",mcr-1,34,Hybrid
+PRJNA629650,SAMN18869448,GCA_018272615.1,2017,Asia,China,Human,Typhimurium,mcr-1,34,Hybrid
+PRJNA629650,SAMN18869447,GCA_018272645.1,2017,Asia,China,Human,"I 1,4,[5],12:i:-",mcr-1,34,Hybrid
+PRJNA629650,SAMN18869381,GCA_018272665.1,2014,Asia,China,Human,Typhimurium,mcr-1,34,High-Res only
+PRJNA629650,SAMN18869436,GCA_018272685.1,2016,Asia,China,Human,"I 1,4,[5],12:i:-",mcr-1,34,High-Res only
+PRJNA629650,SAMN18869375,GCA_018272705.1,2014,Asia,China,Human,"I 1,4,[5],12:i:-",mcr-1,34,Hybrid
+PRJNA629650,SAMN18869383,GCA_018272725.1,2015,Asia,China,Human,"I 1,4,[5],12:i:-",mcr-1,34,High-Res only
+PRJNA629650,SAMN18869378,GCA_018272735.1,2014,Asia,China,Human,"I 1,4,[5],12:i:-",mcr-1,34,High-Res only
+PRJNA629650,SAMN18869376,GCA_018272765.1,2014,Asia,China,Human,"I 1,4,[5],12:i:-",mcr-1,34,High-Res only
+PRJNA629650,SAMN18869430,GCA_018272775.1,2016,Asia,China,Human,"I 1,4,[5],12:i:-",mcr-1,34,Hybrid
+PRJNA629650,SAMN18869431,GCA_018272805.1,2016,Asia,China,Human,"I 1,4,[5],12:i:-",mcr-1,34,Hybrid
+PRJNA629650,SAMN18869374,GCA_018272815.1,2014,Asia,China,Human,"I 1,4,[5],12:i:-",mcr-1,34,High-Res only
+PRJNA629650,SAMN18869435,GCA_018272845.1,2016,Asia,China,Human,"I 1,4,[5],12:i:-",mcr-1,34,High-Res only
+PRJNA629650,SAMN18869429,GCA_018272855.1,2016,Asia,China,Human,"I 1,4,[5],12:i:-",mcr-1,34,Hybrid
+PRJNA629650,SAMN18869426,GCA_018272885.1,2016,Asia,China,Human,Typhimurium,mcr-1,19,High-Res only
+PRJNA629650,SAMN18869433,GCA_018272905.1,2016,Asia,China,Human,"I 1,4,[5],12:i:-",mcr-1,34,Hybrid
+PRJNA629650,SAMN18869428,GCA_018272925.1,2016,Asia,China,Human,"I 1,4,[5],12:i:-",mcr-1,34,Hybrid
+PRJNA629650,SAMN18869432,GCA_018272945.1,2016,Asia,China,Human,"I 1,4,[5],12:i:-",mcr-1,34,Hybrid
+PRJNA629650,SAMN18869434,GCA_018272965.1,2016,Asia,China,Human,"I 1,4,[5],12:i:-",mcr-1,34,Hybrid
+PRJNA629650,SAMN18869425,GCA_018273005.1,2016,Asia,China,Human,Typhimurium,mcr-1,9160,Hybrid
+PRJNA629650,SAMN18869481,GCA_018273025.1,2019,Asia,China,Human,"I 1,4,[5],12:i:-",mcr-1,34,High-Res only
+PRJNA629650,SAMN18869382,GCA_018273035.1,2014,Asia,China,Human,"I 1,4,[5],12:i:-",mcr-1,34,High-Res only
+PRJNA629650,SAMN18869441,GCA_018273065.1,2016,Asia,China,Human,"I 1,4,[5],12:i:-",mcr-1,34,Hybrid
+PRJNA629650,SAMN18869477,GCA_018273085.1,2018,Asia,China,Human,"I 1,4,[5],12:i:-",mcr-1,34,High-Res only
+PRJNA629650,SAMN18869472,GCA_018273105.1,2017,Asia,China,Human,Typhimurium,mcr-1,34,High-Res only
+PRJNA629650,SAMN18869479,GCA_018273125.1,2019,Asia,China,Human,Typhimurium,mcr-1,34,High-Res only
+PRJNA629650,SAMN18869478,GCA_018273145.1,2018,Asia,China,Human,Typhimurium,mcr-1,9160,Hybrid
+PRJNA629650,SAMN18869471,GCA_018273165.1,2017,Asia,China,Human,"I 1,4,[5],12:i:-",mcr-1,5401,Baseline
+PRJNA629650,SAMN18869470,GCA_018273175.1,2017,Asia,China,Human,"I 1,4,[5],12:i:-",mcr-1,5401,Hybrid
+PRJNA629650,SAMN18869476,GCA_018273205.1,2018,Asia,China,Human,"I 1,4,[5],12:i:-",mcr-1,34,High-Res only
+PRJNA629650,SAMN18869469,GCA_018273225.1,2017,Asia,China,Human,"I 1,4,[5],12:i:-",mcr-1,34,Hybrid
+PRJNA629650,SAMN18869439,GCA_018273245.1,2016,Asia,China,Human,Typhimurium,mcr-1,34,Hybrid
+PRJNA629650,SAMN18869468,GCA_018273265.1,2017,Asia,China,Human,"I 1,4,[5],12:i:-",mcr-1,34,Hybrid
+PRJNA629650,SAMN18869467,GCA_018273285.1,2017,Asia,China,Human,"I 1,4,[5],12:i:-",mcr-1,34,Hybrid
+PRJNA629650,SAMN18869445,GCA_018273305.1,2017,Asia,China,Human,"I 1,4,[5],12:i:-",mcr-1,34,Hybrid
+PRJNA629650,SAMN18869464,GCA_018273325.1,2017,Asia,China,Human,"I 1,4,[5],12:i:-",mcr-1,34,Hybrid
+PRJNA629650,SAMN18869413,GCA_018273345.1,2016,Asia,China,Human,Typhimurium,mcr-1,34,Hybrid
+PRJNA629650,SAMN18869424,GCA_018273365.1,2016,Asia,China,Human,"I 1,4,[5],12:i:-",mcr-1,34,Hybrid
+PRJNA629650,SAMN18869421,GCA_018273385.1,2016,Asia,China,Human,"I 1,4,[5],12:i:-",mcr-1,34,Hybrid
+PRJNA629650,SAMN18869422,GCA_018273405.1,2016,Asia,China,Human,"I 1,4,[5],12:i:-",mcr-1,34,Hybrid
+PRJNA629650,SAMN18869419,GCA_018273415.1,2016,Asia,China,Human,"I 1,4,[5],12:i:-",mcr-1,34,Hybrid
+PRJNA629650,SAMN18869417,GCA_018273425.1,2016,Asia,China,Human,"I 1,4,[5],12:i:-",mcr-1,34,Hybrid
+PRJNA629650,SAMN18869418,GCA_018273465.1,2016,Asia,China,Human,"I 1,4,[5],12:i:-",mcr-1,34,Hybrid
+PRJNA629650,SAMN18869379,GCA_018273485.1,2014,Asia,China,Human,Typhimurium,mcr-1,34,High-Res only
+PRJNA629650,SAMN18869406,GCA_018273505.1,2015,Asia,China,Human,"I 1,4,[5],12:i:-",mcr-1,34,Hybrid
+PRJNA629650,SAMN18869416,GCA_018273525.1,2016,Asia,China,Human,Typhimurium,mcr-1,5401,Hybrid
+PRJNA629650,SAMN18869408,GCA_018273545.1,2015,Asia,China,Human,"I 1,4,[5],12:i:-",mcr-1,34,High-Res only
+PRJNA629650,SAMN18869414,GCA_018273565.1,2016,Asia,China,Human,"I 1,4,[5],12:i:-",mcr-1,34,Hybrid
+PRJNA629650,SAMN18869404,GCA_018273585.1,2015,Asia,China,Human,"I 1,4,[5],12:i:-",mcr-1,34,Hybrid
+PRJNA629650,SAMN18869403,GCA_018273595.1,2015,Asia,China,Human,"I 1,4,[5],12:i:-",mcr-1,34,High-Res only
+PRJNA629650,SAMN18869405,GCA_018273625.1,2015,Asia,China,Human,"I 1,4,[5],12:i:-",mcr-1,34,Hybrid
+PRJNA629650,SAMN18869398,GCA_018273645.1,2015,Asia,China,Human,"I 1,4,[5],12:i:-",mcr-1,34,High-Res only
+PRJNA629650,SAMN18869402,GCA_018273665.1,2015,Asia,China,Human,"I 1,4,[5],12:i:-",mcr-1,34,High-Res only
+PRJNA629650,SAMN18869397,GCA_018273685.1,2015,Asia,China,Human,"I 1,4,[5],12:i:-",mcr-1,34,Hybrid
+PRJNA629650,SAMN18869401,GCA_018273705.1,2015,Asia,China,Human,"I 1,4,[5],12:i:-",mcr-1,34,Hybrid
+PRJNA629650,SAMN18869400,GCA_018273715.1,2015,Asia,China,Human,"I 1,4,[5],12:i:-",mcr-1,34,Hybrid
+PRJNA629650,SAMN18869395,GCA_018273745.1,2015,Asia,China,Human,Typhimurium,mcr-1,34,High-Res only
+PRJNA629650,SAMN18869393,GCA_018273765.1,2015,Asia,China,Human,Typhimurium,mcr-1,34,Hybrid
+PRJNA629650,SAMN18869399,GCA_018273775.1,2015,Asia,China,Human,"I 1,4,[5],12:i:-",mcr-1,34,Hybrid
+PRJNA629650,SAMN18869391,GCA_018273805.1,2015,Asia,China,Human,Typhimurium,mcr-1,34,Hybrid
+PRJNA629650,SAMN18869392,GCA_018273825.1,2015,Asia,China,Human,"I 1,4,[5],12:i:-",mcr-1,34,Hybrid
+PRJNA629650,SAMN18869390,GCA_018273835.1,2015,Asia,China,Human,Typhimurium,mcr-1,6020,Hybrid
+PRJNA629650,SAMN18869389,GCA_018273865.1,2015,Asia,China,Human,"I 1,4,[5],12:i:-",mcr-1,34,Hybrid
+PRJNA629650,SAMN18869388,GCA_018273885.1,2015,Asia,China,Human,"I 1,4,[5],12:i:-",mcr-1,34,Hybrid
+PRJNA629650,SAMN18869385,GCA_018273905.1,2015,Asia,China,Human,"I 1,4,[5],12:i:-",mcr-1,34,Hybrid
+PRJNA629650,SAMN18869387,GCA_018273915.1,2015,Asia,China,Human,"I 1,4,[5],12:i:-",mcr-1,34,Hybrid
+PRJNA629650,SAMN18869384,GCA_018273945.1,2015,Asia,China,Human,Typhimurium,mcr-1,34,Hybrid
+PRJNA629650,SAMN18869371,GCA_018273965.1,2014,Asia,China,Human,"I 1,4,[5],12:i:-",mcr-1,34,High-Res only
+PRJNA629650,SAMN18869368,GCA_018273985.1,2014,Asia,China,Human,"I 1,4,[5],12:i:-",mcr-1,34,High-Res only
+PRJNA629650,SAMN18869370,GCA_018273995.1,2014,Asia,China,Human,Typhimurium,mcr-1,34,High-Res only
+PRJNA629650,SAMN18869373,GCA_018274005.1,2014,Asia,China,Human,Typhimurium,mcr-1,19,High-Res only
+PRJNA629650,SAMN18869372,GCA_018274015.1,2014,Asia,China,Human,Typhimurium,mcr-1,19,High-Res only
+PRJNA629650,SAMN18869366,GCA_018274065.1,2014,Asia,China,Human,Typhimurium,mcr-1,34,High-Res only
+PRJNA629650,SAMN18869369,GCA_018274085.1,2014,Asia,China,Human,"I 1,4,[5],12:i:-",mcr-1,8067,Hybrid
+PRJNA629650,SAMN18869364,GCA_018274095.1,2014,Asia,China,Human,"I 1,4,[5],12:i:-",mcr-1,34,High-Res only
+PRJNA629650,SAMN18869362,GCA_018274135.1,2014,Asia,China,Human,"I 1,4,[5],12:i:-",mcr-1,34,High-Res only
+PRJNA629650,SAMN18869361,GCA_018274165.1,2014,Asia,China,Human,"I 1,4,[5],12:i:-",mcr-1,34,Hybrid
+PRJNA629650,SAMN18869365,GCA_018274175.1,2014,Asia,China,Human,"I 1,4,[5],12:i:-",mcr-1,34,High-Res only
+PRJNA629650,SAMN18869359,GCA_018274225.1,2013,Asia,China,Human,Typhimurium,mcr-1,34,High-Res only
+PRJNA629650,SAMN18869363,GCA_018274235.1,2014,Asia,China,Human,"I 1,4,[5],12:i:-",mcr-1,34,High-Res only
+PRJNA629650,SAMN18869358,GCA_018274265.1,2013,Asia,China,Human,"I 1,4,[5],12:i:-",mcr-1,34,High-Res only
+PRJNA629650,SAMN18869356,GCA_018274285.1,2012,Asia,China,Human,Typhimurium,mcr-1,34,Baseline
+PRJNA629650,SAMN18869357,GCA_018274295.1,2012,Asia,China,Human,"I 1,4,[5],12:i:-",mcr-1,34,High-Res only
+PRJNA629650,SAMN18869355,GCA_018275345.1,2012,Asia,China,Human,"I 1,4,[5],12:i:-",mcr-1,34,High-Res only
+PRJNA564459,SAMN13741975,GCA_018279985.1,2012,Asia,South Korea,Chicken,Senftenberg,mcr-9,14,High-Res only
+PRJNA324575,SAMN18988773,GCA_018281925.1,2020,North America,USA,Egg,Albany,mcr-9,292,Baseline
+PRJNA543337,SAMN18905962,GCA_018297905.1,2017,North America,Canada,Human,Albany,mcr-9,292,Baseline
+PRJNA543337,SAMN18975938,GCA_018309325.1,2017,North America,Canada,Human,"I 1,4,[5],12:i:-",mcr-1,34,High-Res only
+PRJNA599251,SAMN13741975,GCA_018336435.1,2012,Asia,South Korea,Chicken,Senftenberg,mcr-9,14,Baseline
+PRJNA543337,SAMN19022695,GCA_018404155.1,2018,North America,Canada,Human,Kedougou,mcr-4,1543,Baseline
+PRJNA629650,SAMN18869427,GCA_018424745.1,2016,Asia,China,Human,Typhimurium,mcr-1,9160,Hybrid
+PRJNA242847,SAMN19117553,GCA_018484465.1,2021,North America,USA,Chicken,Saintpaul,mcr-9,27,Baseline
+PRJNA248792,SAMN19336635,GCA_018502945.1,2021,Europe,United Kingdom,Human,Blockley,mcr-1,52,High-Res only
+PRJNA629650,SAMN18869453,GCA_018531225.1,2017,Asia,China,Human,"I 1,4,[5],12:i:-",mcr-1,34,Hybrid
+PRJNA629650,SAMN18869423,GCA_018531245.1,2016,Asia,China,Human,"I 1,4,[5],12:i:-",mcr-1,34,Hybrid
+PRJNA629650,SAMN18869420,GCA_018531265.1,2016,Asia,China,Human,Typhimurium,mcr-1,34,Hybrid
+PRJNA629650,SAMN18869411,GCA_018531285.1,2016,Asia,China,Human,Typhimurium,mcr-1,5401,Hybrid
+PRJNA629650,SAMN18869410,GCA_018531305.1,2015,Asia,China,Human,Typhimurium,mcr-1,34,High-Res only
+PRJNA629650,SAMN18869415,GCA_018531315.1,2016,Asia,China,Human,"I 1,4,[5],12:i:-",mcr-1,19,Hybrid
+PRJNA629650,SAMN18869386,GCA_018531345.1,2015,Asia,China,Human,Typhimurium,mcr-1,19,Hybrid
+PRJNA629650,SAMN18869394,GCA_018531355.1,2015,Asia,China,Human,Typhimurium,mcr-1,34,High-Res only
+PRJNA629650,SAMN18869396,GCA_018531395.1,2015,Asia,China,Human,Typhimurium,mcr-1,19,Hybrid
+PRJNA740125,SAMN19842584,GCA_019063905.1,2020,Asia,China,Chicken,Kentucky,mcr-1,198,High-Res only
+PRJNA484865,SAMN20345806,GCA_019428465.1,2019,Europe,Russia,Human,Enteritidis,mcr-1,11,High-VF only
+PRJNA248792,SAMN20606907,GCA_019465975.1,2017,Europe,United Kingdom,Human,Bovismorbificans,mcr-1,142,Baseline
+PRJNA248792,SAMN20603584,GCA_019475325.1,2018,Europe,United Kingdom,Human,Concord,mcr-9,534,High-Res only
+PRJNA248792,SAMN20603524,GCA_019475505.1,2018,Europe,United Kingdom,Human,Virchow,mcr-9,16,High-Res only
+PRJNA248792,SAMN20603365,GCA_019477745.1,2018,Europe,United Kingdom,Human,Kedougou,mcr-4,1543,Baseline
+PRJNA248792,SAMN20681913,GCA_019499925.1,2016,Europe,United Kingdom,Human,Virchow,mcr-9,16,High-Res only
+PRJNA248792,SAMN20666074,GCA_019522405.1,2016,Europe,United Kingdom,Human,Bovismorbificans,mcr-1,142,Baseline
+PRJNA248792,SAMN20556538,GCA_019525025.1,2019,Europe,United Kingdom,Human,Enteritidis,mcr-1,11,High-VF only
+PRJNA248792,SAMN20527472,GCA_019543535.1,2019,Europe,United Kingdom,Human,Enteritidis,mcr-1,11,High-VF only
+PRJNA664346,SAMN16205804,GCA_019847795.1,2015,Europe,Ireland,Environment,Kentucky,mcr-9,314,Baseline
+PRJNA727934,SAMN19065958,GCA_019858205.1,2014,Asia,China,Chicken,Thompson,mcr-9,26,High-Res only
+PRJNA727934,SAMN19065960,GCA_019859225.1,2014,Asia,China,Chicken,Thompson,mcr-9,26,High-Res only
+PRJNA727934,SAMN19065961,GCA_019859235.1,2014,Asia,China,Chicken,Thompson,mcr-9,26,High-Res only
+PRJNA727934,SAMN19065959,GCA_019872225.1,2014,Asia,China,Chicken,Thompson,mcr-9,26,High-Res only
+PRJNA857539,SAMN18614577,GCA_019894005.1,2016,Oceania,Australia,Human,"I 1,4,[5],12:i:-",mcr-3,34,High-Res only
+PRJNA739564,SAMN19812513,GCA_019969195.1,2018,Asia,China,Chicken,Derby,mcr-1,40,High-Res only
+PRJNA746107,SAMN20181396,GCA_020013595.1,2014,North America,Canada,Human,Heidelberg,mcr-9,15,Baseline
+PRJNA746107,SAMN20181520,GCA_020014635.1,2016,North America,Canada,Human,Heidelberg,mcr-9,15,Baseline
+PRJNA746107,SAMN20181600,GCA_020014875.1,2016,North America,Canada,Chicken,Heidelberg,mcr-9,15,Baseline
+PRJNA746107,SAMN20181607,GCA_020014915.1,2017,North America,Canada,Chicken,Heidelberg,mcr-9,15,Baseline
+PRJNA746107,SAMN20181578,GCA_020015495.1,2014,North America,Canada,Chicken,Heidelberg,mcr-9,15,Baseline
+PRJNA746107,SAMN20181574,GCA_020016355.1,2014,North America,Canada,Chicken,Heidelberg,mcr-9,15,Baseline
+PRJNA746107,SAMN20181407,GCA_020016575.1,2014,North America,Canada,Human,"I 1,4,[5],12:i:-",mcr-3,34,Baseline
+PRJNA746107,SAMN20181575,GCA_020016715.1,2014,North America,Canada,Chicken,Heidelberg,mcr-9,15,Baseline
+PRJNA746107,SAMN20181613,GCA_020016735.1,2016,North America,Canada,Chicken,"I 1,4,[5],12:i:-",mcr-9,2379,Baseline
+PRJNA635403,SAMN15060483,GCA_020069605.1,2017,South America,Peru,Human,"I 1,4,[5],12:i:-",mcr-1,19,Hybrid
+PRJEB41165,SAMEA7540820,GCA_020142345.1,2017,Europe,Germany,Human,Bovismorbificans,mcr-3,1499,High-Res only
+PRJEB41165,SAMEA7540912,GCA_020158725.1,2019,Europe,Germany,Human,"I 1,4,[5],12:i:-",mcr-3,34,High-Res only
+PRJEB41165,SAMEA7540903,GCA_020158925.1,2019,Europe,Germany,Human,"I 1,4,[5],12:i:-",mcr-9,34,High-Res only
+PRJEB41165,SAMEA7540889,GCA_020159165.1,2019,Europe,Germany,Human,Typhimurium,mcr-9,34,High-Res only
+PRJEB41165,SAMEA7540862,GCA_020159545.1,2018,Europe,Germany,Human,"I 1,4,[5],12:i:-",mcr-9,34,High-Res only
+PRJEB41165,SAMEA7540840,GCA_020159705.1,2018,Europe,Germany,Human,Agona,mcr-9,13,High-Res only
+PRJEB41165,SAMEA7540812,GCA_020160125.1,2017,Europe,Germany,Human,Typhimurium,mcr-9,19,High-Res only
+PRJEB41165,SAMEA7540805,GCA_020160185.1,2017,Europe,Germany,Human,"I 1,4,[5],12:i:-",mcr-1,34,High-Res only
+PRJEB41165,SAMEA7540795,GCA_020160325.1,2017,Europe,Germany,Human,Choleraesuis,mcr-3,139,Hybrid
+PRJNA635963,SAMN15062115,GCA_020172855.1,2018,Asia,China,Human,Goldcoast,mcr-9,358,Baseline
+PRJNA635963,SAMN15062104,GCA_020174425.1,2018,Asia,China,Human,Goldcoast,mcr-9,358,Baseline
+PRJNA635963,SAMN15062112,GCA_020174895.1,2018,Asia,China,Human,Goldcoast,mcr-9,358,Baseline
+PRJNA292661,SAMN22062878,GCA_020336735.1,2021,North America,USA,Chicken,Kentucky,mcr-9,198,Baseline
+PRJNA280335,SAMN22786276,GCA_020691005.1,2021,North America,USA,Egg,Alachua,mcr-9,1298,Baseline
+PRJNA280335,SAMN22782559,GCA_020691405.1,2021,North America,USA,Egg,Kentucky,mcr-9,198,Baseline
+PRJNA280335,SAMN22782557,GCA_020691425.1,2021,North America,USA,Egg,Albany,mcr-9,292,Baseline
+PRJNA242847,SAMN23009166,GCA_020815795.1,2021,North America,USA,Chicken,Senftenberg,mcr-9,14,Baseline
+PRJNA292661,SAMN23818493,GCA_021140205.1,2021,North America,USA,Chicken,Agona,mcr-9,13,Baseline
+PRJNA678820,SAMN16824768,GCA_021143465.1,2019,Asia,China,Human,Enteritidis,mcr-1,11,Hybrid
+PRJNA794298,SAMN24619910,GCA_021474285.1,2017,Asia,China,Human,"I 1,4,[5],12:i:-",mcr-1,34,Hybrid
+PRJNA543337,SAMN25076050,GCA_021534335.1,2017,North America,Canada,Human,Typhimurium,mcr-9,19,High-Res only
+PRJNA746107,SAMN20181567,GCA_021751445.1,2017,North America,Canada,Human,Heidelberg,mcr-9,15,Baseline
+PRJEB23266,SAMEA104363632,GCA_022393675.1,2009,Europe,Denmark,Human,Typhimurium,mcr-3,34,High-Res only
+PRJEB23266,SAMEA104363640,GCA_022393735.1,2012,Europe,Denmark,Human,Typhimurium,mcr-3,34,High-Res only
+PRJEB23266,SAMEA104363639,GCA_022395955.1,2012,Europe,Denmark,Human,Typhimurium,mcr-3,34,High-Res only
+PRJNA573539,SAMN12816860,GCA_022429025.1,2015,Asia,China,Human,Newport,mcr-1,31,Baseline
+PRJNA573539,SAMN12816861,GCA_022429045.1,2016,Asia,China,Human,Newport,mcr-1,31,High-Res only
+PRJEB27063,SAMEA4700928,GCA_022440105.1,2016,Europe,Italy,Chicken,Infantis,mcr-1,32,Hybrid
+PRJEB27063,SAMEA4700929,GCA_022440125.1,2016,Europe,Italy,Chicken,Infantis,mcr-1,32,High-VF only
+PRJEB27063,SAMEA4700927,GCA_022440165.1,2016,Europe,Italy,Chicken,Infantis,mcr-1,32,Hybrid
+PRJNA749852,SAMN20422907,GCA_022603655.1,2020,Asia,China,Human,"I 1,4,[5],12:i:-",mcr-1,34,High-Res only
+PRJNA749852,SAMN20422894,GCA_022603885.1,2019,Asia,China,Human,"I 1,4,[5],12:i:-",mcr-1,34,High-Res only
+PRJEB41165,SAMEA7540887,GCA_022612735.1,2019,Europe,Germany,Human,Minnesota,mcr-1,548,Hybrid
+PRJNA292661,SAMN26948355,GCA_022955555.1,2022,North America,USA,Chicken,Heidelberg,mcr-9,15,Baseline
+PRJNA807873,SAMN26011405,GCA_023083665.1,2016,Asia,China,Human,"I 1,4,[5],12:i:-",mcr-1,34,High-Res only
+PRJNA807873,SAMN26011407,GCA_023083705.1,2017,Asia,China,Human,"I 1,4,[5],12:i:-",mcr-1,34,High-Res only
+PRJNA807873,SAMN26011406,GCA_023086375.1,2017,Asia,China,Human,"I 1,4,[5],12:i:-",mcr-1,34,High-Res only
+PRJNA807873,SAMN26011403,GCA_023086395.1,2018,Asia,China,Human,"I 1,4,[5],12:i:-",mcr-1,34,High-Res only
+PRJNA807873,SAMN26011404,GCA_023089725.1,2016,Asia,China,Human,"I 1,4,[5],12:i:-",mcr-1,34,High-Res only
+PRJNA660241,SAMN25249355,GCA_023330705.1,2021,Asia,China,Human,"I 1,4,[5],12:i:-",mcr-1,34,High-Res only
+PRJNA660241,SAMN25249354,GCA_023330725.1,2021,Asia,China,Human,"I 1,4,[5],12:i:-",mcr-1,34,Hybrid
+PRJNA660241,SAMN16419724,GCA_023330745.1,2019,Asia,China,Human,Thompson,mcr-9,26,High-Res only
+PRJNA660241,SAMN16419723,GCA_023330765.1,2019,Asia,China,Human,"I 1,4,[5],12:i:-",mcr-1,34,High-Res only
+PRJNA660241,SAMN16419722,GCA_023330785.1,2019,Asia,China,Human,"I 1,4,[5],12:i:-",mcr-1,34,High-Res only
+PRJNA660241,SAMN16419721,GCA_023330805.1,2018,Asia,China,Human,"I 1,4,[5],12:i:-",mcr-1,34,High-Res only
+PRJNA660241,SAMN16419720,GCA_023330825.1,2017,Asia,China,Human,"I 1,4,[5],12:i:-",mcr-1,34,High-Res only
+PRJNA660241,SAMN16419719,GCA_023330845.1,2017,Asia,China,Human,"I 1,4,[5],12:i:-",mcr-1,34,High-Res only
+PRJNA660241,SAMN16419718,GCA_023330865.1,2017,Asia,China,Human,"I 1,4,[5],12:i:-",mcr-1,34,High-VF only
+PRJNA660241,SAMN16419717,GCA_023330885.1,2017,Asia,China,Human,"I 1,4,[5],12:i:-",mcr-1,34,Hybrid
+PRJNA660241,SAMN16419716,GCA_023330905.1,2016,Asia,China,Human,Typhimurium,mcr-1,34,High-Res only
+PRJNA809954,SAMN26211291,GCA_023609685.1,2019,Asia,China,Chicken,Schwarzengrund,mcr-1,241,High-Res only
+PRJNA847635,SAMN28951164,GCA_023756845.1,2020,Asia,China,Chicken,Indiana,mcr-1,17,High-Res only
+PRJNA847635,SAMN28951162,GCA_023756905.1,2020,Asia,China,Chicken,Indiana,mcr-1,17,High-Res only
+PRJNA847635,SAMN28951163,GCA_023756925.1,2020,Asia,China,Chicken,Indiana,mcr-1,17,High-Res only
+PRJNA847635,SAMN28951186,GCA_023756945.1,2020,Asia,China,Chicken,Indiana,mcr-1,17,High-Res only
+PRJNA847635,SAMN28951141,GCA_023756965.1,2020,Asia,China,Chicken,Indiana,mcr-1,17,High-Res only
+PRJNA292661,SAMN28871224,GCA_023772965.1,2022,North America,USA,Chicken,Give,mcr-9,516,Baseline
+PRJNA817369,SAMN26764581,GCA_023840185.1,2014,Asia,China,Human,"I 1,4,[5],12:i:-",mcr-1,34,Baseline
+PRJNA817369,SAMN26764580,GCA_023840225.1,2014,Asia,China,Human,"I 1,4,[5],12:i:-",mcr-1,34,High-VF only
+PRJNA817369,SAMN26764482,GCA_023842155.1,2017,Asia,China,Human,"I 1,4,[5],12:i:-",mcr-1,34,High-Res only
+PRJNA817369,SAMN26764453,GCA_023842715.1,2018,Asia,China,Human,"I 1,4,[5],12:i:-",mcr-1,34,High-Res only
+PRJNA817369,SAMN26764362,GCA_023844525.1,2015,Asia,China,Human,"I 1,4,[5],12:i:-",mcr-1,34,Hybrid
+PRJNA817369,SAMN26764342,GCA_023844835.1,2017,Asia,China,Human,"I 1,4,[5],12:i:-",mcr-1,34,High-Res only
+PRJNA817369,SAMN26764346,GCA_023845355.1,2017,Asia,China,Human,Thompson,mcr-9,26,Baseline
+PRJNA817369,SAMN26764341,GCA_023845405.1,2017,Asia,China,Human,Typhimurium,mcr-1,34,High-Res only
+PRJNA847635,SAMN28950535,GCA_023848535.1,2020,Asia,China,Chicken,Indiana,mcr-1,17,High-Res only
+PRJNA847635,SAMN28950567,GCA_023848615.1,2020,Asia,China,Chicken,Indiana,mcr-1,17,High-Res only
+PRJNA814052,SAMN26536003,GCA_024261725.1,2011,Asia,China,Chicken,Typhimurium,mcr-1,34,High-Res only
+PRJNA814052,SAMN26535999,GCA_024261825.1,2011,Asia,China,Chicken,Typhimurium,mcr-1,34,High-Res only
+PRJNA814052,SAMN26535998,GCA_024261855.1,2011,Asia,China,Chicken,Typhimurium,mcr-1,34,High-Res only
+PRJNA814052,SAMN26535990,GCA_024261985.1,2011,Asia,China,Chicken,Typhimurium,mcr-1,34,High-Res only
+PRJNA242847,SAMN29716436,GCA_024262565.1,2022,North America,USA,Chicken,Agona,mcr-9,13,High-Res only
+PRJNA478278,SAMN11546981,GCA_024266205.1,2018,Asia,China,Human,Goldcoast,mcr-1,358,High-Res only
+PRJEB46151,SAMEA12320478,GCA_024302225.1,2018,South America,Brazil,Chicken,Mbandaka,mcr-9,413,High-Res only
+PRJNA855361,SAMN29630499,GCA_024329765.1,2017,Asia,China,Human,"I 1,4,[5],12:i:-",mcr-1,34,Hybrid
+PRJNA855361,SAMN29629757,GCA_024364825.1,2014,Asia,China,Human,Orion,mcr-1,684,Baseline
+PRJNA855361,SAMN29630085,GCA_024364845.1,2014,Asia,China,Human,Meleagridis,mcr-1,463,High-Res only
+PRJNA855361,SAMN29630109,GCA_024364865.1,2016,Asia,China,Human,"I 1,4,[5],12:i:-",mcr-1,34,Hybrid
+PRJNA855361,SAMN29630254,GCA_024364885.1,2016,Asia,China,Human,"I 1,4,[5],12:i:-",mcr-1,34,High-VF only
+PRJNA855361,SAMN29630270,GCA_024364905.1,2016,Asia,China,Human,"I 1,4,[5],12:i:-",mcr-1,34,Hybrid
+PRJNA855361,SAMN29630309,GCA_024364925.1,2016,Asia,China,Human,"I 1,4,[5],12:i:-",mcr-3,34,Hybrid
+PRJNA855361,SAMN29630312,GCA_024364945.1,2016,Asia,China,Human,"I 1,4,[5],12:i:-",mcr-3,34,High-Res only
+PRJNA855361,SAMN29630349,GCA_024364965.1,2017,Asia,China,Human,"I 1,4,[5],12:i:-",mcr-1,34,Hybrid
+PRJNA855361,SAMN29630500,GCA_024364985.1,2017,Asia,China,Human,"I 1,4,[5],12:i:-",mcr-1,34,Hybrid
+PRJNA855361,SAMN29630588,GCA_024365005.1,2017,Asia,China,Human,"I 1,4,[5],12:i:-",mcr-1,34,Hybrid
+PRJNA855361,SAMN29631754,GCA_024365025.1,2017,Asia,China,Human,"I 1,4,[5],12:i:-",mcr-1,34,Hybrid
+PRJEB46151,SAMEA12320482,GCA_024372235.1,2018,South America,Brazil,Chicken,Mbandaka,mcr-9,413,High-Res only
+PRJNA787062,SAMN23768916,GCA_024476805.1,2019,Africa,Ethiopia,Human,Concord,mcr-9,534,High-Res only
+PRJEB46151,SAMEA12320463,GCA_024528325.1,2018,South America,Brazil,Chicken,Heidelberg,mcr-1,15,Hybrid
+PRJEB46151,SAMEA12320424,GCA_024528945.1,2017,South America,Brazil,Chicken,Anatum,mcr-1,64,Baseline
+PRJNA869363,SAMN30306456,GCA_024731345.1,2014,Asia,China,Chicken,Indiana,mcr-1,17,High-Res only
+PRJEB18998,SAMEA78816418,GCA_024816455.1,2016,Europe,Ireland,Human,"I 1,4,[5],12:i:-",mcr-9,34,High-Res only
+PRJNA794010,SAMN24595969,GCA_024982015.1,2016,Asia,China,Human,"I 1,4,[5],12:i:-",mcr-1,34,High-Res only
+PRJNA794010,SAMN24595970,GCA_024982075.1,2017,Asia,China,Human,"I 1,4,[5],12:i:-",mcr-1,34,High-Res only
+PRJNA794010,SAMN24595983,GCA_024982335.1,2017,Asia,China,Human,"I 1,4,[5],12:i:-",mcr-1,34,Baseline
+PRJNA740259,SAMN19836138,GCA_024982575.1,2012,North America,Canada,Egg,Ouakam,mcr-9,1610,High-Res only
+PRJNA740259,SAMN19836139,GCA_024983095.1,2012,North America,Canada,Egg,Ouakam,mcr-9,1610,High-Res only
+PRJNA740259,SAMN19836088,GCA_024983275.1,2013,North America,Canada,Human,"I 1,4,[5],12:i:-",mcr-3,34,High-Res only
+PRJNA740259,SAMN19836097,GCA_024983695.1,2014,North America,Canada,Human,Typhimurium,mcr-9,19,Hybrid
+PRJNA740259,SAMN19836094,GCA_024983785.1,2013,North America,Canada,Human,Typhimurium,mcr-9,19,High-Res only
+PRJNA740259,SAMN19836083,GCA_024984015.1,2012,North America,Canada,Human,Typhimurium,mcr-9,19,High-Res only
+PRJNA242847,SAMN30636178,GCA_025010465.1,2022,North America,USA,Chicken,Heidelberg,mcr-9,15,Baseline
+PRJEB50837,SAMEA12944459,GCA_025043995.1,2016,Europe,France,Human,Typhimurium,mcr-9,19,High-Res only
+PRJNA242847,SAMN30730948,GCA_025114325.1,2022,North America,USA,Chicken,Agona,mcr-9,13,Baseline
+PRJNA292661,SAMN31509647,GCA_025904425.1,2022,North America,USA,Chicken,Albany,mcr-9,11188,Baseline
+PRJNA857539,SAMN31058634,GCA_026289355.1,2019,Oceania,Australia,Human,Infantis,mcr-1,32,High-VF only
+PRJNA857539,SAMN31058308,GCA_026289965.1,2019,Oceania,Australia,Human,"I 1,4,[5],12:i:-",mcr-1,34,Baseline
+PRJNA857539,SAMN31058395,GCA_026297155.1,2019,Oceania,Australia,Human,"I 1,4,[5],12:i:-",mcr-1,34,High-Res only
+PRJNA857539,SAMN31058670,GCA_026299435.1,2019,Oceania,Australia,Human,Newport,mcr-1,31,Baseline
+PRJNA242847,SAMN32058350,GCA_026680415.1,2022,North America,USA,Chicken,Agona,mcr-9,13,Baseline
+PRJNA248792,SAMN32058468,GCA_026681015.1,2022,Europe,United Kingdom,Human,Chester,mcr-1,1954,High-Res only
+PRJNA885269,SAMN31360514,GCA_026711345.1,2017,Asia,China,Human,"I 1,4,[5],12:i:-",mcr-1,34,Hybrid
+PRJNA885269,SAMN31360500,GCA_026711645.1,2017,Asia,China,Human,"I 1,4,[5],12:i:-",mcr-1,34,High-Res only
+PRJNA885269,SAMN31360499,GCA_026711665.1,2017,Asia,China,Human,"I 1,4,[5],12:i:-",mcr-1,34,High-Res only
+PRJNA885269,SAMN31360486,GCA_026711945.1,2019,Asia,China,Human,"I 1,4,[5],12:i:-",mcr-1,34,High-Res only
+PRJNA885269,SAMN31360475,GCA_026712125.1,2016,Asia,China,Human,"I 1,4,[5],12:i:-",mcr-1,34,High-Res only
+PRJNA885269,SAMN31360474,GCA_026712155.1,2016,Asia,China,Human,"I 1,4,[5],12:i:-",mcr-1,34,High-Res only
+PRJNA885269,SAMN31360473,GCA_026714045.1,2016,Asia,China,Human,"I 1,4,[5],12:i:-",mcr-1,34,High-Res only
+PRJNA885269,SAMN31360441,GCA_026714705.1,2018,Asia,China,Human,"I 1,4,[5],12:i:-",mcr-1,34,High-Res only
+PRJNA885269,SAMN31360361,GCA_026716285.1,2016,Asia,China,Human,"I 1,4,[5],12:i:-",mcr-1,34,High-Res only
+PRJNA885269,SAMN31360362,GCA_026716295.1,2016,Asia,China,Human,"I 1,4,[5],12:i:-",mcr-1,34,High-Res only
+PRJNA885269,SAMN31360360,GCA_026716315.1,2016,Asia,China,Human,"I 1,4,[5],12:i:-",mcr-1,34,High-Res only
+PRJNA885269,SAMN31360335,GCA_026716895.1,2015,Asia,China,Human,"I 1,4,[5],12:i:-",mcr-3,34,Baseline
+PRJNA885269,SAMN31360322,GCA_026717085.1,2015,Asia,China,Human,"I 1,4,[5],12:i:-",mcr-1,34,High-Res only
+PRJNA885269,SAMN31360222,GCA_026719065.1,2020,Asia,China,Human,"I 1,4,[5],12:i:-",mcr-1,34,Hybrid
+PRJNA813972,SAMN26550268,GCA_026922415.1,2018,Asia,China,Human,"I 1,4,[5],12:i:-",mcr-1,34,Hybrid
+PRJNA813972,SAMN26550270,GCA_026922435.1,2018,Asia,China,Human,"I 1,4,[5],12:i:-",mcr-1,34,Hybrid
+PRJNA813972,SAMN26550269,GCA_026922475.1,2018,Asia,China,Human,"I 1,4,[5],12:i:-",mcr-1,34,Hybrid
+PRJNA813972,SAMN26550266,GCA_026922515.1,2017,Asia,China,Human,"I 1,4,[5],12:i:-",mcr-1,34,High-Res only
+PRJNA813972,SAMN26550267,GCA_026922535.1,2017,Asia,China,Human,"I 1,4,[5],12:i:-",mcr-1,34,Hybrid
+PRJNA813972,SAMN26550264,GCA_026922575.1,2018,Asia,China,Human,"I 1,4,[5],12:i:-",mcr-1,34,Hybrid
+PRJNA813972,SAMN26550265,GCA_026922615.1,2017,Asia,China,Human,"I 1,4,[5],12:i:-",mcr-3,34,High-Res only
+PRJNA813972,SAMN26550263,GCA_026922655.1,2019,Asia,China,Human,"I 1,4,[5],12:i:-",mcr-1,34,High-Res only
+PRJNA813972,SAMN26550262,GCA_026922675.1,2017,Asia,China,Human,"I 1,4,[5],12:i:-",mcr-3,34,High-Res only
+PRJNA813972,SAMN26550261,GCA_026922695.1,2018,Asia,China,Human,"I 1,4,[5],12:i:-",mcr-1,34,Hybrid
+PRJNA813972,SAMN26550260,GCA_026922755.1,2018,Asia,China,Human,"I 1,4,[5],12:i:-",mcr-1,34,Hybrid
+PRJNA813972,SAMN26550259,GCA_026922775.1,2017,Asia,China,Human,"I 1,4,[5],12:i:-",mcr-1,34,High-Res only
+PRJNA813972,SAMN26550258,GCA_026922795.1,2017,Asia,China,Human,"I 1,4,[5],12:i:-",mcr-1,34,Hybrid
+PRJNA813972,SAMN26550257,GCA_026922855.1,2017,Asia,China,Human,"I 1,4,[5],12:i:-",mcr-3,34,Hybrid
+PRJNA813972,SAMN26550256,GCA_026922875.1,2017,Asia,China,Human,"I 1,4,[5],12:i:-",mcr-1,34,Hybrid
+PRJNA813972,SAMN26550255,GCA_026922895.1,2017,Asia,China,Human,"I 1,4,[5],12:i:-",mcr-1,34,Hybrid
+PRJNA813972,SAMN26550253,GCA_026922955.1,2018,Asia,China,Human,"I 1,4,[5],12:i:-",mcr-1,34,Hybrid
+PRJNA813972,SAMN26550254,GCA_026922975.1,2017,Asia,China,Human,"I 1,4,[5],12:i:-",mcr-1,34,Hybrid
+PRJNA813972,SAMN26550252,GCA_026922995.1,2017,Asia,China,Human,"I 1,4,[5],12:i:-",mcr-3,34,Hybrid
+PRJNA813972,SAMN26550251,GCA_026923055.1,2019,Asia,China,Human,"I 1,4,[5],12:i:-",mcr-1,34,High-Res only
+PRJNA813972,SAMN26550249,GCA_026923075.1,2017,Asia,China,Human,"I 1,4,[5],12:i:-",mcr-1,34,High-Res only
+PRJNA813972,SAMN26550250,GCA_026923095.1,2018,Asia,China,Human,"I 1,4,[5],12:i:-",mcr-1,34,High-Res only
+PRJNA813972,SAMN26550271,GCA_026923135.1,2017,Asia,China,Human,"I 1,4,[5],12:i:-",mcr-1,34,High-Res only
+PRJNA813972,SAMN26550247,GCA_026923235.1,2017,Asia,China,Human,"I 1,4,[5],12:i:-",mcr-1,34,High-Res only
+PRJNA813972,SAMN26550248,GCA_026923245.1,2017,Asia,China,Human,"I 1,4,[5],12:i:-",mcr-1,34,High-Res only
+PRJNA813972,SAMN26550246,GCA_026923315.1,2017,Asia,China,Human,"I 1,4,[5],12:i:-",mcr-1,34,High-Res only
+PRJNA813972,SAMN26550245,GCA_026923375.1,2016,Asia,China,Human,"I 1,4,[5],12:i:-",mcr-1,34,High-Res only
+PRJNA813972,SAMN26550244,GCA_026923415.1,2014,Asia,China,Human,"I 1,4,[5],12:i:-",mcr-1,34,High-Res only
+PRJNA813972,SAMN26550242,GCA_026923425.1,2017,Asia,China,Human,Typhimurium,mcr-1,34,High-Res only
+PRJNA813972,SAMN26550243,GCA_026923435.1,2018,Asia,China,Human,"I 1,4,[5],12:i:-",mcr-1,34,Hybrid
+PRJNA813972,SAMN26550240,GCA_026923515.1,2015,Asia,China,Human,"I 1,4,[5],12:i:-",mcr-1,34,High-Res only
+PRJNA813972,SAMN26550241,GCA_026923525.1,2017,Asia,China,Human,"I 1,4,[5],12:i:-",mcr-1,34,High-Res only
+PRJNA813972,SAMN26550239,GCA_026923575.1,2018,Asia,China,Human,"I 1,4,[5],12:i:-",mcr-1,34,High-Res only
+PRJNA813972,SAMN26550237,GCA_026923615.1,2018,Asia,China,Human,"I 1,4,[5],12:i:-",mcr-1,34,High-Res only
+PRJNA813972,SAMN26550238,GCA_026923655.1,2018,Asia,China,Human,"I 1,4,[5],12:i:-",mcr-1,34,High-Res only
+PRJNA813972,SAMN26550235,GCA_026923735.1,2015,Asia,China,Human,Typhimurium,mcr-1,34,High-Res only
+PRJNA813972,SAMN26550236,GCA_026923745.1,2018,Asia,China,Human,"I 1,4,[5],12:i:-",mcr-1,34,High-Res only
+PRJNA813972,SAMN26550234,GCA_026923775.1,2018,Asia,China,Human,"I 1,4,[5],12:i:-",mcr-1,34,High-Res only
+PRJNA813972,SAMN26550232,GCA_026923805.1,2017,Asia,China,Human,"I 1,4,[5],12:i:-",mcr-1,34,High-Res only
+PRJNA813972,SAMN26550233,GCA_026923835.1,2017,Asia,China,Human,"I 1,4,[5],12:i:-",mcr-1,34,High-Res only
+PRJNA813972,SAMN26550230,GCA_026923915.1,2018,Asia,China,Human,Typhimurium,mcr-1,34,High-Res only
+PRJNA813972,SAMN26550231,GCA_026923955.1,2017,Asia,China,Human,Typhimurium,mcr-1,34,High-Res only
+PRJNA813972,SAMN26550228,GCA_026923975.1,2018,Asia,China,Human,"I 1,4,[5],12:i:-",mcr-1,34,High-Res only
+PRJNA813972,SAMN26550227,GCA_026924015.1,2018,Asia,China,Human,"I 1,4,[5],12:i:-",mcr-1,34,High-Res only
+PRJNA813972,SAMN26550229,GCA_026924045.1,2017,Asia,China,Human,"I 1,4,[5],12:i:-",mcr-1,34,High-Res only
+PRJNA813972,SAMN26550225,GCA_026924095.1,2018,Asia,China,Human,"I 1,4,[5],12:i:-",mcr-1,34,High-Res only
+PRJNA813972,SAMN26550226,GCA_026924105.1,2018,Asia,China,Human,Typhimurium,mcr-1,19,High-Res only
+PRJNA813972,SAMN26550224,GCA_026924195.1,2019,Asia,China,Human,"I 1,4,[5],12:i:-",mcr-1,19,Hybrid
+PRJNA813972,SAMN26550223,GCA_026924255.1,2019,Asia,China,Human,Typhimurium,mcr-1,19,High-Res only
+PRJNA813972,SAMN26550222,GCA_026924275.1,2019,Asia,China,Human,"I 1,4,[5],12:i:-",mcr-1,34,High-Res only
+PRJNA813972,SAMN26550220,GCA_026924295.1,2018,Asia,China,Human,"I 1,4,[5],12:i:-",mcr-1,34,Hybrid
+PRJNA813972,SAMN26550221,GCA_026924335.1,2015,Asia,China,Human,"I 1,4,[5],12:i:-",mcr-1,34,High-Res only
+PRJNA813972,SAMN26550219,GCA_026924405.1,2018,Asia,China,Human,"I 1,4,[5],12:i:-",mcr-1,34,High-Res only
+PRJNA813972,SAMN26550218,GCA_026924435.1,2018,Asia,China,Human,Typhimurium,mcr-1,34,High-Res only
+PRJNA813972,SAMN26550217,GCA_026924465.1,2017,Asia,China,Human,"I 1,4,[5],12:i:-",mcr-1,34,Baseline
+PRJNA813972,SAMN26550216,GCA_026924515.1,2017,Asia,China,Human,"I 1,4,[5],12:i:-",mcr-1,34,High-Res only
+PRJNA813972,SAMN26550215,GCA_026924525.1,2017,Asia,China,Human,"I 1,4,[5],12:i:-",mcr-1,34,High-Res only
+PRJNA813972,SAMN26550213,GCA_026924575.1,2018,Asia,China,Human,Typhimurium,mcr-3,34,High-Res only
+PRJNA813972,SAMN26550212,GCA_026924585.1,2016,Asia,China,Human,Newport,mcr-1,31,Baseline
+PRJNA813972,SAMN26550210,GCA_026924655.1,2018,Asia,China,Human,"I 1,4,[5],12:i:-",mcr-3,34,High-Res only
+PRJNA813972,SAMN26550214,GCA_026924665.1,2019,Asia,China,Human,Typhimurium,mcr-1,19,High-Res only
+PRJNA813972,SAMN26550211,GCA_026924685.1,2016,Asia,China,Human,Newport,mcr-1,31,High-Res only
+PRJNA813972,SAMN26550208,GCA_026924815.1,2018,Asia,China,Human,"I 1,4,[5],12:i:-",mcr-1,34,High-Res only
+PRJNA813972,SAMN26550206,GCA_026924855.1,2018,Asia,China,Human,"I 1,4,[5],12:i:-",mcr-1,34,High-Res only
+PRJNA813972,SAMN26550207,GCA_026924885.1,2018,Asia,China,Human,"I 1,4,[5],12:i:-",mcr-1,34,High-Res only
+PRJNA813972,SAMN26550209,GCA_026924925.1,2018,Asia,China,Human,"I 1,4,[5],12:i:-",mcr-1,34,High-Res only
+PRJNA813972,SAMN26550205,GCA_026924945.1,2018,Asia,China,Human,Typhimurium,mcr-1,9160,High-Res only
+PRJNA813972,SAMN26550204,GCA_026925015.1,2018,Asia,China,Human,"I 1,4,[5],12:i:-",mcr-1,34,High-Res only
+PRJNA813972,SAMN26550202,GCA_026925075.1,2017,Asia,China,Human,"I 1,4,[5],12:i:-",mcr-1,34,High-Res only
+PRJNA813972,SAMN26550203,GCA_026925085.1,2017,Asia,China,Human,Rissen,mcr-1,469,High-Res only
+PRJNA813972,SAMN26550201,GCA_026925115.1,2017,Asia,China,Human,"I 1,4,[5],12:i:-",mcr-1,34,High-Res only
+PRJNA813972,SAMN26550199,GCA_026925145.1,2017,Asia,China,Human,"I 1,4,[5],12:i:-",mcr-1,34,High-Res only
+PRJNA813972,SAMN26550200,GCA_026925165.1,2017,Asia,China,Human,"I 1,4,[5],12:i:-",mcr-3,34,High-Res only
+PRJNA813972,SAMN26550198,GCA_026925235.1,2017,Asia,China,Human,"I 1,4,[5],12:i:-",mcr-3,34,High-Res only
+PRJNA813972,SAMN26550197,GCA_026925315.1,2017,Asia,China,Human,"I 1,4,[5],12:i:-",mcr-1,34,High-Res only
+PRJNA813972,SAMN26550196,GCA_026925335.1,2017,Asia,China,Human,"I 1,4,[5],12:i:-",mcr-1,34,High-Res only
+PRJNA813972,SAMN26550195,GCA_026925345.1,2017,Asia,China,Human,"I 1,4,[5],12:i:-",mcr-3,34,High-Res only
+PRJNA813972,SAMN26550194,GCA_026925375.1,2017,Asia,China,Human,"I 1,4,[5],12:i:-",mcr-1,34,Hybrid
+PRJNA813972,SAMN26550193,GCA_026925395.1,2017,Asia,China,Human,"I 1,4,[5],12:i:-",mcr-3,34,Hybrid
+PRJNA813972,SAMN26550192,GCA_026925515.1,2017,Asia,China,Human,"I 1,4,[5],12:i:-",mcr-1,34,Baseline
+PRJNA813972,SAMN26550188,GCA_026925535.1,2017,Asia,China,Human,"I 1,4,[5],12:i:-",mcr-1,34,High-Res only
+PRJNA813972,SAMN26550190,GCA_026925615.1,2017,Asia,China,Human,Typhimurium,mcr-1,34,High-Res only
+PRJNA813972,SAMN26550191,GCA_026925625.1,2017,Asia,China,Human,"I 1,4,[5],12:i:-",mcr-1,19,Baseline
+PRJNA813972,SAMN26550189,GCA_026925635.1,2019,Asia,China,Human,"I 1,4,[5],12:i:-",mcr-1,34,High-Res only
+PRJNA813972,SAMN26550183,GCA_026925735.1,2017,Asia,China,Human,"I 1,4,[5],12:i:-",mcr-1,34,Hybrid
+PRJNA813972,SAMN26550186,GCA_026925795.1,2017,Asia,China,Human,"I 1,4,[5],12:i:-",mcr-1,34,High-VF only
+PRJNA813972,SAMN26550184,GCA_026925805.1,2018,Asia,China,Human,"I 1,4,[5],12:i:-",mcr-1,34,Hybrid
+PRJNA813972,SAMN26550185,GCA_026925815.1,2018,Asia,China,Human,"I 1,4,[5],12:i:-",mcr-1,34,High-Res only
+PRJNA813972,SAMN26550187,GCA_026925825.1,2018,Asia,China,Human,"I 1,4,[5],12:i:-",mcr-1,34,High-Res only
+PRJNA813972,SAMN26550182,GCA_026925955.1,2018,Asia,China,Human,Typhimurium,mcr-1,19,Hybrid
+PRJNA813972,SAMN26550178,GCA_026925995.1,2018,Asia,China,Human,"I 1,4,[5],12:i:-",mcr-1,34,High-Res only
+PRJNA813972,SAMN26550181,GCA_026926005.1,2018,Asia,China,Human,"I 1,4,[5],12:i:-",mcr-1,34,High-Res only
+PRJNA813972,SAMN26550179,GCA_026926035.1,2018,Asia,China,Human,Typhimurium,mcr-3,34,Hybrid
+PRJNA813972,SAMN26550180,GCA_026926065.1,2018,Asia,China,Human,"I 1,4,[5],12:i:-",mcr-1,34,Hybrid
+PRJNA813972,SAMN26550173,GCA_026926135.1,2017,Asia,China,Human,"I 1,4,[5],12:i:-",mcr-1,34,Hybrid
+PRJNA813972,SAMN26550176,GCA_026926145.1,2017,Asia,China,Human,"I 1,4,[5],12:i:-",mcr-1,34,High-Res only
+PRJNA813972,SAMN26550175,GCA_026926165.1,2017,Asia,China,Human,Typhimurium,mcr-1,34,Hybrid
+PRJNA813972,SAMN26550177,GCA_026926205.1,2017,Asia,China,Human,Typhimurium,mcr-1,34,High-Res only
+PRJNA813972,SAMN26550174,GCA_026926275.1,2017,Asia,China,Human,"I 1,4,[5],12:i:-",mcr-1,34,Hybrid
+PRJNA813972,SAMN26550171,GCA_026926335.1,2017,Asia,China,Human,Typhimurium,mcr-1,9160,Hybrid
+PRJNA813972,SAMN26550172,GCA_026926355.1,2017,Asia,China,Human,Typhimurium,mcr-1,34,Hybrid
+PRJNA813972,SAMN26550170,GCA_026926405.1,2017,Asia,China,Human,Typhimurium,mcr-1,9160,Hybrid
+PRJNA813972,SAMN26550168,GCA_026926495.1,2017,Asia,China,Human,"I 1,4,[5],12:i:-",mcr-1,34,Hybrid
+PRJNA813972,SAMN26550169,GCA_026926505.1,2017,Asia,China,Human,Typhimurium,mcr-1,34,Hybrid
+PRJNA813972,SAMN26550167,GCA_026926525.1,2017,Asia,China,Human,"I 1,4,[5],12:i:-",mcr-1,34,Hybrid
+PRJNA813972,SAMN26550166,GCA_026926615.1,2017,Asia,China,Human,"I 1,4,[5],12:i:-",mcr-1,34,High-Res only
+PRJNA813972,SAMN26550165,GCA_026926635.1,2017,Asia,China,Human,"I 1,4,[5],12:i:-",mcr-1,34,Hybrid
+PRJNA813972,SAMN26550164,GCA_026926695.1,2017,Asia,China,Human,"I 1,4,[5],12:i:-",mcr-1,34,Hybrid
+PRJNA813972,SAMN26550161,GCA_026926735.1,2017,Asia,China,Human,"I 1,4,[5],12:i:-",mcr-1,34,Hybrid
+PRJNA813972,SAMN26550163,GCA_026926745.1,2017,Asia,China,Human,"I 1,4,[5],12:i:-",mcr-1,34,Hybrid
+PRJNA813972,SAMN26550160,GCA_026926765.1,2017,Asia,China,Human,"I 1,4,[5],12:i:-",mcr-1,34,Hybrid
+PRJNA813972,SAMN26550162,GCA_026926895.1,2017,Asia,China,Human,"I 1,4,[5],12:i:-",mcr-1,34,Hybrid
+PRJNA813972,SAMN26550159,GCA_026926905.1,2017,Asia,China,Human,"I 1,4,[5],12:i:-",mcr-1,34,Hybrid
+PRJNA813972,SAMN26550157,GCA_026926955.1,2017,Asia,China,Human,"I 1,4,[5],12:i:-",mcr-1,34,Hybrid
+PRJNA813972,SAMN26550158,GCA_026926965.1,2017,Asia,China,Human,"I 1,4,[5],12:i:-",mcr-1,34,Hybrid
+PRJNA813972,SAMN26550156,GCA_026927035.1,2017,Asia,China,Human,"I 1,4,[5],12:i:-",mcr-1,34,High-Res only
+PRJNA813972,SAMN26550155,GCA_026927045.1,2017,Asia,China,Human,"I 1,4,[5],12:i:-",mcr-1,34,High-Res only
+PRJNA813972,SAMN26550154,GCA_026927075.1,2017,Asia,China,Human,"I 1,4,[5],12:i:-",mcr-1,34,High-Res only
+PRJNA813972,SAMN26550152,GCA_026927135.1,2017,Asia,China,Human,"I 1,4,[5],12:i:-",mcr-1,34,Hybrid
+PRJNA813972,SAMN26550153,GCA_026927185.1,2017,Asia,China,Human,"I 1,4,[5],12:i:-",mcr-1,34,Hybrid
+PRJNA813972,SAMN26550150,GCA_026927235.1,2017,Asia,China,Human,"I 1,4,[5],12:i:-",mcr-1,34,Hybrid
+PRJNA813972,SAMN26550151,GCA_026927245.1,2017,Asia,China,Human,"I 1,4,[5],12:i:-",mcr-1,5401,Hybrid
+PRJNA813972,SAMN26550149,GCA_026927295.1,2017,Asia,China,Human,"I 1,4,[5],12:i:-",mcr-1,19,Hybrid
+PRJNA813972,SAMN26550146,GCA_026927315.1,2018,Asia,China,Human,"I 1,4,[5],12:i:-",mcr-1,34,High-Res only
+PRJNA813972,SAMN26550147,GCA_026927435.1,2018,Asia,China,Human,"I 1,4,[5],12:i:-",mcr-1,34,High-Res only
+PRJNA813972,SAMN26550148,GCA_026927455.1,2017,Asia,China,Human,"I 1,4,[5],12:i:-",mcr-1,34,Hybrid
+PRJNA813972,SAMN26550143,GCA_026927475.1,2016,Asia,China,Human,"I 1,4,[5],12:i:-",mcr-1,34,High-Res only
+PRJNA813972,SAMN26550144,GCA_026927505.1,2017,Asia,China,Human,"I 1,4,[5],12:i:-",mcr-3,34,High-Res only
+PRJNA813972,SAMN26550145,GCA_026927555.1,2017,Asia,China,Human,"I 1,4,[5],12:i:-",mcr-1,34,High-Res only
+PRJNA813972,SAMN26550141,GCA_026927615.1,2016,Asia,China,Human,"I 1,4,[5],12:i:-",mcr-1,34,High-Res only
+PRJNA813972,SAMN26550139,GCA_026927685.1,2016,Asia,China,Human,Typhimurium,mcr-1,34,Hybrid
+PRJNA813972,SAMN26550140,GCA_026927705.1,2016,Asia,China,Human,"I 1,4,[5],12:i:-",mcr-1,34,Hybrid
+PRJNA813972,SAMN26550138,GCA_026927715.1,2020,Asia,China,Human,Typhimurium,mcr-1,19,High-Res only
+PRJNA813972,SAMN26550142,GCA_026927845.1,2016,Asia,China,Human,Typhimurium,mcr-1,34,Hybrid
+PRJNA813972,SAMN26550137,GCA_026927865.1,2016,Asia,China,Human,"I 1,4,[5],12:i:-",mcr-1,34,Hybrid
+PRJNA813972,SAMN26550135,GCA_026927895.1,2016,Asia,China,Human,"I 1,4,[5],12:i:-",mcr-1,34,Hybrid
+PRJNA813972,SAMN26550136,GCA_026927915.1,2016,Asia,China,Human,"I 1,4,[5],12:i:-",mcr-1,34,Hybrid
+PRJNA813972,SAMN26550132,GCA_026927975.1,2019,Asia,China,Human,"I 1,4,[5],12:i:-",mcr-1,34,High-Res only
+PRJNA813972,SAMN26550133,GCA_026927995.1,2017,Asia,China,Human,"I 1,4,[5],12:i:-",mcr-1,34,High-Res only
+PRJNA813972,SAMN26550134,GCA_026928115.1,2016,Asia,China,Human,Typhimurium,mcr-1,34,Hybrid
+PRJNA857539,SAMN31058360,GCA_027256395.1,2019,Oceania,Australia,Human,Typhimurium,mcr-3,34,High-Res only
+PRJEB38934,SAMEA6979312,GCA_027898595.1,2018,Asia,China,Human,"I 1,4,[5],12:i:-",mcr-1,34,High-Res only
+PRJNA801046,SAMN25290048,GCA_027942075.1,2021,Asia,China,Egg,"I 1,4,[5],12:i:-",mcr-1,34,Hybrid
+PRJNA801050,SAMN25290051,GCA_027942095.1,2021,Asia,China,Egg,"I 1,4,[5],12:i:-",mcr-1,34,High-Res only
+PRJNA292661,SAMN32767388,GCA_027958585.1,2022,North America,USA,Chicken,Heidelberg,mcr-9,15,Baseline
+PRJNA810928,SAMN26331057,GCA_028036295.1,2017,Asia,Singapore,Human,Enteritidis,mcr-1,1925,High-VF only
+PRJNA242847,SAMN32878081,GCA_028135395.1,2022,North America,USA,Chicken,Agona,mcr-9,13,High-Res only
+PRJEB53630,SAMEA110144030,GCA_028303445.1,2009,Europe,Belgium,Human,Concord,mcr-9,534,High-Res only
+PRJEB53630,SAMEA110144031,GCA_028303465.1,2012,Europe,Belgium,Human,Concord,mcr-9,599,High-Res only
+PRJNA292661,SAMN33423974,GCA_028834085.1,2022,North America,USA,Chicken,Schwarzengrund,mcr-9,96,Baseline
+PRJNA292661,SAMN33578916,GCA_029000715.1,2023,North America,USA,Chicken,Agona,mcr-9,13,Baseline
+PRJNA766315,SAMN27684489,GCA_030081145.1,2012,Asia,China,Chicken,Typhimurium,mcr-1,34,High-Res only
+PRJNA766315,SAMN27684401,GCA_030082915.1,2018,Asia,China,Human,"I 1,4,[5],12:i:-",mcr-1,34,High-Res only
+PRJNA766315,SAMN27684387,GCA_030083175.1,2016,Asia,China,Human,Typhimurium,mcr-1,9160,High-Res only
+PRJNA766315,SAMN27684382,GCA_030083275.1,2016,Asia,China,Human,"I 1,4,[5],12:i:-",mcr-1,34,High-Res only
+PRJNA766315,SAMN27684342,GCA_030083995.1,2013,Asia,China,Human,Typhimurium,mcr-1,34,High-Res only
+PRJNA766315,SAMN21889892,GCA_030086395.1,2017,Asia,China,Human,IIIb 50:k:z,mcr-9,430,High-Res only
+PRJNA766315,SAMN21889720,GCA_030089855.1,2015,Asia,China,Chicken,Schwarzengrund,mcr-9,96,High-Res only
+PRJNA766315,SAMN21889719,GCA_030089895.1,2015,Asia,China,Chicken,Schwarzengrund,mcr-9,241,High-Res only
+PRJNA766315,SAMN21890266,GCA_030094855.1,2014,Asia,China,Human,Choleraesuis,mcr-3,139,Hybrid
+PRJNA766315,SAMN21890100,GCA_030098105.1,2017,Asia,China,Human,Typhimurium,mcr-1,34,Hybrid
+PRJNA766315,SAMN21890081,GCA_030098475.1,2017,Asia,China,Human,Typhimurium,mcr-3,34,High-Res only
+PRJNA766315,SAMN21891045,GCA_030100615.1,2013,Asia,China,Human,Bredeney,mcr-9,241,Baseline
+PRJNA766315,SAMN21891043,GCA_030100665.1,2010,Asia,China,Human,Bredeney,mcr-9,241,High-Res only
+PRJNA766315,SAMN21889974,GCA_030101445.1,2017,Asia,China,Human,"I 1,4,[5],12:i:-",mcr-1,34,High-Res only
+PRJNA766315,SAMN21889917,GCA_030103145.1,2017,Asia,China,Chicken,Minnesota,mcr-9,548,High-Res only
+PRJNA766315,SAMN21891014,GCA_030103325.1,2016,Asia,China,Human,Brancaster,mcr-1,2133,High-Res only
+PRJNA766315,SAMN21890673,GCA_030110125.1,2014,Asia,China,Human,Choleraesuis,mcr-3,139,Hybrid
+PRJNA766315,SAMN21890386,GCA_030115045.1,2013,Asia,China,Human,Typhimurium,mcr-9,36,High-Res only
+PRJNA675488,SAMN16709262,GCA_030440615.1,2010,Asia,Thailand,Human,"I 1,4,[5],12:i:-",mcr-3,34,Hybrid
+PRJNA675488,SAMN16709263,GCA_030440635.1,2010,Asia,Thailand,Human,"I 1,4,[5],12:i:-",mcr-3,34,Hybrid
+PRJNA993710,SAMN36408444,GCA_030502635.1,2016,North America,USA,Egg,Albany,mcr-9,292,Baseline
+PRJNA338674,SAMN36175101,GCA_031439705.1,2023,North America,USA,Environment,Senftenberg,mcr-9,185,Baseline
+PRJNA675595,SAMN36093238,GCA_031443185.1,2021,North America,USA,Environment,Liverpool,mcr-9,1959,Baseline
+PRJNA242847,SAMN36791084,GCA_032022685.1,2023,North America,USA,Chicken,Agona,mcr-9,13,High-Res only
+PRJNA974924,SAMN35370910,GCA_032199585.1,2021,Asia,South Korea,Human,"I 1,4,[5],12:i:-",mcr-9,34,Hybrid
+PRJNA974924,SAMN35370840,GCA_032199805.1,2016,Asia,South Korea,Human,"I 1,4,[5],12:i:-",mcr-3,34,High-Res only
+PRJNA242847,SAMN36382124,GCA_032545445.1,2023,North America,USA,Chicken,Agona,mcr-9,13,Baseline
+PRJNA242847,SAMN36382159,GCA_032564135.1,2023,North America,USA,Chicken,Agona,mcr-9,13,Baseline
+PRJNA230403,SAMN38051664,GCA_033179465.1,2023,North America,USA,Human,"I 1,4,[5],12:i:-",mcr-9,34,High-Res only
+PRJNA186035,SAMN38123145,GCA_033392655.1,2023,North America,USA,Chicken,Agona,mcr-9,13,Baseline
+PRJNA186035,SAMN38123147,GCA_033392675.1,2023,North America,USA,Chicken,Agona,mcr-9,13,Baseline
+PRJNA186035,SAMN38123138,GCA_033392775.1,2023,North America,USA,Chicken,Agona,mcr-9,13,Baseline
+PRJNA1043635,SAMN38347245,GCA_033988885.1,2020,Asia,Saudi Arabia,Chicken,Minnesota,mcr-1,548,Hybrid
+PRJNA1013903,SAMN37312653,GCA_034648995.1,2022,Asia,China,Chicken,Indiana,mcr-1,17,High-Res only
+PRJNA1013903,SAMN37312663,GCA_034649255.1,2022,Asia,China,Chicken,Indiana,mcr-1,17,High-Res only
+PRJNA1013903,SAMN37312673,GCA_034649515.1,2022,Asia,China,Chicken,Newport,mcr-1,45,High-Res only
+PRJNA1013903,SAMN37312691,GCA_034649895.1,2022,Asia,China,Chicken,Newport,mcr-1,45,High-Res only
+PRJNA1013903,SAMN37312715,GCA_034653655.1,2022,Asia,China,Chicken,Newport,mcr-1,45,High-Res only
+PRJNA242847,SAMN39224080,GCA_034981625.1,2023,North America,USA,Chicken,Agona,mcr-9,13,Baseline
+PRJNA230403,SAMN39243799,GCA_035069865.1,2023,North America,USA,Human,Agona,mcr-9,13,Baseline
+PRJNA248792,SAMN40302843,GCA_037097175.1,2023,Europe,United Kingdom,Human,Chester,mcr-9,1954,High-Res only
+PRJNA284276,SAMN40334107,GCA_037552305.1,2024,North America,USA,Environment,Agona,mcr-9,13,High-Res only
+PRJNA1043635,SAMN40599205,GCA_037889615.1,2020,Asia,Saudi Arabia,Chicken,Minnesota,mcr-1,548,Hybrid
+PRJNA230403,SAMN40739587,GCA_037959345.1,2024,North America,USA,Human,Infantis,mcr-9,32,Baseline
+PRJNA230403,SAMN40739517,GCA_037960125.1,2024,North America,USA,Human,"I 1,4,[5],12:i:-",mcr-9,34,High-Res only
+PRJNA242847,SAMN40873168,GCA_038034225.1,2024,North America,USA,Chicken,Albany,mcr-9,11188,Baseline
+PRJNA1073910,SAMN41093575,GCA_038517235.1,2023,North America,Mexico,Chicken,Infantis,mcr-1,32,Hybrid
+PRJNA1101247,SAMN40991594,GCA_039041215.1,2020,Asia,China,Chicken,Indiana,mcr-1,17,High-Res only
+PRJNA230403,SAMN41249952,GCA_039557805.1,2024,North America,USA,Human,Agona,mcr-9,13,Baseline
+PRJNA230403,SAMN41463518,GCA_039716555.1,2024,North America,USA,Human,"I 1,4,[5],12:i:-",mcr-3,34,Hybrid
+PRJNA1117363,SAMN41574418,GCA_040065855.1,2022,Asia,China,Environment,Indiana,mcr-1,17,High-Res only
+PRJNA1117363,SAMN41574416,GCA_040065865.1,2022,Asia,China,Environment,Indiana,mcr-1,17,High-Res only
+PRJNA1117363,SAMN41574415,GCA_040065985.1,2022,Asia,China,Environment,Indiana,mcr-1,17,High-Res only
+PRJNA1117363,SAMN41574419,GCA_040066055.1,2022,Asia,China,Environment,Indiana,mcr-1,17,High-Res only
+PRJNA1026158,SAMN37735955,GCA_040895445.1,2018,Asia,China,Human,"I 1,4,[5],12:i:-",mcr-9,34,Hybrid
+PRJNA1026158,SAMN37735958,GCA_040895455.1,2016,Asia,China,Human,Typhimurium,mcr-9,36,Hybrid
+PRJNA1026158,SAMN37735959,GCA_040895485.1,2015,Asia,China,Human,Typhimurium,mcr-9,36,High-Res only
+PRJNA1026158,SAMN37735957,GCA_040895505.1,2017,Asia,China,Human,"I 1,4,[5],12:i:-",mcr-9,34,Hybrid
+PRJNA1026158,SAMN37735953,GCA_040895515.1,2017,Asia,China,Human,Thompson,mcr-9,26,Baseline
+PRJNA1026158,SAMN37735951,GCA_040895585.1,2019,Asia,China,Human,Thompson,mcr-9,26,High-Res only
+PRJNA1026158,SAMN37735952,GCA_040895595.1,2018,Asia,China,Human,Thompson,mcr-9,26,High-Res only
+PRJNA1026158,SAMN37735950,GCA_040895615.1,2017,Asia,China,Human,Thompson,mcr-9,26,High-Res only
+PRJNA1026158,SAMN37735954,GCA_040939825.1,2017,Asia,China,Human,"I 1,4,[5],12:i:-",mcr-9,34,High-Res only
+PRJNA1026158,SAMN37735956,GCA_040939835.1,2018,Asia,China,Human,"I 1,4,[5],12:i:-",mcr-9,34,High-Res only
+PRJNA1026158,SAMN37735949,GCA_040939865.1,2017,Asia,China,Human,Thompson,mcr-9,26,High-Res only
+PRJNA292661,SAMN42914309,GCA_040961325.1,2023,North America,USA,Chicken,Agona,mcr-9,13,Baseline
+PRJNA248792,SAMN42995186,GCA_041047735.1,2024,Europe,United Kingdom,Human,Typhimurium,mcr-9,3774,High-Res only
+PRJNA292661,SAMN38225763,GCA_041053165.1,2021,North America,USA,Chicken,Senftenberg,mcr-9,14,Baseline
+PRJNA543337,SAMN41838223,GCA_041070845.1,2018,North America,Canada,Human,Typhimurium,mcr-9,19,High-Res only
+PRJNA543337,SAMN41838152,GCA_041070885.1,2018,North America,Canada,Human,Typhimurium,mcr-9,19,High-Res only
+PRJNA230403,SAMN43048359,GCA_041109925.1,2024,North America,USA,Human,"I 1,4,[5],12:i:-",mcr-9,34,High-Res only
+PRJNA543337,SAMN41837825,GCA_041118785.1,2019,North America,Canada,Human,"I 1,4,[5],12:i:-",mcr-3,34,High-Res only
+PRJNA1088619,SAMN40479185,GCA_041122085.1,2020,Asia,China,Human,"I 1,4,[5],12:i:-",mcr-1,34,High-Res only
+PRJNA1088617,SAMN40478462,GCA_041137125.1,2019,Asia,China,Human,"I 1,4,[5],12:i:-",mcr-1,34,High-Res only
+PRJNA1088386,SAMN40467489,GCA_041143025.1,2018,Asia,China,Human,"I 1,4,[5],12:i:-",mcr-1,34,High-Res only
+PRJNA1088386,SAMN40467368,GCA_041145425.1,2017,Asia,China,Human,"I 1,4,[5],12:i:-",mcr-1,11410,High-Res only
+PRJNA1088386,SAMN40467342,GCA_041146045.1,2017,Asia,China,Human,"I 1,4,[5],12:i:-",mcr-1,34,High-Res only
+PRJNA1088321,SAMN40467327,GCA_041147515.1,2016,Asia,China,Human,"I 1,4,[5],12:i:-",mcr-1,34,High-Res only
+PRJNA1088321,SAMN40467317,GCA_041147695.1,2016,Asia,China,Human,Typhimurium,mcr-9,36,High-Res only
+PRJNA1088321,SAMN40467283,GCA_041148355.1,2016,Asia,China,Human,Derby,mcr-1,40,High-Res only
+PRJNA1088321,SAMN40467243,GCA_041149185.1,2016,Asia,China,Human,London,mcr-1,155,Baseline
+PRJNA1088321,SAMN40467241,GCA_041149235.1,2016,Asia,China,Human,London,mcr-1,155,Baseline
+PRJNA1088321,SAMN40467053,GCA_041152905.1,2015,Asia,China,Human,Rissen,mcr-1,469,High-Res only
+PRJNA1088321,SAMN40467033,GCA_041153085.1,2015,Asia,China,Human,Newport,mcr-1,31,Baseline
+PRJNA1088321,SAMN40467032,GCA_041153305.1,2015,Asia,China,Human,Newport,mcr-1,31,Baseline
+PRJNA1088298,SAMN40466723,GCA_041184965.1,2015,Asia,China,Human,Newport,mcr-1,31,High-Res only
+PRJNA1088298,SAMN40466722,GCA_041185005.1,2015,Asia,China,Human,Newport,mcr-1,31,High-Res only
+PRJNA1088298,SAMN40466654,GCA_041186245.1,2015,Asia,China,Human,Anatum,mcr-1,64,High-Res only
+PRJNA1088298,SAMN40466508,GCA_041189205.1,2013,Asia,China,Human,"I 1,4,[5],12:i:-",mcr-1,34,High-Res only
+PRJNA1088298,SAMN40466432,GCA_041190745.1,2013,Asia,China,Human,Typhimurium,mcr-1,5401,High-Res only
+PRJNA1086205,SAMN40371180,GCA_041405005.1,2019,Asia,China,Human,"I 1,4,[5],12:i:-",mcr-1,34,Hybrid
+PRJNA1086205,SAMN40371182,GCA_041405035.1,2019,Asia,China,Human,"I 1,4,[5],12:i:-",mcr-1,34,Hybrid
+PRJNA1117363,SAMN41574420,GCA_041538125.1,2022,Asia,China,Environment,Indiana,mcr-1,17,High-Res only
+PRJNA1117363,SAMN41574421,GCA_041538165.1,2022,Asia,China,Environment,Indiana,mcr-1,17,High-Res only
+PRJNA1088298,SAMN43154953,GCA_041859755.1,2017,Asia,China,Human,Kentucky,mcr-1,198,High-Res only
+PRJNA860029,SAMN30881470,GCA_042184335.1,2019,Asia,Thailand,Human,"I 1,4,[5],12:i:-",mcr-3,34,High-Res only
+PRJNA860029,SAMN30881467,GCA_042186005.1,2017,Asia,Thailand,Human,"I 1,4,[5],12:i:-",mcr-3,34,High-Res only
+PRJNA847966,SAMN29042794,GCA_042708625.1,2006,Asia,Israel,Human,Paratyphi B var. Java,mcr-9,28,Baseline
+PRJNA847966,SAMN29042629,GCA_042712515.1,2003,Asia,Israel,Human,Paratyphi B var. Java,mcr-9,28,Baseline
+PRJNA847966,SAMN29042815,GCA_042830995.1,2006,Asia,Israel,Human,Paratyphi B var. Java,mcr-9,28,Baseline
+PRJNA847966,SAMN29042622,GCA_042831455.1,2003,Asia,Israel,Human,Paratyphi B var. Java,mcr-9,28,Baseline
+PRJNA857539,SAMN41142749,GCA_043028645.1,2023,Oceania,Australia,Human,London,mcr-1,155,High-Res only
+PRJNA857539,SAMN41142705,GCA_043033545.1,2023,Oceania,Australia,Human,"I 1,4,[5],12:i:-",mcr-1,34,High-Res only
+PRJNA1171133,SAMN44234605,GCA_043271645.1,2018,Asia,China,Human,Typhimurium,mcr-1,34,High-Res only
+PRJNA1171133,SAMN44234580,GCA_043272345.1,2016,Asia,China,Human,"I 1,4,[5],12:i:-",mcr-1,34,High-Res only
+PRJNA1171133,SAMN44234579,GCA_043272405.1,2016,Asia,China,Human,"I 1,4,[5],12:i:-",mcr-1,34,High-VF only
+PRJNA1171133,SAMN44234577,GCA_043272445.1,2016,Asia,China,Human,"I 1,4,[5],12:i:-",mcr-1,34,High-Res only
+PRJNA1171133,SAMN44234575,GCA_043272645.1,2016,Asia,China,Human,"I 1,4,[5],12:i:-",mcr-1,34,Hybrid
+PRJNA1171177,SAMN44236750,GCA_043280415.1,2021,Asia,China,Human,"I 1,4,[5],12:i:-",mcr-1,34,High-Res only
+PRJNA1109748,SAMN41279698,GCA_043350795.1,2023,Asia,China,Human,"I 1,4,[5],12:i:-",mcr-1,34,High-Res only
+PRJNA248792,SAMN44349151,GCA_043498625.1,2024,Europe,United Kingdom,Human,Chester,mcr-1,1954,High-Res only
+PRJNA981225,SAMN35680660,GCA_044285925.1,2014,Asia,China,Human,Typhimurium,mcr-1,34,High-Res only
+PRJNA981225,SAMN35680659,GCA_044285945.1,2013,Asia,China,Human,"I 1,4,[5],12:i:-",mcr-1,34,High-Res only
+PRJNA981225,SAMN35680661,GCA_044286005.1,2014,Asia,China,Human,"I 1,4,[5],12:i:-",mcr-1,34,Baseline
+PRJNA981225,SAMN35680549,GCA_044289945.1,2018,Asia,China,Human,"I 1,4,[5],12:i:-",mcr-1,2956,High-Res only
+PRJNA981225,SAMN35680553,GCA_044290025.1,2013,Asia,China,Human,Typhimurium,mcr-1,34,High-Res only
+PRJNA981225,SAMN35680508,GCA_044291945.1,2018,Asia,China,Human,"I 1,4,[5],12:i:-",mcr-1,34,High-Res only
+PRJNA981225,SAMN35680507,GCA_044291955.1,2018,Asia,China,Human,"I 1,4,[5],12:i:-",mcr-1,34,High-Res only
+PRJNA981225,SAMN35680519,GCA_044292195.1,2018,Asia,China,Human,"I 1,4,[5],12:i:-",mcr-1,34,High-Res only
+PRJNA981225,SAMN35680117,GCA_044292555.1,2016,Asia,China,Human,"I 1,4,[5],12:i:-",mcr-3,34,High-Res only
+PRJNA981225,SAMN35680599,GCA_044297675.1,2018,Asia,China,Human,"I 1,4,[5],12:i:-",mcr-1,34,High-Res only
+PRJNA981225,SAMN35680312,GCA_044299005.1,2016,Asia,China,Human,Typhimurium,mcr-1,34,High-Res only
+PRJNA981225,SAMN35680082,GCA_044299685.1,2016,Asia,China,Human,"I 1,4,[5],12:i:-",mcr-1,34,High-Res only
+PRJNA981225,SAMN35680083,GCA_044299725.1,2016,Asia,China,Human,"I 1,4,[5],12:i:-",mcr-1,34,High-Res only
+PRJNA981225,SAMN35680132,GCA_044299745.1,2016,Asia,China,Human,"I 1,4,[5],12:i:-",mcr-1,34,High-Res only
+PRJNA981225,SAMN35680136,GCA_044299825.1,2016,Asia,China,Human,"I 1,4,[5],12:i:-",mcr-3,34,High-Res only
+PRJNA981225,SAMN35680139,GCA_044299875.1,2016,Asia,China,Human,Typhimurium,mcr-1,34,High-Res only
+PRJNA981225,SAMN35680147,GCA_044300025.1,2015,Asia,China,Human,Typhimurium,mcr-1,34,High-Res only
+PRJNA981225,SAMN35680160,GCA_044300285.1,2007,Asia,China,Human,Typhimurium,mcr-1,34,High-Res only
+PRJNA981225,SAMN35680204,GCA_044300585.1,2015,Asia,China,Human,"I 1,4,[5],12:i:-",mcr-1,34,High-Res only
+PRJNA981225,SAMN35680205,GCA_044300645.1,2015,Asia,China,Human,"I 1,4,[5],12:i:-",mcr-1,34,High-Res only
+PRJNA981225,SAMN35680209,GCA_044300725.1,2016,Asia,China,Human,"I 1,4,[5],12:i:-",mcr-1,34,High-Res only
+PRJNA981225,SAMN35680264,GCA_044301355.1,2016,Asia,China,Human,"I 1,4,[5],12:i:-",mcr-1,34,High-Res only
+PRJNA981225,SAMN35669628,GCA_044301785.1,2013,Asia,China,Chicken,"I 1,4,[5],12:i:-",mcr-1,34,High-Res only
+PRJNA981225,SAMN35680364,GCA_044303065.1,2017,Asia,China,Human,"I 1,4,[5],12:i:-",mcr-1,34,High-Res only
+PRJNA981225,SAMN35680382,GCA_044303405.1,2017,Asia,China,Human,Typhimurium,mcr-3,34,High-Res only
+PRJNA981225,SAMN35680450,GCA_044304845.1,2017,Asia,China,Human,"I 1,4,[5],12:i:-",mcr-3,34,High-Res only
+PRJNA981225,SAMN35670195,GCA_044306175.1,2016,Asia,China,Human,"I 1,4,[5],12:i:-",mcr-3,34,High-Res only
+PRJNA981225,SAMN35670593,GCA_044306945.1,2012,Asia,China,Human,Typhimurium,mcr-9,34,High-Res only
+PRJNA981225,SAMN35670595,GCA_044306955.1,2012,Asia,China,Human,Typhimurium,mcr-9,34,High-Res only
+PRJNA981225,SAMN35670594,GCA_044306965.1,2012,Asia,China,Human,Typhimurium,mcr-9,34,High-Res only
+PRJNA981225,SAMN35670598,GCA_044307045.1,2012,Asia,China,Human,Typhimurium,mcr-9,34,High-Res only
+PRJNA981225,SAMN35670599,GCA_044307055.1,2012,Asia,China,Human,Typhimurium,mcr-9,34,High-Res only
+PRJNA981225,SAMN35670597,GCA_044307085.1,2012,Asia,China,Human,Typhimurium,mcr-9,34,High-Res only
+PRJNA981225,SAMN35670670,GCA_044307205.1,2013,Asia,China,Human,"I 1,4,[5],12:i:-",mcr-1,34,Hybrid
+PRJNA981225,SAMN35670671,GCA_044307265.1,2013,Asia,China,Human,"I 1,4,[5],12:i:-",mcr-1,34,Baseline
+PRJNA981225,SAMN35680006,GCA_044308995.1,2015,Asia,China,Human,"I 1,4,[5],12:i:-",mcr-1,34,High-Res only
+PRJNA981225,SAMN35680007,GCA_044309055.1,2015,Asia,China,Human,"I 1,4,[5],12:i:-",mcr-1,34,High-Res only
+PRJNA981225,SAMN35670375,GCA_044309525.1,2013,Asia,China,Human,Typhimurium,mcr-9,36,High-Res only
+PRJNA981225,SAMN35670556,GCA_044312185.1,2012,Asia,China,Human,Typhimurium,mcr-9,34,High-Res only
+PRJNA981225,SAMN35670605,GCA_044312485.1,2012,Asia,China,Human,Typhimurium,mcr-9,34,High-Res only
+PRJNA981225,SAMN35670615,GCA_044312665.1,2012,Asia,China,Human,Typhimurium,mcr-1,34,Baseline
+PRJNA981225,SAMN35670752,GCA_044313685.1,2015,Asia,China,Human,"I 1,4,[5],12:i:-",mcr-1,34,High-Res only
+PRJNA981225,SAMN35670753,GCA_044313725.1,2015,Asia,China,Human,"I 1,4,[5],12:i:-",mcr-1,34,High-Res only
+PRJNA981225,SAMN35670754,GCA_044313785.1,2015,Asia,China,Human,"I 1,4,[5],12:i:-",mcr-1,34,High-Res only
+PRJNA981225,SAMN35670756,GCA_044313805.1,2015,Asia,China,Human,"I 1,4,[5],12:i:-",mcr-1,34,High-Res only
+PRJNA981225,SAMN35680058,GCA_044314565.1,2014,Asia,China,Human,"I 1,4,[5],12:i:-",mcr-1,34,High-Res only
+PRJNA981225,SAMN35680075,GCA_044314865.1,2015,Asia,China,Human,"I 1,4,[5],12:i:-",mcr-1,34,High-Res only
+PRJNA981225,SAMN35680080,GCA_044314905.1,2016,Asia,China,Human,"I 1,4,[5],12:i:-",mcr-1,34,High-Res only
+PRJNA981225,SAMN35680081,GCA_044314945.1,2016,Asia,China,Human,"I 1,4,[5],12:i:-",mcr-1,34,High-Res only
+PRJNA981225,SAMN35670275,GCA_044315275.1,2016,Asia,China,Human,"I 1,4,[5],12:i:-",mcr-1,34,High-Res only
+PRJNA981225,SAMN35670206,GCA_044316185.1,2008,Asia,China,Human,Typhimurium,mcr-9,19,Hybrid
+PRJNA981225,SAMN35670620,GCA_044316835.1,2013,Asia,China,Human,Typhimurium,Multiple mcr families,34,High-Res only
+PRJNA981225,SAMN35670637,GCA_044317105.1,2013,Asia,China,Human,"I 1,4,[5],12:i:-",mcr-3,34,High-Res only
+PRJNA981225,SAMN35680028,GCA_044317265.1,2011,Asia,China,Human,"I 1,4,[5],12:i:-",mcr-1,34,Baseline
+PRJNA981225,SAMN35670707,GCA_044319875.1,2014,Asia,China,Human,Typhimurium,mcr-1,34,High-Res only
+PRJNA981225,SAMN35670758,GCA_044320185.1,2015,Asia,China,Human,"I 1,4,[5],12:i:-",mcr-1,34,Hybrid
+PRJNA981225,SAMN35670759,GCA_044320205.1,2015,Asia,China,Human,"I 1,4,[5],12:i:-",mcr-1,34,Hybrid
+PRJNA981225,SAMN35670760,GCA_044320215.1,2015,Asia,China,Human,"I 1,4,[5],12:i:-",mcr-1,34,High-Res only
+PRJNA981225,SAMN35670762,GCA_044320225.1,2015,Asia,China,Human,"I 1,4,[5],12:i:-",mcr-1,34,Baseline
+PRJNA981225,SAMN35670761,GCA_044320245.1,2015,Asia,China,Human,Typhimurium,mcr-1,19,Hybrid
+PRJNA981225,SAMN35670241,GCA_044320305.1,2012,Asia,China,Human,Typhimurium,mcr-9,19,High-VF only
+PRJNA981225,SAMN35670763,GCA_044320315.1,2015,Asia,China,Human,Typhimurium,mcr-1,34,High-Res only
+PRJNA981225,SAMN35670764,GCA_044320345.1,2015,Asia,China,Human,Typhimurium,mcr-1,34,High-Res only
+PRJNA673740,SAMN16622232,GCA_044897425.1,2015,Asia,China,Human,Weltevreden,mcr-1,365,Baseline
+PRJNA673740,SAMN16622267,GCA_044904905.1,2014,Asia,China,Human,Weltevreden,mcr-1,365,Baseline
+PRJDB17679,SAMD00755328,GCA_044966185.1,2010,Asia,Japan,Human,Enteritidis,mcr-9,11,Hybrid
+PRJNA1085984,SAMN41190850,GCA_045035795.1,2017,South America,Peru,Human,Infantis,mcr-1,32,Hybrid
+PRJNA872154,SAMN30652549,GCA_045177585.1,2020,Asia,Saudi Arabia,Chicken,Minnesota,mcr-9,548,High-Res only
+PRJNA248792,SAMN44847296,GCA_045197025.1,2024,Europe,United Kingdom,Human,Anatum,mcr-1,64,Baseline
+PRJNA857539,SAMN44888062,GCA_045356765.1,2024,Oceania,Australia,Human,Ordonez,Multiple mcr families,4807,High-Res only
+PRJNA857539,SAMN41412900,GCA_045500695.1,2021,Oceania,Australia,Human,Stanley,mcr-3,29,High-Res only
+PRJNA1120038,SAMN41676091,GCA_045852685.1,2007,North America,Canada,Chicken,Heidelberg,mcr-9,15,Baseline
+PRJNA1120038,SAMN41676092,GCA_045853405.1,2007,North America,Canada,Chicken,Heidelberg,mcr-9,15,Baseline
+PRJNA1120038,SAMN41677323,GCA_045853845.1,2015,North America,Canada,Chicken,Heidelberg,mcr-9,15,Baseline
+PRJNA1146182,SAMN43088240,GCA_046473585.1,2019,Oceania,Australia,Human,"I 1,4,[5],12:i:-",mcr-3,34,High-Res only
+PRJNA1066061,SAMN39480307,GCA_046762785.1,2000,Europe,Spain,Human,"I 1,4,[5],12:i:-",mcr-5,19,High-VF only
+PRJNA1204499,SAMN46070848,GCA_046839275.1,2011,Asia,China,Chicken,Thompson,mcr-9,26,High-Res only
+PRJNA1204499,SAMN46070820,GCA_046839295.1,2018,Asia,China,Chicken,Thompson,mcr-9,26,High-Res only
+PRJNA1204499,SAMN46070817,GCA_046839415.1,2018,Asia,China,Chicken,Thompson,mcr-9,26,High-Res only
+PRJNA1204499,SAMN46070810,GCA_046839795.1,2018,Asia,China,Chicken,Thompson,mcr-9,26,High-Res only
+PRJNA1204499,SAMN46070841,GCA_046840685.1,2010,Asia,China,Chicken,Thompson,mcr-9,26,High-Res only
+PRJNA1204499,SAMN46070839,GCA_046840725.1,2012,Asia,China,Chicken,Thompson,mcr-9,26,High-Res only
+PRJNA1204499,SAMN46070840,GCA_046840825.1,2010,Asia,China,Chicken,Thompson,mcr-9,26,High-Res only
+PRJNA1204499,SAMN46070843,GCA_046841545.1,2010,Asia,China,Chicken,Thompson,mcr-9,26,High-Res only
+PRJNA1204499,SAMN46070842,GCA_046841765.1,2011,Asia,China,Chicken,Thompson,mcr-9,26,High-Res only
+PRJNA1204499,SAMN46070845,GCA_046841825.1,2010,Asia,China,Chicken,Thompson,mcr-9,26,High-Res only
+PRJNA1204499,SAMN46070849,GCA_046841895.1,2014,Asia,China,Chicken,Thompson,mcr-9,26,High-Res only
+PRJNA1048702,SAMN38657820,GCA_046882995.1,2022,Asia,China,Chicken,Schwarzengrund,mcr-1,241,High-Res only
+PRJNA1048705,SAMN38657839,GCA_046883025.1,2022,Asia,China,Chicken,Schwarzengrund,mcr-1,241,Baseline
+PRJNA1048697,SAMN38657794,GCA_046883045.1,2022,Asia,China,Chicken,Schwarzengrund,mcr-1,241,High-Res only
+PRJNA1048699,SAMN38657797,GCA_046883065.1,2022,Asia,China,Chicken,Schwarzengrund,mcr-1,241,High-Res only
+PRJNA860029,SAMN29815767,GCA_047458175.1,2016,Asia,Thailand,Human,"I 1,4,[5],12:i:-",mcr-3,34,High-Res only
+PRJNA860029,SAMN29815793,GCA_047460975.1,2017,Asia,Thailand,Human,Typhimurium,mcr-3,34,High-Res only
+PRJNA860029,SAMN29815791,GCA_047461055.1,2017,Asia,Thailand,Human,Typhimurium,mcr-3,34,High-Res only
+PRJNA860029,SAMN29815780,GCA_047461315.1,2017,Asia,Thailand,Human,"I 1,4,[5],12:i:-",mcr-3,34,Baseline
+PRJNA860029,SAMN29815775,GCA_047461355.1,2016,Asia,Thailand,Human,"I 1,4,[5],12:i:-",mcr-3,34,High-Res only
+PRJNA860029,SAMN29815773,GCA_047461455.1,2016,Asia,Thailand,Human,"I 1,4,[5],12:i:-",mcr-3,34,High-Res only
+PRJNA860029,SAMN29815805,GCA_047502545.1,2019,Asia,Thailand,Human,"I 1,4,[5],12:i:-",mcr-3,34,High-Res only
+PRJNA860029,SAMN29815783,GCA_047502585.1,2017,Asia,Thailand,Human,"I 1,4,[5],12:i:-",mcr-3,34,High-Res only
+PRJNA242847,SAMN47757508,GCA_049261625.1,2025,North America,USA,Chicken,Schwarzengrund,mcr-9,96,Baseline
+PRJNA242847,SAMN47941179,GCA_049596755.1,2025,North America,USA,Chicken,Infantis,mcr-9,32,Baseline
+PRJNA1000275,SAMN36766223,GCA_049618405.1,2012,Asia,China,Human,Typhimurium,mcr-9,36,Hybrid
+PRJNA1209007,SAMN46197640,GCA_049843135.1,2017,Asia,China,Human,"I 1,4,[5],12:i:-",mcr-1,34,Hybrid
+PRJNA938922,SAMN33449792,GCA_049887355.1,2021,Asia,China,Egg,"I 1,4,[5],12:i:-",mcr-1,34,High-Res only
+PRJNA938922,SAMN33449793,GCA_049887415.1,2021,Asia,China,Egg,"I 1,4,[5],12:i:-",mcr-1,34,Hybrid
+PRJNA242847,SAMN48850949,GCA_050690825.1,2025,North America,USA,Chicken,Schwarzengrund,mcr-9,96,Baseline
+PRJEB23875,SAMEA104429347,GCA_900242465.1,2013,Europe,Italy,Human,"I 1,4,[5],12:i:-",mcr-9,34,Baseline
+PRJEB23875,SAMEA104429354,GCA_900242515.1,2013,Europe,Italy,Human,"I 1,4,[5],12:i:-",mcr-9,34,Baseline
+PRJEB41036,SAMEA8520468,GCA_907163175.1,2015,Oceania,Australia,Human,"I 1,4,[5],12:i:-",mcr-3,34,High-Res only
+PRJEB41036,SAMEA8520471,GCA_907163195.1,2012,Oceania,Australia,Human,Typhimurium,mcr-3,34,High-VF only
+PRJEB43385,SAMEA8159333,GCA_918593725.1,2016,Europe,Italy,Human,"I 1,4,[5],12:i:-",mcr-4,34,Baseline
+PRJEB43385,SAMEA8159334,GCA_918593735.1,2016,Europe,Italy,Human,"I 1,4,[5],12:i:-",mcr-4,34,Baseline
+PRJEB52344,SAMEA14093832,GCA_943066355.1,2004,Europe,France,Chicken,Virchow,mcr-9,16,High-Res only
+PRJEB52344,SAMEA14093867,GCA_943111575.1,2014,Europe,France,Chicken,Senftenberg,mcr-9,14,Baseline
