@@ -956,8 +956,8 @@ summary_lines = [
     ),
     "",
     (
-        "These remain sequence-supported candidate "
-        "Type II maintenance modules"
+        "These sequence-supported candidate "
+        "Type II maintenance modules."
     ),
     "",
     "STATUS: PASSED",

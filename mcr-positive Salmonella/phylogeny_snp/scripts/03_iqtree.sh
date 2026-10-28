@@ -10,6 +10,7 @@ IQTREE_BIN="${IQTREE_BIN:-iqtree}"
   -s "$ALIGNMENT" \
   -m K3Pu+ASC+R2 \
   -B 1000 \
+  -seed 12345 \
   -nt 3 \
   --prefix "$PREFIX" \
   > "${PREFIX}.log" 2>&1

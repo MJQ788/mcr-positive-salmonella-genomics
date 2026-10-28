@@ -165,7 +165,7 @@ china_c_h <- sum(china$Group == "Chicken_related" & china$Hybrid == 1L)
 stopifnot(china_h_n == 351L, china_h_h == 125L,
           china_c_n == 13L, china_c_h == 4L)
 
-summary <- data.frame(
+analysis_summary <- data.frame(
   Measure = c("All isolates: human Hybrid rate",
               "All isolates: chicken-related Hybrid rate",
               "All isolates: difference (pp)",
@@ -201,7 +201,7 @@ write.csv(regional_table, file.path(output_dir, "regional_counts.csv"),
           row.names = FALSE, fileEncoding = "UTF-8")
 write.csv(loo, file.path(output_dir, "leave_one_BioProject_out.csv"),
           row.names = FALSE, fileEncoding = "UTF-8")
-write.csv(summary, file.path(output_dir, "analysis_summary.csv"),
+write.csv(analysis_summary, file.path(output_dir, "analysis_summary.csv"),
           row.names = FALSE, fileEncoding = "UTF-8")
 writeLines(capture.output(sessionInfo()),
            file.path(output_dir, "R_session_info.txt"))

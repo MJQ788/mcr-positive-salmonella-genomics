@@ -395,7 +395,7 @@ summary_lines = [
     "",
     (
         "These are component-level homologs, "
-        "not validated complete TA systems."
+        "not complete TA systems."
     ),
     "",
     "STATUS: PASSED",

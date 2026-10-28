@@ -2,7 +2,7 @@
 import numpy as np
 import pandas as pd
 
-f = "panGWAS_full_pyseer_alltests.tsv"
+f = "../pyseer_results/panGWAS_full_pyseer.tsv"
 df = pd.read_csv(f, sep="\t", low_memory=False)
 
 df["notes_clean"] = df["notes"].fillna("none").replace("", "none")
